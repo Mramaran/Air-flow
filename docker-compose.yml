@@ -40,7 +40,7 @@ services:
     command: ["--host", "0.0.0.0", "--port", "8089"]
     working_dir: /opt/provider
     environment:
-      REPLAY_PROCESSING_SECONDS: "${REPLAY_PROCESSING_SECONDS:-6}"
+      REPLAY_PROCESSING_SECONDS: "${REPLAY_PROCESSING_SECONDS:-12}"
       REPLAY_SEARCHES_LEFT: "${REPLAY_SEARCHES_LEFT:-250}"
     ports:
       - "8089:8089"

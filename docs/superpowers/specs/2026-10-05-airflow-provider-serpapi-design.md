@@ -4,7 +4,7 @@
 - **Status:** design approved in chat, awaiting review of this written spec
 - **For:** SerpApi India Hackathon 2026, Track 2 (Open-Source Integrations)
 - **Deadline:** October 10, 2026 at 23:59 IST. Target submission time is 18:00 IST that day.
-- **Builder:** one builder working in a single Claude Code session. All work is sequential.
+- **Builder:** one builder working in a single session with an AI coding assistant. All work is sequential.
 - **Package name:** `airflow-provider-serpapi`. A community project, not an official SerpApi package. The README says so in its first lines.
 
 ## 1. Purpose

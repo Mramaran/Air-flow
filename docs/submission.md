@@ -50,7 +50,9 @@ No. It was designed on October 5, 2026 and built from October 9, 2026.
 
 ## AI tools used
 
-Claude Code (Anthropic) was used throughout: to compare candidate ideas, to check for existing projects, and to write the code, tests and documentation under the team's direction. No AI model is part of the product itself.
+*The form asks you to name the AI tools you used. Add the name here before you paste this. The rules say AI use does not affect judging.*
+
+An AI coding assistant was used throughout: to compare candidate ideas, to check for existing projects, and to write the code, tests and documentation under the team's direction. No AI model is part of the product itself.
 
 ## Before you select "Submit project"
 

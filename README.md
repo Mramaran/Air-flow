@@ -244,7 +244,7 @@ docs/              comparison, demo script, design spec and plan
 ## About this project
 
 - Designed on October 5 and built from October 9, 2026, during the hackathon. It did not exist before.
-- Built with an AI coding assistant (Claude Code), which wrote the code, tests and documentation under the team's direction. The design spec and the build plan are in `docs/superpowers/`.
+- Built with an AI coding assistant, which wrote the code, tests and documentation under the team's direction. The design spec and the build plan are in `docs/superpowers/`.
 - SerpApi is used for every piece of data the package handles: the search, search-archive and account endpoints.
 
 ## Licence

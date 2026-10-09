@@ -1,0 +1,30 @@
+# secrets: the SerpApi key lives here and must never be committed
+.env
+.env.*
+!.env.example
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# airflow run state
+logs/
+airflow.db
+airflow.cfg
+standalone_admin_password.txt
+simple_auth_manager_passwords.json.generated
+
+# misc
+.DS_Store
+Thumbs.db
+*.log
+
+# demo output
+data/

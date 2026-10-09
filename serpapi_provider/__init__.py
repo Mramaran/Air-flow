@@ -17,6 +17,17 @@ def get_provider_info() -> dict:
             {
                 "connection-type": "serpapi",
                 "hook-class-name": "serpapi_provider.hooks.serpapi.SerpApiHook",
+                "hook-name": "SerpApi",
+                # Airflow 3.2 and later read the connection form's layout from here.
+                # SerpApiHook.get_ui_field_behaviour() says the same for older versions.
+                "ui-field-behaviour": {
+                    "hidden-fields": ["port", "schema", "login", "extra"],
+                    "relabeling": {"password": "API key", "host": "Base URL (optional)"},
+                    "placeholders": {
+                        "host": "https://serpapi.com",
+                        "password": "Your SerpApi private key",
+                    },
+                },
             }
         ],
     }

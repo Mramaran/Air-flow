@@ -21,6 +21,8 @@ services:
       AIRFLOW__CORE__LOAD_EXAMPLES: "False"
       AIRFLOW__CORE__DAGS_FOLDER: /opt/provider/serpapi_provider/example_dags
       AIRFLOW__CORE__SIMPLE_AUTH_MANAGER_ALL_ADMINS: "True"
+      # Lets the connection form's Test button call SerpApi's free account endpoint.
+      AIRFLOW__CORE__TEST_CONNECTION: "Enabled"
       # Replay: any non-empty key works, and the base URL points at the replay server.
       AIRFLOW_CONN_SERPAPI_DEFAULT: '{"conn_type": "serpapi", "password": "replay-key", "host": "http://replay:8089"}'
       # Kept inside the container: SQLite locking is unreliable on a Windows bind mount.

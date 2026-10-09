@@ -1,0 +1,116 @@
+{
+  "_replay": true,
+  "_note": "Hand-built in the shape of a SerpApi Google Shopping response. Not real search data. The replay server fills in the query and shifts the prices.",
+  "search_metadata": {
+    "id": "replay",
+    "status": "Success",
+    "created_at": "2026-10-09 17:00:00 UTC",
+    "processed_at": "2026-10-09 17:00:02 UTC",
+    "total_time_taken": 2.1
+  },
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "{q}",
+    "gl": "in",
+    "hl": "en"
+  },
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "{q} (replay offer 1)",
+      "product_id": "replay-0001",
+      "product_link": "https://example.com/replay/offer-1",
+      "source": "Replay Store A",
+      "price": "₹52,990.00",
+      "extracted_price": 52990.0,
+      "old_price": "₹59,990.00",
+      "extracted_old_price": 59990.0,
+      "rating": 4.6,
+      "reviews": 1840,
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 2,
+      "title": "{q} (replay offer 2)",
+      "product_id": "replay-0002",
+      "product_link": "https://example.com/replay/offer-2",
+      "source": "Replay Store B",
+      "price": "₹51,499.00",
+      "extracted_price": 51499.0,
+      "rating": 4.4,
+      "reviews": 612,
+      "delivery": "Free delivery by tomorrow"
+    },
+    {
+      "position": 3,
+      "title": "{q} (replay offer 3)",
+      "product_id": "replay-0003",
+      "product_link": "https://example.com/replay/offer-3",
+      "source": "Replay Store C",
+      "price": "₹54,900.00",
+      "extracted_price": 54900.0,
+      "old_price": "₹64,900.00",
+      "extracted_old_price": 64900.0,
+      "rating": 4.7,
+      "reviews": 2301
+    },
+    {
+      "position": 4,
+      "title": "{q} (replay offer 4)",
+      "product_id": "replay-0004",
+      "product_link": "https://example.com/replay/offer-4",
+      "source": "Replay Store D",
+      "price": "₹49,999.00",
+      "extracted_price": 49999.0,
+      "rating": 4.1,
+      "reviews": 95,
+      "delivery": "₹99.00 delivery"
+    },
+    {
+      "position": 5,
+      "title": "{q} (replay offer 5)",
+      "product_id": "replay-0005",
+      "product_link": "https://example.com/replay/offer-5",
+      "source": "Replay Store E",
+      "price": "₹53,490.00",
+      "extracted_price": 53490.0,
+      "rating": 4.5,
+      "reviews": 430
+    },
+    {
+      "position": 6,
+      "title": "{q} (replay offer 6)",
+      "product_id": "replay-0006",
+      "product_link": "https://example.com/replay/offer-6",
+      "source": "Replay Store F",
+      "price": "₹55,000.00",
+      "extracted_price": 55000.0,
+      "old_price": "₹60,000.00",
+      "extracted_old_price": 60000.0,
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 7,
+      "title": "{q} (replay offer 7)",
+      "product_id": "replay-0007",
+      "product_link": "https://example.com/replay/offer-7",
+      "source": "Replay Store G",
+      "price": "₹52,000.00",
+      "extracted_price": 52000.0,
+      "rating": 3.9,
+      "reviews": 41
+    },
+    {
+      "position": 8,
+      "title": "{q} (replay offer 8)",
+      "product_id": "replay-0008",
+      "product_link": "https://example.com/replay/offer-8",
+      "source": "Replay Store H",
+      "price": "₹56,750.00",
+      "extracted_price": 56750.0,
+      "rating": 4.8,
+      "reviews": 77,
+      "delivery": "Free delivery"
+    }
+  ]
+}

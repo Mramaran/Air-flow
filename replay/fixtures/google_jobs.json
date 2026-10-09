@@ -1,0 +1,48 @@
+{
+  "_replay": true,
+  "_note": "Hand-built in the shape of a SerpApi Google Jobs response. Not real search data.",
+  "search_metadata": {
+    "id": "replay",
+    "status": "Success",
+    "created_at": "2026-10-09 17:00:00 UTC",
+    "processed_at": "2026-10-09 17:00:02 UTC"
+  },
+  "search_parameters": {
+    "engine": "google_jobs",
+    "q": "{q}",
+    "gl": "in",
+    "hl": "en"
+  },
+  "jobs_results": [
+    {
+      "title": "Data Engineer (replay)",
+      "company_name": "Replay Company A",
+      "location": "Chennai, Tamil Nadu",
+      "via": "Replay Jobs Board",
+      "job_id": "replay-job-0001",
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time",
+        "salary": "₹12L–₹18L a year"
+      }
+    },
+    {
+      "title": "Analytics Engineer (replay)",
+      "company_name": "Replay Company B",
+      "location": "Bengaluru, Karnataka",
+      "via": "Replay Careers",
+      "job_id": "replay-job-0002",
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "schedule_type": "Full-time"
+      }
+    },
+    {
+      "title": "Airflow Developer (replay)",
+      "company_name": "Replay Company C",
+      "location": "Anywhere",
+      "via": "Replay Jobs Board",
+      "job_id": "replay-job-0003"
+    }
+  ]
+}

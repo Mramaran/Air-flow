@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from datetime import datetime, timezone
 from typing import Any, Callable
+from urllib.parse import urlparse
 
 Row = dict[str, Any]
 
@@ -30,8 +31,53 @@ def _shopping(body: dict[str, Any]) -> list[Row]:
     return rows
 
 
+def _domain(link: Any) -> str | None:
+    if not isinstance(link, str):
+        return None
+    host = urlparse(link).netloc.lower()
+    return host.removeprefix("www.") or None
+
+
+def _organic(body: dict[str, Any]) -> list[Row]:
+    rows: list[Row] = []
+    for index, item in enumerate(body.get("organic_results") or [], start=1):
+        rows.append(
+            {
+                "position": item.get("position", index),
+                "title": item.get("title"),
+                "link": item.get("link"),
+                "domain": _domain(item.get("link")),
+                "displayed_link": item.get("displayed_link"),
+                "snippet": item.get("snippet"),
+                "date": item.get("date"),
+            }
+        )
+    return rows
+
+
+def _jobs(body: dict[str, Any]) -> list[Row]:
+    rows: list[Row] = []
+    for item in body.get("jobs_results") or []:
+        detected = item.get("detected_extensions") or {}
+        rows.append(
+            {
+                "job_id": item.get("job_id"),
+                "title": item.get("title"),
+                "company_name": item.get("company_name"),
+                "location": item.get("location"),
+                "via": item.get("via"),
+                "posted_at": detected.get("posted_at"),
+                "schedule_type": detected.get("schedule_type"),
+                "salary": detected.get("salary"),
+            }
+        )
+    return rows
+
+
 EXTRACTORS: dict[str, Callable[[dict[str, Any]], list[Row]]] = {
     "google_shopping": _shopping,
+    "google": _organic,
+    "google_jobs": _jobs,
 }
 
 

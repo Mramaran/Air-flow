@@ -79,4 +79,38 @@ def test_has_extractor():
     assert has_extractor("google_shopping")
     assert not has_extractor("google_flights")
     assert not has_extractor(None)
-    assert set(EXTRACTORS) >= {"google_shopping"}
+    assert set(EXTRACTORS) == {"google_shopping", "google", "google_jobs"}
+
+
+def fixture(name):
+    return json.loads((FIXTURE.parent / f"{name}.json").read_text(encoding="utf-8"))
+
+
+def test_google_search_gives_organic_rows_with_a_domain():
+    rows = extract_rows("google", fixture("google"), query="airflow serpapi")
+
+    assert len(rows) == 3
+    assert set(rows[0]) == {"position", "title", "link", "domain", "displayed_link", "snippet", "date"} | COMMON_COLUMNS
+    assert [row["domain"] for row in rows] == ["example.com", "docs.example.org", "example.net"]
+    assert rows[0]["date"] == "Oct 1, 2026"
+    assert rows[1]["date"] is None
+    assert rows[0]["query"] == "airflow serpapi"
+
+
+def test_google_search_tolerates_a_missing_link():
+    rows = extract_rows("google", {"organic_results": [{"title": "No link"}]})
+
+    assert rows[0]["link"] is None and rows[0]["domain"] is None
+    assert rows[0]["position"] == 1
+
+
+def test_google_jobs_flattens_the_detected_extensions():
+    rows = extract_rows("google_jobs", fixture("google_jobs"), query="data engineer")
+
+    assert len(rows) == 3
+    assert set(rows[0]) == {
+        "job_id", "title", "company_name", "location", "via", "posted_at", "schedule_type", "salary",
+    } | COMMON_COLUMNS
+    assert rows[0]["salary"] == "₹12L–₹18L a year"
+    assert rows[1]["salary"] is None
+    assert rows[2]["posted_at"] is None and rows[2]["schedule_type"] is None

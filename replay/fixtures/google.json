@@ -1,0 +1,40 @@
+{
+  "_replay": true,
+  "_note": "Hand-built in the shape of a SerpApi Google Search response. Not real search data.",
+  "search_metadata": {
+    "id": "replay",
+    "status": "Success",
+    "created_at": "2026-10-09 17:00:00 UTC",
+    "processed_at": "2026-10-09 17:00:02 UTC"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "{q}",
+    "gl": "in",
+    "hl": "en"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Replay result one",
+      "link": "https://www.example.com/replay/one",
+      "displayed_link": "https://www.example.com › replay › one",
+      "snippet": "First hand-built organic result for the replay server.",
+      "date": "Oct 1, 2026"
+    },
+    {
+      "position": 2,
+      "title": "Replay result two",
+      "link": "https://docs.example.org/replay/two",
+      "displayed_link": "https://docs.example.org › replay › two",
+      "snippet": "Second hand-built organic result for the replay server."
+    },
+    {
+      "position": 3,
+      "title": "Replay result three",
+      "link": "https://example.net/replay/three",
+      "displayed_link": "https://example.net › replay › three",
+      "snippet": "Third hand-built organic result for the replay server."
+    }
+  ]
+}

@@ -19,6 +19,8 @@ services:
       - "8080:8080"
     environment:
       AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      # The example pipelines only run when triggered by hand, so start them unpaused.
+      AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "False"
       AIRFLOW__CORE__DAGS_FOLDER: /opt/provider/serpapi_provider/example_dags
       AIRFLOW__CORE__SIMPLE_AUTH_MANAGER_ALL_ADMINS: "True"
       # Lets the connection form's Test button call SerpApi's free account endpoint.

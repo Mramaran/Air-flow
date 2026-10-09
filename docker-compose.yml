@@ -1,0 +1,44 @@
+# The default stack is the replay demo: it needs no SerpApi key and spends no searches.
+#
+#   docker compose up --build
+#
+# For live searches with your own key, add the live override:
+#
+#   docker compose -f docker-compose.yml -f docker-compose.live.yml up --build
+name: serpapi-airflow
+
+x-provider-build: &provider-build
+  context: .
+  dockerfile: docker/Dockerfile
+
+services:
+  airflow:
+    build: *provider-build
+    command: standalone
+    ports:
+      - "8080:8080"
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/provider/serpapi_provider/example_dags
+      AIRFLOW__CORE__SIMPLE_AUTH_MANAGER_ALL_ADMINS: "True"
+      # Replay: any non-empty key works, and the base URL points at the replay server.
+      AIRFLOW_CONN_SERPAPI_DEFAULT: '{"conn_type": "serpapi", "password": "replay-key", "host": "http://replay:8089"}'
+      # Kept inside the container: SQLite locking is unreliable on a Windows bind mount.
+      SERPAPI_DEMO_DB: /opt/airflow/serpapi_prices.db
+    volumes:
+      - .:/opt/provider
+    depends_on:
+      - replay
+
+  replay:
+    build: *provider-build
+    entrypoint: ["python", "-m", "replay.server"]
+    command: ["--host", "0.0.0.0", "--port", "8089"]
+    working_dir: /opt/provider
+    environment:
+      REPLAY_PROCESSING_SECONDS: "${REPLAY_PROCESSING_SECONDS:-6}"
+      REPLAY_SEARCHES_LEFT: "${REPLAY_SEARCHES_LEFT:-250}"
+    ports:
+      - "8089:8089"
+    volumes:
+      - .:/opt/provider

@@ -1,0 +1,8 @@
+# Live override: real searches against serpapi.com with the key in your .env file.
+# Copy .env.example to .env and paste the key there first. Every new search is counted.
+#
+#   docker compose -f docker-compose.yml -f docker-compose.live.yml up --build
+services:
+  airflow:
+    environment:
+      AIRFLOW_CONN_SERPAPI_DEFAULT: '{"conn_type": "serpapi", "password": "${SERPAPI_KEY:?Put SERPAPI_KEY in .env first}", "host": "https://serpapi.com"}'

@@ -1,0 +1,627 @@
+{
+ "_replay": true,
+ "_captured_at": "2026-10-09 17:41 UTC",
+ "search_metadata": {
+  "id": "6ac927090676dcb0d768295e",
+  "status": "Success",
+  "created_at": "2026-10-09 17:40:25 UTC",
+  "processed_at": "2026-10-09 17:40:25 UTC",
+  "total_time_taken": 2.25
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Philips air fryer 4.1L",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "Buy Refurbished Philips NA130 Air Fryer",
+   "product_id": "9931625403608399984",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:9931625403608399984,productid:4571373676836369898,headlineOfferDocid:2098837533252696955,imageDocid:18270302985836217691,rds:PC_5388382793289754729|PROD_PC_5388382793289754729,gpcid:5388382793289754729,mid:576462898572839025,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.com.sa",
+   "multiple_sources": true,
+   "price": "₹26,217.12",
+   "extracted_price": 26217.12,
+   "alternative_price": {
+    "price": "SAR 1,017",
+    "extracted_price": 1017,
+    "currency": "SAR"
+   },
+   "rating": 5.0,
+   "reviews": 1000,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 2,
+   "title": "1000 Series Airfryer 1000 series 6.2L NA130/00",
+   "product_id": "13982838220134505957",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=productid:13982838220134505957,headlineOfferDocid:13982838220134505957,imageDocid:2518062834543918951,rds:PC_14274176382387387497|PROD_PC_14274176382387387497,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.com.sa",
+   "price": "₹26,552.24",
+   "extracted_price": 26552.24,
+   "alternative_price": {
+    "price": "SAR 1,030",
+    "extracted_price": 1030,
+    "currency": "SAR"
+   },
+   "rating": 4.0,
+   "reviews": 569,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 3,
+   "title": "PHILIPS Essential Air Fryer HD9252/70 with Rapid Air Technology, uses up to 90% less fat, 7 Presets Touch Screen, 2L, 2000 W, Black",
+   "product_id": "15534852687555969513",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=productid:15534852687555969513,headlineOfferDocid:15534852687555969513,imageDocid:17079450377727316572,rds:PC_10064751982695484253|PROD_PC_10064751982695484253,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "simplyshopping.in",
+   "price": "₹10,890",
+   "extracted_price": 10890,
+   "rating": 5.0,
+   "reviews": 1000,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 4,
+   "title": "PHILIPS 3000 Series Airfryer HD9252 | Air Fryer in Dar Tanzania",
+   "product_id": "11467202705695265658",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=productid:11467202705695265658,headlineOfferDocid:11467202705695265658,imageDocid:5112878201776194314,rds:PC_10064751982695484253|PROD_PC_10064751982695484253,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Empire Online Shopping",
+   "price": "₹18,037.63",
+   "extracted_price": 18037.63,
+   "alternative_price": {
+    "price": "TZS 4,92,000",
+    "extracted_price": 492000,
+    "currency": "TZS"
+   },
+   "rating": 2.8,
+   "reviews": 855
+  },
+  {
+   "position": 5,
+   "title": "Philips Essential Air Fryer HD9252/70",
+   "product_id": "15148894741242813841",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=productid:15148894741242813841,headlineOfferDocid:15148894741242813841,imageDocid:220826072719069330,rds:PC_10064751982695484253|PROD_PC_10064751982695484253,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Giftmandu.com",
+   "price": "₹28,067.38",
+   "extracted_price": 28067.38,
+   "alternative_price": {
+    "price": "$290",
+    "extracted_price": 290,
+    "currency": "$"
+   },
+   "rating": 5.0,
+   "reviews": 1000
+  },
+  {
+   "position": 6,
+   "title": "Philips Digital 1400 Watt Air Fryer - HD9252/70",
+   "product_id": "9087843309345259917",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=productid:9087843309345259917,headlineOfferDocid:9087843309345259917,imageDocid:3963504641921882965,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "New Variety Store",
+   "price": "₹10,178",
+   "extracted_price": 10178,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 7,
+   "title": "Philips Essential Air Fryer HD9252/70 with Rapid Air Technology, uses up to 90% less fat, 7 Presets Touch Screen",
+   "product_id": "15045358652224228603",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=productid:15045358652224228603,headlineOfferDocid:15045358652224228603,imageDocid:13619468457132377684,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "cayroshop.com",
+   "price": "₹7,299",
+   "extracted_price": 7299,
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 8,
+   "title": "Philips Essential Air Fryer HD9252/70 with Rapid Air Technology, uses up to 90% less fat, 7 Presets Touch Screen",
+   "product_id": "1702704371937631006",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=productid:1702704371937631006,headlineOfferDocid:1702704371937631006,imageDocid:18130266813211923129,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "price": "₹21,136.42",
+   "extracted_price": 21136.42,
+   "alternative_price": {
+    "price": "AED 802",
+    "extracted_price": 802,
+    "currency": "AED"
+   },
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 9,
+   "title": "Philips Digital 4.1 Litre Airfryer with Rapid Air Technology - HD9252/70",
+   "product_id": "5463438386652388340",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=productid:5463438386652388340,headlineOfferDocid:5463438386652388340,imageDocid:1848787195889560547,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Elec Home: Power UP Your Life",
+   "price": "₹8,690",
+   "extracted_price": 8690
+  },
+  {
+   "position": 10,
+   "title": "PHILIPS HD9252/70 AIR FRYER 4.1L DIGI BLACK AIR FRYER | Elena",
+   "product_id": "2913169516031234500",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=productid:2913169516031234500,headlineOfferDocid:2913169516031234500,imageDocid:10701457591656550601,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "shopbyelena.in",
+   "price": "₹8,400",
+   "extracted_price": 8400
+  },
+  {
+   "position": 11,
+   "title": "Honeywell Air Touch V4 Air Purifier",
+   "product_id": "7933481248183057485",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:7933481248183057485,productid:1461743060006282003,headlineOfferDocid:8631916485540798978,imageDocid:10643559549067623701,rds:PC_7749956441273397680|PROD_PC_7749956441273397680,gpcid:7749956441273397680,mid:576462807120284251,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹10,700",
+   "extracted_price": 10700,
+   "old_price": "Usually ₹12,349",
+   "extracted_old_price": 12349,
+   "rating": 2.4,
+   "reviews": 3,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 12,
+   "title": "Philips BHS393/40 Straightener",
+   "product_id": "8773076449600966252",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:8773076449600966252,productid:15640100598768522602,headlineOfferDocid:9176746755835559864,imageDocid:16300870340686091083,rds:PC_5959635762591281302|PROD_PC_5959635762591281302,gpcid:5959635762591281302,mid:576462715215049387,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "addmecart",
+   "multiple_sources": true,
+   "price": "₹1,599",
+   "extracted_price": 1599,
+   "old_price": "Usually ₹1,999",
+   "extracted_old_price": 1999,
+   "rating": 3.2,
+   "reviews": 30,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 13,
+   "title": "Women Tiffany & Co TF4105HB 81343B 55 Sunglasses",
+   "product_id": "3242583962064037014",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:3242583962064037014,productid:4824728268644057270,headlineOfferDocid:16608485136931238536,imageDocid:5022946694826010210,rds:PC_3112591615863543077|PROD_PC_3112591615863543077,gpcid:11803910807623492903,mid:576462914938257273,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Sunglass Hut India",
+   "multiple_sources": true,
+   "price": "₹15,354",
+   "extracted_price": 15354,
+   "old_price": "₹25,590",
+   "extracted_old_price": 25590,
+   "rating": 3.8,
+   "reviews": 138,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 14,
+   "title": "Philips HL7759/00 Mixer Grinder",
+   "product_id": "7948650804780472007",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:7948650804780472007,productid:11237059084587489822,headlineOfferDocid:17903659057683664906,imageDocid:169654786052309186,rds:PC_3424220318615160215|PROD_PC_3424220318615160215,gpcid:3424220318615160215,mid:576462737803751391,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹3,699",
+   "extracted_price": 3699,
+   "old_price": "Usually ₹3,999",
+   "extracted_old_price": 3999,
+   "rating": 5.0,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 15,
+   "title": "Inalsa Tasty Fry Digital Air Fryer 4.2L-1400W",
+   "product_id": "11948401551222507833",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:11948401551222507833,productid:8467501319161812154,headlineOfferDocid:14093565004467173001,imageDocid:5937007597595244821,gpcid:3109865174558582113,mid:576462778008907446,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹2,999",
+   "extracted_price": 2999,
+   "old_price": "Was ₹3,990",
+   "extracted_old_price": 3990,
+   "tag": "24% OFF",
+   "extensions": [
+    "24% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 16,
+   "title": "Nike Downshifter 14 Men's Road Running Shoe",
+   "product_id": "4298334366161292410",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:4298334366161292410,productid:2813987305900316858,headlineOfferDocid:10719153614035955361,imageDocid:1268037542056589540,rds:PC_841971036656883915|PROD_PC_841971036656883915,gpcid:841971036656883915,mid:576462900883446407,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Nykaa Man",
+   "multiple_sources": true,
+   "price": "₹3,671",
+   "extracted_price": 3671,
+   "old_price": "₹4,895",
+   "extracted_old_price": 4895,
+   "rating": 5.0,
+   "reviews": 668,
+   "delivery": "Free delivery by Sun"
+  },
+  {
+   "position": 17,
+   "title": "Philips GC158/02 Dry Iron",
+   "product_id": "1772239345587348538",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:1772239345587348538,productid:4013681904695194891,headlineOfferDocid:13157713895373302369,imageDocid:8425881775389062470,rds:PC_13488507045971631606|PROD_PC_13488507045971631606,gpcid:13488507045971631606,mid:576462728238036424,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹1,145",
+   "extracted_price": 1145,
+   "old_price": "Usually ₹1,445",
+   "extracted_old_price": 1445,
+   "rating": 1.9,
+   "reviews": 8,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 18,
+   "title": "Buy Refurbished Philips HL7505 Mixer Grinder 500W with 3 Jars",
+   "product_id": "4191218730452754368",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:4191218730452754368,productid:9226874460464656650,headlineOfferDocid:4664143779738547385,imageDocid:6710242495303465539,gpcid:4543061437441872563,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹1,999",
+   "extracted_price": 1999,
+   "old_price": "37% off₹3,195",
+   "extracted_old_price": 37,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 19,
+   "title": "Nike Air Max Torch 4 Men's",
+   "product_id": "11341633415022472830",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:11341633415022472830,productid:139113593715441018,headlineOfferDocid:17020948531616542552,imageDocid:17206162294677984369,rds:PC_7177814979141672910|PROD_PC_7177814979141672910,gpcid:7177814979141672910,mid:576462783718717531,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹3,748",
+   "extracted_price": 3748,
+   "old_price": "50% off₹7,495",
+   "extracted_old_price": 50,
+   "rating": 4.2,
+   "reviews": 3400,
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 20,
+   "title": "Kent Ultra Digital Air Fryer 4l 1300w Fry, Grill, Roast & Bake Digital Display & Touch Control Panel Rapid Heating 80% Less Oil Usage High Temperature",
+   "product_id": "13215937976386807289",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=productid:13215937976386807289,headlineOfferDocid:13215937976386807289,imageDocid:2026192642673504065,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Shopsy By Flipkart",
+   "price": "₹2,809",
+   "extracted_price": 2809,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 21,
+   "title": "Philipp Plein SPP042M 700F",
+   "product_id": "14678985477194790516",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:14678985477194790516,productid:17073964937981830553,headlineOfferDocid:1782154316136429372,imageDocid:13650810762245448263,gpcid:1799151713116655204,mid:576462898006832744,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Lawrence & Mayo",
+   "multiple_sources": true,
+   "price": "₹43,800",
+   "extracted_price": 43800,
+   "old_price": "Usually ₹47,610",
+   "extracted_old_price": 47610,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 22,
+   "title": "PHILIPP PLEIN OCTAGON WATCH",
+   "product_id": "1499891453922517716",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:1499891453922517716,productid:11152852767837544542,headlineOfferDocid:4385571578417303390,imageDocid:7199256407826380068,gpcid:4601041525176115551,mid:576462802053674241,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "darveys.com",
+   "multiple_sources": true,
+   "price": "₹56,990",
+   "extracted_price": 56990,
+   "old_price": "₹61,990",
+   "extracted_old_price": 61990,
+   "tag": "8% OFF",
+   "extensions": [
+    "8% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 23,
+   "title": "Philips Avance Collection 750 Watt 4 Jars Mixer Grinder",
+   "product_id": "2582055539785323480",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:2582055539785323480,productid:3804540470156787632,headlineOfferDocid:5139945233670663496,imageDocid:7737733767877123238,rds:PC_18049507120695465251|PROD_PC_18049507120695465251,gpcid:18049507120695465251,mid:576462814673431477,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Ysvara Lifestyle",
+   "multiple_sources": true,
+   "price": "₹6,599",
+   "extracted_price": 6599,
+   "old_price": "Usually ₹7,299",
+   "extracted_old_price": 7299,
+   "rating": 5.0,
+   "reviews": 127,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 24,
+   "title": "Philips Daily Collection HL7505/00 500 W Mixer Grinder",
+   "product_id": "3017570034033395454",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:3017570034033395454,productid:15772032248131189382,headlineOfferDocid:13412198709821370801,imageDocid:491226997056879218,gpcid:12720543533608217271,mid:576462842949128104,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹1,999",
+   "extracted_price": 1999,
+   "old_price": "₹3,195",
+   "extracted_old_price": 3195,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 25,
+   "title": "Tiffany & Co Intense Eau de Parfum",
+   "product_id": "10657691045243533713",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:10657691045243533713,productid:7055880143710437275,headlineOfferDocid:2021416494250782759,imageDocid:17004486531893461191,rds:PC_12581429566634577143|PROD_PC_12581429566634577143,gpcid:12581429566634577143,mid:576462850413214365,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Zeus Kicks",
+   "multiple_sources": true,
+   "price": "₹7,238",
+   "extracted_price": 7238,
+   "old_price": "Usually ₹9,400",
+   "extracted_old_price": 9400,
+   "rating": 2.5,
+   "reviews": 1000,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 26,
+   "title": "Tiffany & Co Tiffany & Love for Her Eau de Parfum",
+   "product_id": "4906814185175532675",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:4906814185175532675,productid:13912826489156125013,headlineOfferDocid:10998290119001078127,imageDocid:10794532132948089899,rds:PC_2431748053808435186|PROD_PC_2431748053808435186,gpcid:2431748053808435186,mid:576462745647917350,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Zeus Kicks",
+   "multiple_sources": true,
+   "price": "₹7,238",
+   "extracted_price": 7238,
+   "old_price": "Usually ₹9,400",
+   "extracted_old_price": 9400,
+   "rating": 3.3,
+   "reviews": 2600,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 27,
+   "title": "Men's Puma Deviate NITRO 4 Running Shoes",
+   "product_id": "1815583965527842262",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:1815583965527842262,productid:7129466718269024807,headlineOfferDocid:7947590205042417565,imageDocid:18211456638731291600,rds:PC_8251463221751862810|PROD_PC_8251463221751862810,gpcid:8251463221751862810,mid:576462896323877554,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "TATA CLiQ LUXURY",
+   "multiple_sources": true,
+   "price": "₹16,999",
+   "extracted_price": 16999,
+   "rating": 3.9,
+   "reviews": 300
+  },
+  {
+   "position": 28,
+   "title": "Philips Respironics DreamStation Auto CPAP",
+   "product_id": "16891188706931691010",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:16891188706931691010,productid:4969440026155225831,headlineOfferDocid:11123310395473728034,imageDocid:16351203321555363265,rds:PC_44078592207357205|PROD_PC_44078592207357205,gpcid:44078592207357205,mid:576462840190180801,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹32,000",
+   "extracted_price": 32000,
+   "old_price": "Usually ₹39,900",
+   "extracted_old_price": 39900,
+   "rating": 5.0,
+   "reviews": 168,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 29,
+   "title": "Philipp plein pwpfa0624",
+   "product_id": "4961518663458753426",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:4961518663458753426,productid:11663849795215711006,headlineOfferDocid:17658105768788169433,imageDocid:12516241975615981182,gpcid:13755510553534302422,mid:576462888171543129,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "TATA CLiQ LUXURY",
+   "multiple_sources": true,
+   "price": "₹47,695",
+   "extracted_price": 47695
+  },
+  {
+   "position": 30,
+   "title": "Men's Daily 4.0 Sneakers",
+   "product_id": "10899880338958621694",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=productid:10899880338958621694,headlineOfferDocid:10899880338958621694,imageDocid:16437144925529274667,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹8,252",
+   "extracted_price": 8252,
+   "old_price": "Was ₹10,821",
+   "extracted_old_price": 10821,
+   "tag": "23% OFF",
+   "extensions": [
+    "23% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 31,
+   "title": "Philipp plein chrono royal sport-tech pwlfa0325",
+   "product_id": "11957137729917240530",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:11957137729917240530,productid:3886325546878954562,headlineOfferDocid:3378283275775195251,imageDocid:8262612125361532856,gpcid:17420088459119218849,mid:576462913541549564,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "TATA CLiQ LUXURY",
+   "multiple_sources": true,
+   "price": "₹34,795",
+   "extracted_price": 34795
+  },
+  {
+   "position": 32,
+   "title": "Nutricook Essential 4.5L Air Fryer 2026 New Launch",
+   "product_id": "5097846671798011347",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:5097846671798011347,productid:10987185378288315557,headlineOfferDocid:1602040175546777615,imageDocid:7472659444374588685,gpcid:10885452331000222676,mid:576462887682577367,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹4,299",
+   "extracted_price": 4299,
+   "old_price": "Usually ₹4,996",
+   "extracted_old_price": 4996,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 33,
+   "title": "Philips HP8144/46 Hair Dryer",
+   "product_id": "1260989738232745061",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:1260989738232745061,productid:14496689152037342725,headlineOfferDocid:3889386859433511354,imageDocid:4232724643408929663,rds:PC_4675478193650652410|PROD_PC_4675478193650652410,gpcid:4675478193650652410,mid:576462896358796289,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹629",
+   "extracted_price": 629,
+   "old_price": "45% off₹1,149",
+   "extracted_old_price": 45,
+   "rating": 4.9,
+   "reviews": 723,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 34,
+   "title": "Morphy Richards 52RCD Digi 52L Oven Toaster Grill",
+   "product_id": "13692347059132046394",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:13692347059132046394,productid:17839231223880662225,headlineOfferDocid:13657322334434853509,imageDocid:14251914491797796332,gpcid:14068635189243355200,mid:576462769837218369,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Neverowned India",
+   "multiple_sources": true,
+   "price": "₹7,999",
+   "extracted_price": 7999,
+   "old_price": "Usually ₹13,999",
+   "extracted_old_price": 13999,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 35,
+   "title": "Philipp plein sport urban pulse psfda0824",
+   "product_id": "11629242224308579301",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:11629242224308579301,productid:15859335854902692795,headlineOfferDocid:4580426520574203998,imageDocid:8363443106552783799,gpcid:17925268954755532526,mid:576462892694660549,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "TicTacArea",
+   "multiple_sources": true,
+   "price": "₹14,201.85",
+   "extracted_price": 14201.85,
+   "old_price": "Was ₹23,666",
+   "extracted_old_price": 23666,
+   "tag": "39% OFF",
+   "extensions": [
+    "39% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 36,
+   "title": "Wonderchef Black Platinum Digital Air Fryer - 4.5 L(Onesize)by Myntra",
+   "product_id": "2394136791042834237",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=productid:2394136791042834237,headlineOfferDocid:2394136791042834237,imageDocid:11957526406478020733,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Myntra",
+   "price": "₹3,899",
+   "extracted_price": 3899,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 37,
+   "title": "Morphy Richards OTG Besta Oven Toaster Grill",
+   "product_id": "1259574153278228835",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:1259574153278228835,productid:15600870300950884454,headlineOfferDocid:11075068087505748637,imageDocid:3307491696949191846,gpcid:2099675356625931170,mid:576462860401133059,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tulsi Kitchen Appliances",
+   "multiple_sources": true,
+   "price": "₹10,100",
+   "extracted_price": 10100,
+   "old_price": "Usually ₹13,689",
+   "extracted_old_price": 13689,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 38,
+   "title": "Lifelong Air Fryer 1350W 4.2L",
+   "product_id": "10254683444499376587",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:10254683444499376587,productid:7091084264353716359,headlineOfferDocid:8847136666558268357,imageDocid:12373621283075212981,gpcid:8789515325790439157,mid:576462756748099985,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "bigbasket.com",
+   "multiple_sources": true,
+   "price": "₹1,998",
+   "extracted_price": 1998,
+   "old_price": "Was ₹2,599",
+   "extracted_old_price": 2599,
+   "tag": "23% OFF",
+   "extensions": [
+    "23% OFF"
+   ],
+   "delivery": "Free next-day delivery"
+  },
+  {
+   "position": 39,
+   "title": "Men's Puma Deviate NITRO 4 Running Shoes",
+   "product_id": "1815583965527842262",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:1815583965527842262,productid:7129466718269024807,headlineOfferDocid:3387858148301486866,imageDocid:18211456638731291600,rds:PC_8251463221751862810|PROD_PC_8251463221751862810,gpcid:8251463221751862810,mid:576462896323877554,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cettire",
+   "multiple_sources": true,
+   "price": "₹14,619.74",
+   "extracted_price": 14619.74,
+   "old_price": "Usually ₹16,999",
+   "extracted_old_price": 16999,
+   "rating": 3.9,
+   "reviews": 300,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 40,
+   "title": "Men Puma F1 Trinity 2.0 Sneakers",
+   "product_id": "3853790855994009920",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Philips air fryer 4.1L&prds=catalogid:3853790855994009920,productid:16556906904560855073,headlineOfferDocid:13539263173539448469,imageDocid:13035277782702477068,rds:PC_903776072281724513|PROD_PC_903776072281724513,gpcid:903776072281724513,mid:576462567059377074,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Myntra",
+   "multiple_sources": true,
+   "price": "₹2,969",
+   "extracted_price": 2969,
+   "old_price": "Usually ₹3,329",
+   "extracted_old_price": 3329,
+   "rating": 2.5,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Wed"
+  }
+ ]
+}

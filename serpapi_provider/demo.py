@@ -9,6 +9,7 @@ from __future__ import annotations
 import os
 import sqlite3
 from pathlib import Path
+from statistics import median
 
 PRODUCTS = [
     "iPhone 16 128GB",
@@ -71,20 +72,30 @@ def save_rows(rows: list[dict], run_date: str, db_path: str = DB_PATH) -> int:
     return len(rows)
 
 
-def lowest_prices(run_date: str, db_path: str = DB_PATH) -> list[tuple]:
-    """(query, lowest price, seller, title) per product for one day's snapshot."""
+def price_spread(run_date: str, db_path: str = DB_PATH) -> list[dict]:
+    """Offers, lowest, median and highest price per query for one day's snapshot.
+
+    This describes what Google Shopping returned for each query. Real results mix
+    in accessories, refurbished units and other models, so the lowest figure is
+    often not the product you named. Matching offers to one exact product is a
+    separate job that this example does not attempt.
+    """
     with sqlite3.connect(db_path) as db:
-        return db.execute(
-            """
-            SELECT p.query, p.extracted_price, p.source, p.title
-            FROM prices p
-            JOIN (
-                SELECT query, MIN(extracted_price) AS lowest
-                FROM prices WHERE run_date = ? AND extracted_price IS NOT NULL GROUP BY query
-            ) m ON m.query = p.query AND m.lowest = p.extracted_price
-            WHERE p.run_date = ?
-            GROUP BY p.query
-            ORDER BY p.query
-            """,
-            (run_date, run_date),
+        rows = db.execute(
+            "SELECT query, extracted_price FROM prices "
+            "WHERE run_date = ? AND extracted_price IS NOT NULL ORDER BY query",
+            (run_date,),
         ).fetchall()
+    by_query: dict[str, list[float]] = {}
+    for query, price in rows:
+        by_query.setdefault(query, []).append(float(price))
+    return [
+        {
+            "query": query,
+            "offers": len(prices),
+            "lowest": min(prices),
+            "median": float(median(prices)),
+            "highest": max(prices),
+        }
+        for query, prices in sorted(by_query.items())
+    ]

@@ -41,12 +41,12 @@ def test_the_example_dags_import_cleanly_with_the_expected_tasks():
     bag = DagBag(dag_folder=str(EXAMPLES))
 
     assert bag.import_errors == {}
-    assert set(bag.dags["price_tracker"].task_ids) == {"fetch_prices", "load_prices", "report_lowest_prices"}
+    assert set(bag.dags["price_tracker"].task_ids) == {"fetch_prices", "load_prices", "report_price_spread"}
     assert set(bag.dags["quota_guard_demo"].task_ids) == {"fetch_prices_refused"}
 
 
 def test_the_price_table_upserts_one_snapshot_per_day(tmp_path):
-    from serpapi_provider.demo import lowest_prices, save_rows
+    from serpapi_provider.demo import price_spread, save_rows
 
     db = str(tmp_path / "prices.db")
     rows = [
@@ -59,9 +59,9 @@ def test_the_price_table_upserts_one_snapshot_per_day(tmp_path):
     assert save_rows(rows, "2026-10-10", db) == 3
     save_rows(rows, "2026-10-11", db)
 
-    assert lowest_prices("2026-10-10", db) == [
-        ("phone", 900.0, "Shop C", "Phone"),
-        ("tv", 450.0, "Shop B", "TV B"),
+    assert price_spread("2026-10-10", db) == [
+        {"query": "phone", "offers": 1, "lowest": 900.0, "median": 900.0, "highest": 900.0},
+        {"query": "tv", "offers": 2, "lowest": 450.0, "median": 475.0, "highest": 500.0},
     ]
     import sqlite3
 

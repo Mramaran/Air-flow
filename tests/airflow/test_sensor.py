@@ -104,7 +104,7 @@ def test_an_engine_with_no_extractor_is_refused(replay):
         sensor(threshold=1, search={"engine": "google_flights", "q": "x"}).poke({})
 
 
-@pytest.mark.parametrize("bad", [{"direction": "sideways"}, {"aggregate": "median"}])
+@pytest.mark.parametrize("bad", [{"direction": "sideways"}, {"aggregate": "mode"}])
 def test_bad_options_are_refused_when_the_sensor_is_built(bad):
     with pytest.raises(ValueError):
         sensor(threshold=1, **bad)

@@ -1,0 +1,600 @@
+{
+ "_replay": true,
+ "_captured_at": "2026-10-09 17:41 UTC",
+ "search_metadata": {
+  "id": "6ac927066561a693041645e9",
+  "status": "Success",
+  "created_at": "2026-10-09 17:40:22 UTC",
+  "processed_at": "2026-10-09 17:40:22 UTC",
+  "total_time_taken": 9.63
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "HP Pavilion 15 laptop",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "HP 15-fd0682TU | Intel Core 5 120U, 16GB RAM, 512GB SSD, Win 11",
+   "product_id": "8354293051107370230",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=productid:8354293051107370230,headlineOfferDocid:8354293051107370230,imageDocid:9745304476477238702,rds:PC_16698902379935815478|PROD_PC_16698902379935815478,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Meetel Computer's & Coated Paper Co.",
+   "price": "₹71,500",
+   "extracted_price": 71500,
+   "rating": 5.0,
+   "reviews": 48
+  },
+  {
+   "position": 2,
+   "title": "HP 15-fd0682TU | Intel Core 5 120U, 16GB RAM, 512GB SSD, Win 11",
+   "product_id": "16371069150524867562",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=productid:16371069150524867562,headlineOfferDocid:16371069150524867562,imageDocid:17075470723303421496,rds:PC_16698902379935815478|PROD_PC_16698902379935815478,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Meetel Computer's & Coated Paper Co.",
+   "price": "₹70,400",
+   "extracted_price": 70400,
+   "rating": 5.0,
+   "reviews": 48
+  },
+  {
+   "position": 3,
+   "title": "HP 15 AMD Ryzen Core",
+   "product_id": "13162238610759155629",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:13162238610759155629,productid:12878777435142500069,headlineOfferDocid:15012782720488790323,imageDocid:18329184981665149989,rds:PC_4212129359394751485|PROD_PC_4212129359394751485,gpcid:3963963876162762299,mid:576462896365388190,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹52,780",
+   "extracted_price": 52780,
+   "rating": 3.5,
+   "reviews": 22,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 4,
+   "title": "Hp 15 I5 14th Gen Intel Core 5 120u - 16 Gb/512 Gb Ssd/Windows 11 Home 15-fd0640tu Thin And Light Laptop",
+   "product_id": "14466027926395198214",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=productid:14466027926395198214,headlineOfferDocid:14466027926395198214,imageDocid:16330771738929083466,rds:PC_7030405128377605943|PROD_PC_7030405128377605943,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Shopsy By Flipkart",
+   "price": "₹79,890",
+   "extracted_price": 79890,
+   "rating": 3.3,
+   "reviews": 90,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 5,
+   "title": "Hp 15 I5 14th Gen Intel Core 5 120u - 16 Gb/512 Gb Ssd/Windows 11 Home 15-fd0640tu Thin And Light Laptop",
+   "product_id": "7486523886171469211",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=productid:7486523886171469211,headlineOfferDocid:7486523886171469211,imageDocid:16330771738929083466,rds:PC_7030405128377605943|PROD_PC_7030405128377605943,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹79,990",
+   "extracted_price": 79990,
+   "old_price": "11% off₹89,999",
+   "extracted_old_price": 11,
+   "rating": 3.3,
+   "reviews": 90,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 6,
+   "title": "Hp 15 I5 14th Gen Intel Core 5 120u - 16 Gb/512 Gb Ssd/Windows 11 Home 15-fd0640tu Thin And Light Laptop",
+   "product_id": "7697688624201684242",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=productid:7697688624201684242,headlineOfferDocid:7697688624201684242,imageDocid:16330771738929083466,rds:PC_7030405128377605943|PROD_PC_7030405128377605943,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹85,890",
+   "extracted_price": 85890,
+   "old_price": "5% off₹89,990",
+   "extracted_old_price": 5,
+   "rating": 3.3,
+   "reviews": 90,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 7,
+   "title": "Hp 15 I5 14th Gen Intel Core 5 120u - 16 Gb/512 Gb Ssd/Windows 11 Home 15-fd0640tu Thin And Light Laptop",
+   "product_id": "7626887045542816478",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=productid:7626887045542816478,headlineOfferDocid:7626887045542816478,imageDocid:16330771738929083466,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Shopsy By Flipkart",
+   "price": "₹79,300",
+   "extracted_price": 79300,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 8,
+   "title": "Hp 15 I5 14th Gen Intel Core 5 120u - 16 Gb/512 Gb Ssd/Windows 11 Home 15-fd0640tu Thin And Light Laptop",
+   "product_id": "11783338405170946710",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=productid:11783338405170946710,headlineOfferDocid:11783338405170946710,imageDocid:16330771738929083466,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹79,300",
+   "extracted_price": 79300,
+   "old_price": "8% off₹85,990",
+   "extracted_old_price": 8,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 9,
+   "title": "HP Laptop 15-fc0805AU",
+   "product_id": "18413533249629001159",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=productid:18413533249629001159,headlineOfferDocid:18413533249629001159,imageDocid:9981161982149322977,rds:PC_13434030136025593251|PROD_PC_13434030136025593251,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "yourshoppy.com",
+   "price": "₹71,451",
+   "extracted_price": 71451,
+   "rating": 5.0,
+   "reviews": 61,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 10,
+   "title": "HP 15 Intel Core i3-1315U-13th Gen Laptop Anti-Glare",
+   "product_id": "4102280399149855307",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:4102280399149855307,productid:270913841275466491,headlineOfferDocid:8388176372555197456,imageDocid:9138909240928037809,gpcid:16297294140987743901,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹54,710",
+   "extracted_price": 54710,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 11,
+   "title": "HP Pavilion 15-dk1520tx Intel Core i5 10th Gen / 8GB RAM / 512 Gb Ssd with GTX 1650 4GB Graphics Gaming Laptop",
+   "product_id": "7454904408975070339",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:7454904408975070339,productid:16936839757498678969,headlineOfferDocid:17792815325136570007,imageDocid:14510015640771998270,gpcid:7394213545140931011,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "GameLoot",
+   "multiple_sources": true,
+   "price": "₹29,000",
+   "extracted_price": 29000
+  },
+  {
+   "position": 12,
+   "title": "HP Professional 15 (2026) – Intel Core 5-120U, 16GB RAM, 512GB SSD, 15.6\" FHD Anti-Glare, Win 11 Pro + MS Office 2024, Backlit +Fingerprint/FHD,",
+   "product_id": "10998384830211051393",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=productid:10998384830211051393,headlineOfferDocid:10998384830211051393,imageDocid:1394739213553564240,rds:PC_7030405128377605943|PROD_PC_7030405128377605943,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "price": "₹71,890",
+   "extracted_price": 71890,
+   "rating": 2.4,
+   "reviews": 1,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 13,
+   "title": "HP Pavilion Intel Core I5 12th Gen 1240p 16 Gb/512 Gb Ssd/Windows 11 Home 15-eg2091tu Thin And Light Laptop",
+   "product_id": "9463285845848590564",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:9463285845848590564,productid:5172831071302297746,headlineOfferDocid:15707978464644646799,imageDocid:6989903840712140928,gpcid:10766178919046466319,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹85,056",
+   "extracted_price": 85056,
+   "old_price": "14% off₹98,999",
+   "extracted_old_price": 14,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 14,
+   "title": "HP 15-fc0533AU AMD Ryzen 7 Thin & Light Laptop",
+   "product_id": "1291999008239854011",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:1291999008239854011,productid:13247853708335476081,headlineOfferDocid:9963380727439913515,imageDocid:8326926971825762316,rds:PC_8978795230335396518|PROD_PC_8978795230335396518,gpcid:8978795230335396518,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹82,990",
+   "extracted_price": 82990,
+   "rating": 5.0,
+   "reviews": 28,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 15,
+   "title": "HP 15-fd1284TU Intel Core 3 Thin & Light Laptop",
+   "product_id": "9254411258415040816",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:9254411258415040816,productid:16812161670890954073,headlineOfferDocid:16308736224750536708,imageDocid:6974417086972017108,rds:PC_9064289635544416578|PROD_PC_9064289635544416578,gpcid:9064289635544416578,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "price": "₹46,999",
+   "extracted_price": 46999,
+   "rating": 2.0,
+   "reviews": 64,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 16,
+   "title": "HP Newest 15.6\" Full HD (1920 x 1080) Laptop, 20GB RAM, 1TB SSD Storage, Intel Core i5-1135G7 Processor up to 4.2GHz, Long Battery Life, HD Camera,",
+   "product_id": "16545318879719873812",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:16545318879719873812,productid:7729255715534635694,headlineOfferDocid:12010599739720016716,imageDocid:10658602950889898028,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹58,275",
+   "extracted_price": 58275
+  },
+  {
+   "position": 17,
+   "title": "HP Victus 39.6 cm Gaming Laptop",
+   "product_id": "3773211799069236120",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:3773211799069236120,productid:9559443521875910180,headlineOfferDocid:5144650822034835823,imageDocid:15616915567226244228,gpcid:3609954362610976476,mid:576462826457081448,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "BazarGPT",
+   "multiple_sources": true,
+   "price": "₹63,900",
+   "extracted_price": 63900,
+   "old_price": "Usually ₹79,000",
+   "extracted_old_price": 79000,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 18,
+   "title": "Hp Victus 15 Intel Core I5 13th Gen 13420h 16 Gb/512 Gb Ssd/Windows 11 Home/6 Gb Graphics/Nvidia Geforce Rtx 3050 15-fa1327tx Gaming Laptop",
+   "product_id": "6128823170721876824",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:6128823170721876824,productid:2048346851344489958,headlineOfferDocid:10240818900539831481,imageDocid:13932839634167029924,gpcid:4109516084877074810,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹72,999",
+   "extracted_price": 72999,
+   "old_price": "21% off₹92,110",
+   "extracted_old_price": 21,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 19,
+   "title": "HP 15 Laptop Intel i7-1355U 32 GB DDR4 RAM 1 TB PCIe SSD",
+   "product_id": "4641854079926150607",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:4641854079926150607,productid:970074995745970811,headlineOfferDocid:13302343984034379810,imageDocid:10931766927135662657,gpcid:17773734425892213,mid:576462898011881236,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹99,581",
+   "extracted_price": 99581,
+   "old_price": "Was ₹1,65,530",
+   "extracted_old_price": 165530,
+   "tag": "39% OFF",
+   "extensions": [
+    "39% OFF"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "HP Laptop 15-hr0008TU",
+   "product_id": "11851965516072109645",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:11851965516072109645,productid:13080037192530588271,headlineOfferDocid:8628718530148250676,imageDocid:327612752161339870,rds:PC_12184362322939613136|PROD_PC_12184362322939613136,gpcid:12184362322939613136,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹68,990",
+   "extracted_price": 68990,
+   "old_price": "Usually ₹79,990",
+   "extracted_old_price": 79990,
+   "rating": 4.8,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 21,
+   "title": "Dell AMD Ryzen 5 220 - 16 Gb/512 Gb Ssd/Windows 11 Home/6 Gb Graphics/Nvidia GeForce RTX 3050/165 Hz Can15265cto01mino Gaming Laptop",
+   "product_id": "8956493348268320179",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:8956493348268320179,productid:9155140369225891973,headlineOfferDocid:10586339676078192579,imageDocid:6026757699150464949,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹1,09,990",
+   "extracted_price": 109990,
+   "old_price": "Usually ₹1,57,889",
+   "extracted_old_price": 157889,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 22,
+   "title": "HP 15 Ci7-13620H 13th Gen Laptop Anti-Glare Micro-Edge",
+   "product_id": "12487893720774344788",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:12487893720774344788,productid:5303562744822123193,headlineOfferDocid:990468889210250146,imageDocid:5476797154029069577,gpcid:6572172258602022928,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹62,999",
+   "extracted_price": 62999,
+   "old_price": "Usually ₹99,900",
+   "extracted_old_price": 99900,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 23,
+   "title": "HP 15-fd0061TU Intel Core i3 12th Gen 1215u",
+   "product_id": "2461490353064995246",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:2461490353064995246,productid:14401602621298483768,headlineOfferDocid:14078392329100560544,imageDocid:9032867103624420615,gpcid:14505786374570045319,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "JioMart",
+   "multiple_sources": true,
+   "price": "₹31,990",
+   "extracted_price": 31990,
+   "old_price": "Usually ₹37,249",
+   "extracted_old_price": 37249,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 24,
+   "title": "HP Windows 11 Pro 15 FHD Business Laptop Computer,11th Gen Intel Core i5-1135G7",
+   "product_id": "18060518918204180731",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:18060518918204180731,productid:4003579953644248672,headlineOfferDocid:1767573995962152896,imageDocid:13478284525534126512,rds:PC_4301933040816694154|PROD_PC_4301933040816694154,gpcid:4301933040816694154,mid:576462895405023788,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹72,919",
+   "extracted_price": 72919,
+   "old_price": "Usually ₹82,948",
+   "extracted_old_price": 82948,
+   "rating": 3.5,
+   "reviews": 36,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 25,
+   "title": "Lenovo IdeaPad Slim 3 15IRU8 Intel Core i3 13th Gen Thin & Light Laptop",
+   "product_id": "9212341785788507070",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:9212341785788507070,productid:1400040582588832411,headlineOfferDocid:3462240206055583511,imageDocid:8170692876035724306,gpcid:5205154514170151502,mid:576462567093953274,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Reliance Digital",
+   "multiple_sources": true,
+   "price": "₹61,990",
+   "extracted_price": 61990,
+   "old_price": "12% off₹70,499",
+   "extracted_old_price": 12,
+   "delivery": "Free delivery by Sun"
+  },
+  {
+   "position": 26,
+   "title": "Apple MacBook Air",
+   "product_id": "10893100058388339061",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:10893100058388339061,productid:17040750859092283468,headlineOfferDocid:18322713883766618025,imageDocid:14531739801401541681,rds:PC_5383435682118214789|PROD_PC_5383435682118214789,gpcid:5383435682118214789,mid:576462883325356260,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹1,84,900",
+   "extracted_price": 184900,
+   "old_price": "Usually ₹2,19,999",
+   "extracted_old_price": 219999,
+   "rating": 4.3,
+   "reviews": 1900,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 27,
+   "title": "HP Laptop 15s AMD Ryzen 3 3250U",
+   "product_id": "9498907380406437205",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:9498907380406437205,productid:6536779834496673361,headlineOfferDocid:5663277004073679362,imageDocid:14740870017071002968,gpcid:10915074864229813842,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹42,999",
+   "extracted_price": 42999,
+   "old_price": "Usually ₹51,990",
+   "extracted_old_price": 51990,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 28,
+   "title": "HP 15 7 Core",
+   "product_id": "13379706343732591622",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:13379706343732591622,productid:2040273383268053353,headlineOfferDocid:785809301491643063,imageDocid:14434593105754269616,gpcid:13849941799740527527,mid:576462898595336685,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹50,990",
+   "extracted_price": 50990,
+   "old_price": "9% off₹55,899",
+   "extracted_old_price": 9,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 29,
+   "title": "ASUS Vivobook 15,Intel Core 3 100U,Intel iGPU 8GB/512GB",
+   "product_id": "16791550125076193082",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:16791550125076193082,productid:6070407373096100059,headlineOfferDocid:11878424042975922728,imageDocid:13413853089704396452,gpcid:621311700930581380,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "buybestlaptops.com",
+   "multiple_sources": true,
+   "price": "₹44,449",
+   "extracted_price": 44449,
+   "old_price": "Usually ₹56,490",
+   "extracted_old_price": 56490,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 30,
+   "title": "Lenovo V15 Gen 4 82yucto1wwin1",
+   "product_id": "776209743947482995",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:776209743947482995,productid:11844921922871910670,headlineOfferDocid:10060706930548807369,imageDocid:16912267050480883158,rds:PC_9284209490906535967|PROD_PC_9284209490906535967,gpcid:9284209490906535967,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "popularcomputer.in",
+   "multiple_sources": true,
+   "price": "₹48,990",
+   "extracted_price": 48990,
+   "old_price": "Usually ₹74,118",
+   "extracted_old_price": 74118,
+   "rating": 1.3,
+   "reviews": 23,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 31,
+   "title": "Apple MacBook Air",
+   "product_id": "10893100058388339061",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:10893100058388339061,productid:17040750859092283468,headlineOfferDocid:4956312141749018880,imageDocid:14531739801401541681,rds:PC_5383435682118214789|PROD_PC_5383435682118214789,gpcid:5383435682118214789,mid:576462883325356260,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹1,84,900",
+   "extracted_price": 184900,
+   "old_price": "Usually ₹2,19,999",
+   "extracted_old_price": 219999,
+   "rating": 4.3,
+   "reviews": 1900,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 32,
+   "title": "2023 est 156 FHD Screen Laptop Quad Core Intel i51135G7 Beat i71065G7Upto 42GHz Iris Xe Graphics 16GB RAM 1TB SSD HD Webcam WiFi 6 9 Hours",
+   "product_id": "8061360929241990160",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:8061360929241990160,productid:6968294971207380701,headlineOfferDocid:14562247712159763760,imageDocid:17191829736491764898,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹86,120",
+   "extracted_price": 86120,
+   "old_price": "₹93,020",
+   "extracted_old_price": 93020
+  },
+  {
+   "position": 33,
+   "title": "HP 15.6\" FHD Touchscreen Laptop 2025 13th Generation Intel Core i5-1334U 32GB DDR4 Memory 1TB PCIe SSD Laptop Computer Work Business College Student",
+   "product_id": "11858836963792219253",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:11858836963792219253,productid:7962943691070150875,headlineOfferDocid:8719282495471567639,imageDocid:6387945080798424009,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹71,267",
+   "extracted_price": 71267
+  },
+  {
+   "position": 34,
+   "title": "Lenovo V15 G4, AMD Ryzen 3 7320U Quad Core",
+   "product_id": "10950275467322923688",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:10950275467322923688,productid:12937703540873412100,headlineOfferDocid:17208635108061692739,imageDocid:12459064004818458954,gpcid:8188680166352061364,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "LowestRate Shopping",
+   "multiple_sources": true,
+   "price": "₹29,900",
+   "extracted_price": 29900,
+   "old_price": "Usually ₹46,490",
+   "extracted_old_price": 46490,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 35,
+   "title": "HP 2025 Touchscreen Laptop Intel i3-1315U 32 GB RAM 1 TB SSD",
+   "product_id": "6781052912005869071",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:6781052912005869071,productid:11011817621479607190,headlineOfferDocid:4332798321892116440,imageDocid:9639310994629913193,gpcid:7226722414606576245,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹76,487",
+   "extracted_price": 76487,
+   "old_price": "Usually ₹1,20,483",
+   "extracted_old_price": 120483,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 36,
+   "title": "HP 250 G9 Laptop 15.6 inch HD Display",
+   "product_id": "2228764845707600717",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:2228764845707600717,productid:374917953545112113,headlineOfferDocid:17759991659554947209,imageDocid:380733170009655881,rds:PC_10256694531214770529|PROD_PC_10256694531214770529,gpcid:10256694531214770529,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹50,932",
+   "extracted_price": 50932,
+   "old_price": "14% off₹59,250",
+   "extracted_old_price": 14,
+   "rating": 5.0,
+   "reviews": 1,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 37,
+   "title": "ASUS Vivobook 15 Light Weight Laptop 12th Gen Intel Core i5",
+   "product_id": "3544790645226266971",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:3544790645226266971,productid:108234323505238618,headlineOfferDocid:912251569852884943,imageDocid:349523650092849811,rds:PC_17706603917085326719|PROD_PC_17706603917085326719,gpcid:17706603917085326719,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "HiLaptop.com",
+   "multiple_sources": true,
+   "price": "₹43,790",
+   "extracted_price": 43790,
+   "old_price": "Usually ₹65,900",
+   "extracted_old_price": 65900,
+   "rating": 4.8,
+   "reviews": 95,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 38,
+   "title": "Lenovo Legion 5 15ahp10 AMD Ryzen 7 Gaming Laptop",
+   "product_id": "16179823083029046828",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:16179823083029046828,productid:7944087394793472334,headlineOfferDocid:7177201322974024211,imageDocid:7823253269423400823,rds:PC_1987798970627855076|PROD_PC_1987798970627855076,gpcid:1987798970627855076,mid:576462896333643766,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹1,46,490",
+   "extracted_price": 146490,
+   "old_price": "Usually ₹1,83,966",
+   "extracted_old_price": 183966,
+   "rating": 3.7,
+   "reviews": 87,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 39,
+   "title": "Lenovo IdeaPad Slim 3 Laptop 83k",
+   "product_id": "17766079916129848992",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:17766079916129848992,productid:12789077965155045966,headlineOfferDocid:16681990094136503427,imageDocid:333320651317534162,gpcid:12426094640316893428,mid:576462563903433676,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹70,990",
+   "extracted_price": 70990,
+   "old_price": "Usually ₹77,990",
+   "extracted_old_price": 77990,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 40,
+   "title": "HP Victus 15-fa1279TX Gaming Laptop",
+   "product_id": "8670672898416920584",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=HP Pavilion 15 laptop&prds=catalogid:8670672898416920584,productid:15293693785447864679,headlineOfferDocid:14762814000184376656,imageDocid:6486505698748334729,rds:PC_5341551324338239235|PROD_PC_5341551324338239235,gpcid:5341551324338239235,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹71,499",
+   "extracted_price": 71499,
+   "old_price": "Usually ₹1,12,690",
+   "extracted_old_price": 112690,
+   "rating": 4.0,
+   "reviews": 96,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  }
+ ]
+}

@@ -20,13 +20,17 @@ from serpapi_provider.core.quota import QuotaStatus
 from serpapi_provider.demo import PRODUCTS, shopping_searches
 
 KEEP_METADATA = ("id", "status", "created_at", "processed_at", "total_time_taken")
-DROP_KEYS = {"thumbnail", "thumbnails", "serpapi_thumbnail", "serpapi_thumbnails", "serpapi_link", "serpapi_product_api"}
+DROP_KEYS = {"thumbnail", "thumbnails", "source_icon"}
+
+
+def dropped(key: str) -> bool:
+    """Inline images, SerpApi follow-up links and paging tokens: large, and not needed for replay."""
+    return key in DROP_KEYS or key.startswith("serpapi_") or key.endswith("_token")
 
 
 def strip(value):
-    """Drop inline images and SerpApi follow-up links. They are large and not needed for replay."""
     if isinstance(value, dict):
-        return {key: strip(item) for key, item in value.items() if key not in DROP_KEYS}
+        return {key: strip(item) for key, item in value.items() if not dropped(key)}
     if isinstance(value, list):
         return [strip(item) for item in value]
     return value

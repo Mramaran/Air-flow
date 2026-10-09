@@ -37,6 +37,8 @@ Every piece of data the package handles comes from SerpApi. It uses three endpoi
 - the Search Archive API, to collect the results of asynchronous searches;
 - the Account API, for the quota guard and the connection test.
 
+It was run against the real SerpApi on October 9, 2026 on a free plan: one batch of 20 Google Shopping searches was submitted in asynchronous mode, the task deferred, and 786 rows came back. The measurements are in `docs/async-check.md`.
+
 ## Links
 
 - Repository: *paste the GitHub URL*

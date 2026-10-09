@@ -1,8 +1,9 @@
 """
 ### Price drop alert (example)
 
-Waits until the lowest Google Shopping price for one product **crosses below** a
-threshold, then runs a downstream task.
+Waits until the median Google Shopping price for one query **crosses below** a
+threshold, then runs a downstream task. It watches the median because real results
+mix in accessories and other models, which makes the lowest price meaningless.
 
 The sensor remembers the previous check, so it fires on the crossing and not on
 every run where the price happens to be low. It checks at most once an hour,
@@ -24,7 +25,7 @@ from airflow.sdk import DAG, task
 from serpapi_provider.sensors.threshold import SerpApiThresholdSensor
 
 PRODUCT = "iPhone 16 128GB"
-THRESHOLD_RUPEES = 60_000
+THRESHOLD_RUPEES = 80_000
 
 with DAG(
     dag_id="price_drop_alert",
@@ -38,7 +39,7 @@ with DAG(
         task_id="wait_for_price_drop",
         search={"engine": "google_shopping", "q": PRODUCT, "gl": "in", "hl": "en"},
         field="extracted_price",
-        aggregate="min",
+        aggregate="median",
         threshold=THRESHOLD_RUPEES,
         direction="below",
         fire_on_first_check=True,
@@ -48,6 +49,6 @@ with DAG(
 
     @task
     def send_alert() -> None:
-        print(f"Price alert: {PRODUCT} is now listed below ₹{THRESHOLD_RUPEES:,}.")
+        print(f"Price alert: the median offer for {PRODUCT!r} has fallen below ₹{THRESHOLD_RUPEES:,}.")
 
     price_drops >> send_alert()

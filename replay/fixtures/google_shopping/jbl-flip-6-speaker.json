@@ -1,0 +1,464 @@
+{
+ "_replay": true,
+ "_captured_at": "2026-10-09 17:41 UTC",
+ "search_metadata": {
+  "id": "6ac9270897c19f2d58dab5b1",
+  "status": "Success",
+  "created_at": "2026-10-09 17:40:24 UTC",
+  "processed_at": "2026-10-09 17:40:24 UTC",
+  "total_time_taken": 2.63
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "JBL Flip 6 speaker",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "JBL Flip 6 Case",
+   "product_id": "6755934969571223525",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:6755934969571223525,productid:8276252938428612672,headlineOfferDocid:5952452433609831238,imageDocid:6250270268457071080,rds:PC_319459666873536862|PROD_PC_319459666873536862,gpcid:319459666873536862,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "GetUSCart",
+   "multiple_sources": true,
+   "price": "₹14,306.66",
+   "extracted_price": 14306.66,
+   "rating": 5.0,
+   "reviews": 1
+  },
+  {
+   "position": 2,
+   "title": "JBL Flip 6 Bluetooth Portable Waterproof Speaker(Blue)",
+   "product_id": "4558799611616511454",
+   "multiple_sources": true,
+   "price": "₹13,000+",
+   "extracted_price": 13000,
+   "rating": 3.4,
+   "reviews": 12000
+  },
+  {
+   "position": 3,
+   "title": "JBL Flip 6 Bluetooth Speakers - Black",
+   "product_id": "13185546341944810984",
+   "multiple_sources": true,
+   "price": "$100+",
+   "extracted_price": 100,
+   "rating": 5.0,
+   "reviews": 12000
+  },
+  {
+   "position": 4,
+   "title": "JBL Flip 6 Portable Speaker, Pro Sound, 12Hrs Playtime (Squad)",
+   "product_id": "13050557647971843413",
+   "multiple_sources": true,
+   "price": "₹13,000+",
+   "extracted_price": 13000,
+   "rating": 2.6,
+   "reviews": 12000
+  },
+  {
+   "position": 5,
+   "title": "JBL Charge 6",
+   "product_id": "5398148470588141642",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:5398148470588141642,productid:2524426032542989591,headlineOfferDocid:16669290795506342489,imageDocid:5204706269052983530,gpcid:6351990024142345680,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹29,305",
+   "extracted_price": 29305,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 6,
+   "title": "Charge 6 - Portable Bluetooth Speaker - Black Bundle with X-Halo Hardcase - Black",
+   "product_id": "9207109363471259254",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=productid:9207109363471259254,headlineOfferDocid:9207109363471259254,imageDocid:9362821005375543563,rds:PC_15482138542404132431|PROD_PC_15482138542404132431,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹30,766",
+   "extracted_price": 30766,
+   "rating": 5.0,
+   "reviews": 8900,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 7,
+   "title": "co2CREA Speaker Mount + JBL Flip 6 Speaker Silicone Case",
+   "product_id": "10074128115498250370",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=productid:10074128115498250370,headlineOfferDocid:10074128115498250370,imageDocid:10619848154875346745,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹4,139",
+   "extracted_price": 4139
+  },
+  {
+   "position": 8,
+   "title": "JBL Charge 6",
+   "product_id": "6113074146049693324",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:6113074146049693324,productid:5050748023275546993,headlineOfferDocid:11185611529505756414,imageDocid:17085435611114125582,gpcid:12978088513048351656,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹19,211",
+   "extracted_price": 19211
+  },
+  {
+   "position": 9,
+   "title": "JBL Charge 6",
+   "product_id": "6113074146049693324",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:6113074146049693324,productid:5050748023275546993,headlineOfferDocid:17392259651515634161,imageDocid:17085435611114125582,gpcid:12978088513048351656,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹70,711",
+   "extracted_price": 70711,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 10,
+   "title": "Charge 6 - Portable Bluetooth Speaker - White Bundle with X-Halo Hardcase - Black",
+   "product_id": "6341358304885475625",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=productid:6341358304885475625,headlineOfferDocid:6341358304885475625,imageDocid:13628668056893444388,rds:PC_15482138542404132431|PROD_PC_15482138542404132431,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹31,858",
+   "extracted_price": 31858,
+   "rating": 4.1,
+   "reviews": 9000,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 11,
+   "title": "Charge 6 Portable Bluetooth Speaker IP68 Waterproof, DustProof, and DropProof",
+   "product_id": "8885105893348512666",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:8885105893348512666,productid:6700312626813867066,headlineOfferDocid:4378369416831635631,imageDocid:193669609410347790,gpcid:17826428914770049276,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "price": "₹44,406",
+   "extracted_price": 44406
+  },
+  {
+   "position": 12,
+   "title": "JBL Charge 6",
+   "product_id": "6113074146049693324",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:6113074146049693324,productid:5050748023275546993,headlineOfferDocid:16440733157364973577,imageDocid:17085435611114125582,gpcid:12978088513048351656,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹28,822",
+   "extracted_price": 28822,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 13,
+   "title": "JBL Charge 6 + Bundle with divvi! Protective Hardshell Case",
+   "product_id": "171701741037301502",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:171701741037301502,productid:8841890337507627245,headlineOfferDocid:10293149016565350496,imageDocid:18303498883961656691,rds:PC_14346761690463790739|PROD_PC_14346761690463790739,gpcid:6438635513863167594,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹25,456",
+   "extracted_price": 25456,
+   "rating": 5.0,
+   "reviews": 20
+  },
+  {
+   "position": 14,
+   "title": "Jbl Charge 6 Bluetooth Speaker Bundle with Hard Case",
+   "product_id": "3410951552799109251",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:3410951552799109251,productid:17334663481149149433,headlineOfferDocid:2319362654655688440,imageDocid:14288596219812823506,gpcid:5106764596663988804,mid:576462912464922547,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹29,351",
+   "extracted_price": 29351,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 15,
+   "title": "JBL Charge 6 Portable Bluetooth Speaker IP68 Waterproof, DustProof, and DropProof",
+   "product_id": "8781247700640638494",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:8781247700640638494,productid:7457541215565210718,headlineOfferDocid:6882636438729646617,imageDocid:5212141389272401014,gpcid:4624777113397814380,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹32,163",
+   "extracted_price": 32163,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 16,
+   "title": "JBL Charge 6 + Bundle with divvi! Protective Hardshell Case",
+   "product_id": "2090406574822470388",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:2090406574822470388,productid:15977539369090296727,headlineOfferDocid:12805455036516737338,imageDocid:6604527424993539195,gpcid:14346761690463790739,mid:576462566251165997,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹30,616",
+   "extracted_price": 30616,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 17,
+   "title": "JBL Charge 6 45W Portable Bluetooth Speaker",
+   "product_id": "16346532550938728317",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:16346532550938728317,productid:6523642973938379307,headlineOfferDocid:12324039610210815587,imageDocid:9997593606139574378,rds:PC_15482138542404132431|PROD_PC_15482138542404132431,gpcid:785149108530866506,mid:576462914944261857,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Reliance Digital",
+   "multiple_sources": true,
+   "price": "₹21,999",
+   "extracted_price": 21999,
+   "rating": 3.5,
+   "reviews": 9100,
+   "delivery": "Free delivery by Sun"
+  },
+  {
+   "position": 18,
+   "title": "Swiftbuy Flip 6 Wireless Portable Bluetooth Speaker Pro Sound",
+   "product_id": "3482538330634847041",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:3482538330634847041,productid:1797683737447640092,headlineOfferDocid:4919492447693022649,imageDocid:11305925901816976503,gpcid:15724832955785580737,mid:576462568256652543,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹3,686",
+   "extracted_price": 3686,
+   "old_price": "63% off₹9,999",
+   "extracted_old_price": 63,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 19,
+   "title": "JBL Charge 6 + Bundle with USB-C Braided Cable",
+   "product_id": "18060676622225490475",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:18060676622225490475,productid:15892108136825580685,headlineOfferDocid:12776443066400945857,imageDocid:13529242570780717905,gpcid:1461137940286027588,mid:576462563264030883,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹39,702",
+   "extracted_price": 39702,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 20,
+   "title": "Jbl Flip 6 V2 Cs",
+   "product_id": "4367726719755239381",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=productid:4367726719755239381,headlineOfferDocid:4367726719755239381,imageDocid:16636605912873521569,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "price": "₹7,168.46",
+   "extracted_price": 7168.46,
+   "alternative_price": {
+    "price": "AED 272",
+    "extracted_price": 272,
+    "currency": "AED"
+   },
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 21,
+   "title": "JBL Charge 6 Red Bundle with divvi! Protective Hardshell Case Black",
+   "product_id": "2386700415072744888",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:2386700415072744888,productid:15984738208352125087,headlineOfferDocid:15930481114038246165,imageDocid:537952885880464262,rds:PC_14346761690463790739|PROD_PC_14346761690463790739,gpcid:16365680344159835411,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹19,211",
+   "extracted_price": 19211,
+   "rating": 5.0,
+   "reviews": 1
+  },
+  {
+   "position": 22,
+   "title": "JBL Charge 6 + Bundle with USB-C Braided Cable",
+   "product_id": "18060676622225490475",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:18060676622225490475,productid:15892108136825580685,headlineOfferDocid:10300759704123511541,imageDocid:13529242570780717905,gpcid:1461137940286027588,mid:576462563264030883,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹70,813",
+   "extracted_price": 70813,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 23,
+   "title": "Wireless Bluetooth Speaker for Samsung Galaxy Z Flip6 Boost Bass DJ Sound Portable Party Home Audio Line in TV Supported USB FM AUX Connectivity IPX6",
+   "product_id": "17698397959767994136",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=productid:17698397959767994136,headlineOfferDocid:17698397959767994136,imageDocid:13179092213208064198,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "price": "₹999",
+   "extracted_price": 999
+  },
+  {
+   "position": 24,
+   "title": "JBL Charge 6",
+   "product_id": "6113074146049693324",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:6113074146049693324,productid:5050748023275546993,headlineOfferDocid:16990700577638413835,imageDocid:17085435611114125582,gpcid:12978088513048351656,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹79,000",
+   "extracted_price": 79000,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 25,
+   "title": "Wireless Bluetooth Speaker for Samsung Galaxy Z Flip6 Boost Bass DJ Sound Portable Party Home Audio Line in TV Supported USB FM AUX Connectivity IPX6",
+   "product_id": "14273615801753431483",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=productid:14273615801753431483,headlineOfferDocid:14273615801753431483,imageDocid:13179092213208064198,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "price": "₹999",
+   "extracted_price": 999
+  },
+  {
+   "position": 26,
+   "title": "JBL Charge 6 + Bundle with divvi! Protective Hardshell Case",
+   "product_id": "2090406574822470388",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:2090406574822470388,productid:15977539369090296727,headlineOfferDocid:16826950676432228238,imageDocid:6604527424993539195,gpcid:14346761690463790739,mid:576462566251165997,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "shoptheworld.in",
+   "multiple_sources": true,
+   "price": "₹19,960",
+   "extracted_price": 19960,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 27,
+   "title": "JBL Charge 6",
+   "product_id": "6113074146049693324",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:6113074146049693324,productid:5050748023275546993,headlineOfferDocid:14395131677359143362,imageDocid:17085435611114125582,gpcid:12978088513048351656,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹30,209",
+   "extracted_price": 30209,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 28,
+   "title": "JBL Charge 6 Portable Bluetooth Speaker, IP68 Waterproof, DustProof and DropProof, Outdoor Wireless Audio, 28 Hrs Playtime (Blue)",
+   "product_id": "11105062696759268376",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=productid:11105062696759268376,headlineOfferDocid:11105062696759268376,imageDocid:11295421602179899436,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "JioMart Electronics",
+   "price": "₹21,999",
+   "extracted_price": 21999,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 29,
+   "title": "JBL फ्लिप 6, पिंक (गुलाबी) - वाटरप्रूफ, पोर्टेबल और टिकाऊ ब्लूटूथ स्पीकर - 12 घंटे तक की वायरलेस स्ट्रीमिंग - इसमें शोर-रद्द करने वाला स्पीकरफोन, वॉयस",
+   "product_id": "10043724044473152516",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=productid:10043724044473152516,headlineOfferDocid:10043724044473152516,imageDocid:1929641768290184097,rds:PC_6491925242212131740|PROD_PC_6491925242212131740,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "price": "₹24,472",
+   "extracted_price": 24472,
+   "rating": 5.0,
+   "reviews": 12000
+  },
+  {
+   "position": 30,
+   "title": "JBL Charge 6 + Bundle with USB-C Braided Cable",
+   "product_id": "18060676622225490475",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:18060676622225490475,productid:15892108136825580685,headlineOfferDocid:12097919192667792538,imageDocid:13529242570780717905,gpcid:1461137940286027588,mid:576462563264030883,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹43,159",
+   "extracted_price": 43159
+  },
+  {
+   "position": 31,
+   "title": "JBL Charge 6 Waterproof Portable Speaker Bundle with gSport Carbon Fiber Case",
+   "product_id": "7315485875023502666",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:7315485875023502666,productid:12185194571623970044,headlineOfferDocid:18119640752102085651,imageDocid:17957202605960345887,rds:PC_11906052352882075678|PROD_PC_11906052352882075678,gpcid:11906052352882075678,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹29,820",
+   "extracted_price": 29820,
+   "rating": 5.0,
+   "reviews": 64,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 32,
+   "title": "Signature Series Accessory Bundle for JBL Flip 6 Portable Bluetooth Speaker | Includes Signature Series Shockproof EVA Hard Case with Wall and Car Plu",
+   "product_id": "7969227932390121906",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=productid:7969227932390121906,headlineOfferDocid:7969227932390121906,imageDocid:1248100173539866965,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹3,743",
+   "extracted_price": 3743,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 33,
+   "title": "JBL Pulse 6",
+   "product_id": "4649858123506370365",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:4649858123506370365,productid:17858833464334506146,headlineOfferDocid:14015012245368077357,imageDocid:4644447731536048824,gpcid:899551320732448588,mid:576462568015969860,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹63,048",
+   "extracted_price": 63048,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 34,
+   "title": "JBL Charge 6 + Bundle with divvi! Protective Hardshell Case",
+   "product_id": "2090406574822470388",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:2090406574822470388,productid:15977539369090296727,headlineOfferDocid:3838275599245970325,imageDocid:6604527424993539195,gpcid:14346761690463790739,mid:576462566251165997,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "shoptheworld.in",
+   "multiple_sources": true,
+   "price": "₹19,960",
+   "extracted_price": 19960,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 35,
+   "title": "JBL Charge 6 Waterproof Portable Speaker Bundle with gSport Carbon Fiber Case",
+   "product_id": "7315485875023502666",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:7315485875023502666,productid:12185194571623970044,headlineOfferDocid:669652118933922228,imageDocid:17957202605960345887,rds:PC_11906052352882075678|PROD_PC_11906052352882075678,gpcid:11906052352882075678,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹28,998",
+   "extracted_price": 28998,
+   "rating": 5.0,
+   "reviews": 64,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 36,
+   "title": "JBL Charge 6 + Bundle with USB-C Braided Cable",
+   "product_id": "18060676622225490475",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:18060676622225490475,productid:15892108136825580685,headlineOfferDocid:10283110122826384980,imageDocid:13529242570780717905,gpcid:1461137940286027588,mid:576462563264030883,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹19,059",
+   "extracted_price": 19059
+  },
+  {
+   "position": 37,
+   "title": "Wireless Bluetooth Speaker for Samsung Galaxy Z Flip6 Ultra Boost Bass DJ Sound Portable Home Speaker Audio Line in TV Supported USB FM AUX Cable",
+   "product_id": "3307678255383894355",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=productid:3307678255383894355,headlineOfferDocid:3307678255383894355,imageDocid:10580960652443617958,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "price": "₹999",
+   "extracted_price": 999
+  },
+  {
+   "position": 38,
+   "title": "JBL Charge 6 + Bundle with USB-C Braided Cable",
+   "product_id": "18060676622225490475",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:18060676622225490475,productid:15892108136825580685,headlineOfferDocid:17964107337091664355,imageDocid:13529242570780717905,gpcid:1461137940286027588,mid:576462563264030883,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹30,557",
+   "extracted_price": 30557,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 39,
+   "title": "JBL Charge 6 Waterproof Portable Speaker Bundle with gSport Carbon Fiber Case",
+   "product_id": "7315485875023502666",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:7315485875023502666,productid:12185194571623970044,headlineOfferDocid:13155837542230466098,imageDocid:17957202605960345887,rds:PC_11906052352882075678|PROD_PC_11906052352882075678,gpcid:11906052352882075678,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "shoptheworld.in",
+   "multiple_sources": true,
+   "price": "₹19,027",
+   "extracted_price": 19027,
+   "rating": 5.0,
+   "reviews": 64,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 40,
+   "title": "JBL Charge 6 Portable Bluetooth Speaker Powerbank Auracast",
+   "product_id": "14846523482380346917",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=JBL Flip 6 speaker&prds=catalogid:14846523482380346917,productid:15215379692755468707,headlineOfferDocid:13557562702621699747,imageDocid:11779030956285854893,rds:PC_6206976894932995928|PROD_PC_6206976894932995928,gpcid:4091903387650720809,mid:576462913757938908,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "A-pictures",
+   "multiple_sources": true,
+   "price": "₹16,396.84",
+   "extracted_price": 16396.84,
+   "alternative_price": {
+    "price": "LKR 56,000",
+    "extracted_price": 56000,
+    "currency": "LKR"
+   },
+   "rating": 5.0,
+   "reviews": 1200
+  }
+ ]
+}

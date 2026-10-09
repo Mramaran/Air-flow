@@ -1,0 +1,496 @@
+{
+ "_replay": true,
+ "_captured_at": "2026-10-09 17:41 UTC",
+ "search_metadata": {
+  "id": "6ac92707bde9795de2d638ba",
+  "status": "Success",
+  "created_at": "2026-10-09 17:40:23 UTC",
+  "processed_at": "2026-10-09 17:40:23 UTC",
+  "total_time_taken": 2.6
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Apple AirPods Pro 2",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "- AirPods Max 2 Wireless Headphones - Blue w/ AppleCare+ (2 years)",
+   "product_id": "12755061242423019675",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:12755061242423019675,headlineOfferDocid:12755061242423019675,imageDocid:5205500266538082298,rds:PC_11587709459108997520|PROD_PC_11587709459108997520,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "price": "₹68,601.12",
+   "extracted_price": 68601.12,
+   "alternative_price": {
+    "price": "AED 2,603",
+    "extracted_price": 2603,
+    "currency": "AED"
+   },
+   "rating": 3.9,
+   "reviews": 1100,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 2,
+   "title": "AirPods Max 2 Wireless Headphones - Starlight w/ AppleCare+ (2 years)",
+   "product_id": "4250098916644399077",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:4250098916644399077,headlineOfferDocid:4250098916644399077,imageDocid:14309666894668358118,rds:PC_11587709459108997520|PROD_PC_11587709459108997520,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.com.sa",
+   "price": "₹83,832.90",
+   "extracted_price": 83832.9,
+   "alternative_price": {
+    "price": "SAR 3,252",
+    "extracted_price": 3252,
+    "currency": "SAR"
+   },
+   "rating": 4.0,
+   "reviews": 1100,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 3,
+   "title": "Apple AirPods Max 2 - Hot Hues",
+   "product_id": "261823183314795919",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:261823183314795919,headlineOfferDocid:261823183314795919,imageDocid:11192999462936294433,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Fox My Box",
+   "price": "₹1,07,295",
+   "extracted_price": 107295,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 4,
+   "title": "AirPods Max 2 Wireless Headphones - Midnight w/ AppleCare+ (2 years)",
+   "product_id": "2692412808932559154",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:2692412808932559154,headlineOfferDocid:2692412808932559154,imageDocid:6418662955389328124,rds:PC_11587709459108997520|PROD_PC_11587709459108997520,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹88,629",
+   "extracted_price": 88629,
+   "rating": 4.5,
+   "reviews": 1200,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 5,
+   "title": "Apple AirPods Max 2",
+   "product_id": "16221469865173921982",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:16221469865173921982,productid:8513655748383023044,headlineOfferDocid:18422277367187987515,imageDocid:11381652783341646521,rds:PC_11587709459108997520|PROD_PC_11587709459108997520,gpcid:11587709459108997520,mid:576462871290781216,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "e2zSTORE",
+   "price": "₹66,900",
+   "extracted_price": 66900,
+   "rating": 5.0,
+   "reviews": 1200,
+   "delivery": "Free delivery by Sun"
+  },
+  {
+   "position": 6,
+   "title": "Apple AirPods Max 2",
+   "product_id": "16221469865173921982",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:16221469865173921982,productid:8513655748383023044,headlineOfferDocid:11943110991690731840,imageDocid:11381652783341646521,rds:PC_11587709459108997520|PROD_PC_11587709459108997520,gpcid:11587709459108997520,mid:576462871290781216,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Microless.com",
+   "multiple_sources": true,
+   "price": "₹56,216.06",
+   "extracted_price": 56216.06,
+   "alternative_price": {
+    "price": "$581",
+    "extracted_price": 581,
+    "currency": "$"
+   },
+   "rating": 5.0,
+   "reviews": 1200
+  },
+  {
+   "position": 7,
+   "title": "AirPods Max 2 Wireless Headphones - Orange w/ AppleCare+ (2 years)",
+   "product_id": "1353812620737904585",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:1353812620737904585,headlineOfferDocid:1353812620737904585,imageDocid:18231215141961907169,rds:PC_11587709459108997520|PROD_PC_11587709459108997520,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.com.sa",
+   "price": "₹81,925.26",
+   "extracted_price": 81925.26,
+   "alternative_price": {
+    "price": "SAR 3,178",
+    "extracted_price": 3178,
+    "currency": "SAR"
+   },
+   "rating": 4.7,
+   "reviews": 1200,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 8,
+   "title": "Apple AirPods Max 2",
+   "product_id": "16221469865173921982",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:16221469865173921982,productid:8513655748383023044,headlineOfferDocid:2653102589559717657,imageDocid:11381652783341646521,rds:PC_11587709459108997520|PROD_PC_11587709459108997520,gpcid:11587709459108997520,mid:576462871290781216,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "price": "₹1,10,294.16",
+   "extracted_price": 110294.16,
+   "alternative_price": {
+    "price": "AED 4,185",
+    "extracted_price": 4185,
+    "currency": "AED"
+   },
+   "rating": 5.0,
+   "reviews": 1200,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 9,
+   "title": "AirPods Max 2 Wireless Headphones - Orange w/ AppleCare+ (2 years)",
+   "product_id": "6319019448772593423",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:6319019448772593423,headlineOfferDocid:6319019448772593423,imageDocid:6082169484427482189,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "price": "₹69,154.57",
+   "extracted_price": 69154.57,
+   "alternative_price": {
+    "price": "AED 2,624",
+    "extracted_price": 2624,
+    "currency": "AED"
+   },
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 10,
+   "title": "- AirPods Max 2 Wireless Headphones - Orange w/ AppleCare+ (2 years)",
+   "product_id": "5502099953047509573",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:5502099953047509573,headlineOfferDocid:5502099953047509573,imageDocid:18231215141961907169,rds:PC_11587709459108997520|PROD_PC_11587709459108997520,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹98,212",
+   "extracted_price": 98212,
+   "rating": 5.0,
+   "reviews": 1200,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 11,
+   "title": "Arhaan Trader Airpods Pro 2 Usb Type-c Wireless Earbuds,Deep Bass Bluetooth",
+   "product_id": "669166438187240056",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:669166438187240056,productid:10624211569947233996,headlineOfferDocid:3261772801927712090,imageDocid:2373450678225670712,gpcid:16477311906358684738,mid:576462567535357877,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Shopsy By Flipkart",
+   "multiple_sources": true,
+   "price": "₹575",
+   "extracted_price": 575,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 12,
+   "title": "Trustbaskt Airpox Pro 2 2nd Generation With New Magsafe Case-usb-c Bluetooth",
+   "product_id": "10880671865361382994",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:10880671865361382994,productid:13968314864228695577,headlineOfferDocid:14714739257664832914,imageDocid:9407008597000587467,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹486",
+   "extracted_price": 486,
+   "old_price": "51% off₹1,000",
+   "extracted_old_price": 51,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 13,
+   "title": "Sanno World Air-pods Pro Pro 2 2nd Generation Br22 Magsafe Case-usb-c Bluetooth",
+   "product_id": "7681327246334549149",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:7681327246334549149,productid:10059314640922208259,headlineOfferDocid:12719917283850671251,imageDocid:5876915292972033133,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹5,005",
+   "extracted_price": 5005,
+   "old_price": "50% off₹9,999",
+   "extracted_old_price": 50,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 14,
+   "title": "Arhaan Trader Airpods Pro 2 Usb Type-c Wireless Earbuds,Deep Bass Bluetooth",
+   "product_id": "669166438187240056",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:669166438187240056,productid:10624211569947233996,headlineOfferDocid:4276898511617227543,imageDocid:2373450678225670712,gpcid:16477311906358684738,mid:576462567535357877,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹300",
+   "extracted_price": 300,
+   "old_price": "85% off₹1,999",
+   "extracted_old_price": 85,
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 15,
+   "title": "Airpod Pro 2 Anc Working - Android Version: Compatible With Android 8.0 And Above (Limited Features)",
+   "product_id": "14593516672150053084",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:14593516672150053084,headlineOfferDocid:14593516672150053084,imageDocid:13743508037211838259,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "price": "₹1,565",
+   "extracted_price": 1565,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 16,
+   "title": "Airpod Pro 2 (Type C) - Charger Type: Wireless Charging",
+   "product_id": "5457499343608257087",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:5457499343608257087,headlineOfferDocid:5457499343608257087,imageDocid:663959115131703141,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "price": "₹2,800",
+   "extracted_price": 2800,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 17,
+   "title": "Merlin Craft Custom Painted Apple AirPods Pro 2nd Gen USB-C Case with ANC, Transparency & Touch Control - 80s STRIPES 2024-2024 Edition",
+   "product_id": "14332241800496793382",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:14332241800496793382,headlineOfferDocid:14332241800496793382,imageDocid:14021340283353305098,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹75,261",
+   "extracted_price": 75261,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 18,
+   "title": "Sanno World Air-pod Pro-2nd Generation K36 With Adaptive Audio-usb-c Bluetooth",
+   "product_id": "17801448858794541216",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:17801448858794541216,productid:1224379410475711109,headlineOfferDocid:2070931799407782504,imageDocid:6359509034678342739,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹4,725",
+   "extracted_price": 4725,
+   "old_price": "53% off₹9,999",
+   "extracted_old_price": 53,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 19,
+   "title": "Tsel Air Pods 2nd Gen Pro 2024 Wireless Charging Case,Running/Fitness Bluetooth",
+   "product_id": "2531899915058098296",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:2531899915058098296,headlineOfferDocid:2531899915058098296,imageDocid:16086286210610491581,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹280",
+   "extracted_price": 280,
+   "old_price": "72% off₹999",
+   "extracted_old_price": 72,
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 20,
+   "title": "Apple Airpods 2 Wireless Bluetooth With Wiresless Charging",
+   "product_id": "5487632438773713137",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:5487632438773713137,headlineOfferDocid:5487632438773713137,imageDocid:15120511455125878028,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "price": "₹1,800",
+   "extracted_price": 1800,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 21,
+   "title": "Ssvocationpoint Airpods Pro 2 Premium Thunder Sound Earbuds Bluetooth Magsafe Case-usb-c Bluetooth Gaming",
+   "product_id": "1055614183093220942",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:1055614183093220942,productid:9892461828079705872,headlineOfferDocid:15705200219195674192,imageDocid:3804741906522197710,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹719",
+   "extracted_price": 719,
+   "old_price": "76% off₹2,999",
+   "extracted_old_price": 76,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 22,
+   "title": "Flipkart SmartBuy फ्लिपकार्ट स्मार्ट बाय airpod pro 2 (gen2) tws ... more",
+   "product_id": "9934682957375759122",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:9934682957375759122,headlineOfferDocid:9934682957375759122,imageDocid:17933486461700296839,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹191",
+   "extracted_price": 191
+  },
+  {
+   "position": 23,
+   "title": "Airbuds Pro 2nd Gen with Lightning Charging – Ultimate Wireless Earbuds for Apple, Android & Laptops",
+   "product_id": "73085745382512716",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:73085745382512716,headlineOfferDocid:73085745382512716,imageDocid:10164075842637785019,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets24",
+   "price": "₹780",
+   "extracted_price": 780
+  },
+  {
+   "position": 24,
+   "title": "2 Pieces Airpods Pro",
+   "product_id": "15869704604097926809",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:15869704604097926809,headlineOfferDocid:15869704604097926809,imageDocid:10081217002412890627,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "price": "₹2,598",
+   "extracted_price": 2598,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 25,
+   "title": "Airdops Pro 2 (2nd Genration), with Active Noise Cancellation, White | Wireless Earbuds, Charging Case Included, White, 2nd Generation, Active Noise",
+   "product_id": "2280918507958338278",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:2280918507958338278,headlineOfferDocid:2280918507958338278,imageDocid:2861038313722722099,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "price": "₹3,950",
+   "extracted_price": 3950,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 26,
+   "title": "CosmosJoy AirPods Pro 2: Redefine Your Audio Experience. Both *Big Discount*",
+   "product_id": "10260833914464280249",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:10260833914464280249,headlineOfferDocid:10260833914464280249,imageDocid:16385528953617644851,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cosmos Joy",
+   "price": "₹3,999",
+   "extracted_price": 3999,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 27,
+   "title": "Rajpootshoppy Airpuds Pro 2 2nd Generationm17 With Magsafe Caseusb-c Bluetooth",
+   "product_id": "1900350754974408628",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:1900350754974408628,productid:17665135485337266675,headlineOfferDocid:6313994093666406171,imageDocid:2050606700640518045,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹720",
+   "extracted_price": 720,
+   "old_price": "28% off₹1,000",
+   "extracted_old_price": 28,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 28,
+   "title": "AirPods Pro 2 (20229) AirPods Pro2 2 LED ()",
+   "product_id": "3311036598318220277",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:3311036598318220277,headlineOfferDocid:3311036598318220277,imageDocid:13153891689459891869,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹3,743",
+   "extracted_price": 3743,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 29,
+   "title": "CosmosJoy AirPods Pro 2: Redefine Your Audio Experience.",
+   "product_id": "13035220863035034077",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:13035220863035034077,headlineOfferDocid:13035220863035034077,imageDocid:16385528953617644851,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cosmos Joy",
+   "price": "₹2,459",
+   "extracted_price": 2459,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 30,
+   "title": "Saibaba Aarpods Pro 2 2nd Generation With Magsafe Case Usb-c Bluetooth",
+   "product_id": "15730743276432566163",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:15730743276432566163,productid:10516225057970547291,headlineOfferDocid:4440047782959671643,imageDocid:3748171880982430111,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹974",
+   "extracted_price": 974,
+   "old_price": "81% off₹4,999",
+   "extracted_old_price": 81,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 31,
+   "title": "House Of Common 2nd Generation-aarpods Pro 2 Usb-c_Hadp38 Bluetooth",
+   "product_id": "9008118142307329877",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:9008118142307329877,productid:18072042695911857257,headlineOfferDocid:16389074261500886626,imageDocid:1823717704931877050,gpcid:3123242374688965747,mid:576462567029249828,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹400",
+   "extracted_price": 400,
+   "old_price": "60% off₹999",
+   "extracted_old_price": 60,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 32,
+   "title": "House Of Common 2nd Generation-aarpods Pro 2 Usb-c_Hadp38 Bluetooth",
+   "product_id": "9008118142307329877",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:9008118142307329877,productid:18072042695911857257,headlineOfferDocid:9897597961305053889,imageDocid:1823717704931877050,gpcid:3123242374688965747,mid:576462567029249828,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹267",
+   "extracted_price": 267,
+   "old_price": "73% off₹999",
+   "extracted_old_price": 73,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 33,
+   "title": "Zorvian Air-pods Pro Pro 2 2nd Generation Br22 Magsafe Case-usb-c Bluetooth",
+   "product_id": "11449651650183015483",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:11449651650183015483,productid:7689781544806440395,headlineOfferDocid:18421916657327209195,imageDocid:16413776927369900648,gpcid:15467219493721503881,mid:576462914488407602,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹6,000",
+   "extracted_price": 6000,
+   "old_price": "40% off₹9,999",
+   "extracted_old_price": 40,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 34,
+   "title": "CosmosJoy AirPods Pro 2: Redefine Your Audio Experience. With Display",
+   "product_id": "14934540560875831039",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:14934540560875831039,headlineOfferDocid:14934540560875831039,imageDocid:2880148995659626699,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cosmos Joy",
+   "price": "₹2,459",
+   "extracted_price": 2459,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 35,
+   "title": "Airbuds Pro 2nd Gen – Powerful Wireless Earbuds with ENC, MagSafe Charging & Rich Sound",
+   "product_id": "13108459924486096321",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:13108459924486096321,headlineOfferDocid:13108459924486096321,imageDocid:10164075842637785019,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets24",
+   "price": "₹799",
+   "extracted_price": 799
+  },
+  {
+   "position": 36,
+   "title": "CosmosJoy AirPods Pro 2: Smarter Sound, Bolder Beats!",
+   "product_id": "9497993936801776986",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:9497993936801776986,headlineOfferDocid:9497993936801776986,imageDocid:16385528953617644851,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cosmos Joy",
+   "price": "₹2,299",
+   "extracted_price": 2299,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 37,
+   "title": "Apple AirPods Max 2",
+   "product_id": "16221469865173921982",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:16221469865173921982,productid:8513655748383023044,headlineOfferDocid:13158476357376034441,imageDocid:11381652783341646521,rds:PC_11587709459108997520|PROD_PC_11587709459108997520,gpcid:11587709459108997520,mid:576462871290781216,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "price": "₹67,900",
+   "extracted_price": 67900,
+   "rating": 5.0,
+   "reviews": 1200,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 38,
+   "title": "Kumb144 Airpods Pro 2 Touch Control Headphones Built-in Microphone Immersive Sound Bluetooth Headset",
+   "product_id": "983753429232420710",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:983753429232420710,productid:2900205019098131458,headlineOfferDocid:2209488782241308355,imageDocid:12823599656301203428,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Shopsy By Flipkart",
+   "price": "₹248",
+   "extracted_price": 248,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 39,
+   "title": "Sgm Airpods Pro 2 2 Generation Wireless Bluetooth Earbuds,Enc,N80 Bluetooth",
+   "product_id": "17505201725645352908",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=productid:17505201725645352908,headlineOfferDocid:17505201725645352908,imageDocid:7888216296893657375,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹730",
+   "extracted_price": 730,
+   "old_price": "44% off₹1,299",
+   "extracted_old_price": 44,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 40,
+   "title": "Arhaan Trader Airpod Pro 2 Bluetooth Earphone Black, True Wireless Bluetooth",
+   "product_id": "17437891512788024464",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Apple AirPods Pro 2&prds=catalogid:17437891512788024464,productid:16026741832613882487,headlineOfferDocid:12646840208026230873,imageDocid:6885379752484285612,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹499",
+   "extracted_price": 499,
+   "old_price": "62% off₹1,299",
+   "extracted_old_price": 62,
+   "delivery": "Free delivery"
+  }
+ ]
+}

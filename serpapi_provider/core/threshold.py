@@ -2,10 +2,11 @@
 
 from __future__ import annotations
 
+from statistics import median
 from typing import Any
 
 DIRECTIONS = ("below", "above")
-AGGREGATES = ("min", "max", "first")
+AGGREGATES = ("min", "max", "median", "first")
 
 # SerpApi serves identical searches from its cache for an hour, so checking more
 # often than this returns the same answer.
@@ -55,6 +56,8 @@ def reduce_values(rows: list[dict[str, Any]], field: str, aggregate: str = "min"
         return min(numbers)
     if aggregate == "max":
         return max(numbers)
+    if aggregate == "median":
+        return float(median(numbers))
     return numbers[0]
 
 

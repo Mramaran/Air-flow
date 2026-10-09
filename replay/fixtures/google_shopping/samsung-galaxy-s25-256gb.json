@@ -1,0 +1,546 @@
+{
+ "_replay": true,
+ "_captured_at": "2026-10-09 17:41 UTC",
+ "search_metadata": {
+  "id": "6ac925b3d868dd65197be8a6",
+  "status": "Success",
+  "created_at": "2026-10-09 17:34:43 UTC",
+  "processed_at": "2026-10-09 17:34:43 UTC",
+  "total_time_taken": 6.32
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Samsung Galaxy S25 256GB",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "Samsung Galaxy S25 5G",
+   "product_id": "11366928172343342340",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:11366928172343342340,productid:7075346869623843090,headlineOfferDocid:14241470429191588865,imageDocid:8805263283173159497,rds:PC_7998131059683023653|PROD_PC_7998131059683023653,gpcid:7998131059683023653,mid:576462859883472853,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Samsung.com",
+   "multiple_sources": true,
+   "price": "₹84,999",
+   "extracted_price": 84999,
+   "rating": 4.7,
+   "reviews": 58000,
+   "delivery": "Free delivery by Tue"
+  },
+  {
+   "position": 2,
+   "title": "Samsung Galaxy S25 Ultra 5G",
+   "product_id": "14457631551792547298",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:14457631551792547298,productid:6090150614718869791,headlineOfferDocid:8966985109358035385,imageDocid:7195933082574109581,rds:PC_17817985598720773820|PROD_PC_17817985598720773820,gpcid:17817985598720773820,mid:576462810925288181,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹94,999",
+   "extracted_price": 94999,
+   "rating": 4.7,
+   "reviews": 1.7,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 3,
+   "title": "Samsung Galaxy S25 5G 256 GB",
+   "product_id": "5943273808073306047",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:5943273808073306047,productid:11028427546786394356,headlineOfferDocid:17995197037204468375,imageDocid:9787280609595311008,rds:PC_13653863667168722766|PROD_PC_13653863667168722766,gpcid:15459813127534060578,mid:576462915075449795,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Reliance Digital",
+   "price": "₹80,999",
+   "extracted_price": 80999,
+   "rating": 4.8,
+   "reviews": 57000,
+   "delivery": "Free delivery by Sun"
+  },
+  {
+   "position": 4,
+   "title": "Samsung Mobile Phones sms937uzk",
+   "product_id": "11796846689096974726",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:11796846689096974726,productid:4594944314316366090,headlineOfferDocid:528123989853876715,imageDocid:18093068626246695603,rds:PC_5284187792860746827|PROD_PC_5284187792860746827,gpcid:5284187792860746827,mid:576462862864753816,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Design Info",
+   "multiple_sources": true,
+   "price": "₹62,999",
+   "extracted_price": 62999,
+   "rating": 4.8,
+   "reviews": 97000
+  },
+  {
+   "position": 5,
+   "title": "Samsung Galaxy S25 Edge 5G",
+   "product_id": "9387669693256810011",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:9387669693256810011,productid:16880786033506364977,headlineOfferDocid:11856789555305949846,imageDocid:17005979619565890331,rds:PC_7595382899491641637|PROD_PC_7595382899491641637,gpcid:2950861705743010778,mid:576462913452871953,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Unbox Your Mobile",
+   "multiple_sources": true,
+   "price": "₹62,999",
+   "extracted_price": 62999,
+   "rating": 4.8,
+   "reviews": 3000,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 6,
+   "title": "Samsung Galaxy S25 FE 5G",
+   "product_id": "7752735180505437804",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:7752735180505437804,productid:14460700644564950133,headlineOfferDocid:5821575367010432199,imageDocid:3819879371145196265,rds:PC_5931833650059057744|PROD_PC_5931833650059057744,gpcid:5931833650059057744,mid:576462567546664190,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "croma.com",
+   "multiple_sources": true,
+   "price": "₹65,999",
+   "extracted_price": 65999,
+   "rating": 4.6,
+   "reviews": 1.2
+  },
+  {
+   "position": 7,
+   "title": "Samsung Galaxy S25 5G 12GB RAM",
+   "product_id": "3527562050123105379",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:3527562050123105379,productid:9064784756268265248,headlineOfferDocid:2138475695256801073,imageDocid:3250087347329403633,rds:PC_9524302630523856448|PROD_PC_9524302630523856448,gpcid:9524302630523856448,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Design Info",
+   "price": "₹64,999",
+   "extracted_price": 64999,
+   "rating": 4.8,
+   "reviews": 859,
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 8,
+   "title": "Samsung Galaxy S25 5G AI Smartphone Premium Display",
+   "product_id": "17823323690351561561",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:17823323690351561561,productid:7237731020490387542,headlineOfferDocid:2128145556393226553,imageDocid:18096494485356002247,gpcid:4805926058165707572,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "price": "₹65,990",
+   "extracted_price": 65990,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 9,
+   "title": "Samsung Galaxy S25 6,2",
+   "product_id": "18204668931600242131",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:18204668931600242131,productid:10338680575566509695,headlineOfferDocid:606095997266982692,imageDocid:7635410809481226077,rds:PC_5247900192828268225|PROD_PC_5247900192828268225,gpcid:5247900192828268225,mid:576462914699538002,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "bigbasket.com",
+   "multiple_sources": true,
+   "price": "₹80,999",
+   "extracted_price": 80999,
+   "rating": 4.8,
+   "reviews": 51000,
+   "delivery": "Free next-day delivery"
+  },
+  {
+   "position": 10,
+   "title": "Samsung Galaxy S25 Ultra Dual Sim Unlocked",
+   "product_id": "4390712458091374503",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:4390712458091374503,productid:15329229280966529368,headlineOfferDocid:1704301786957805691,imageDocid:15643082944316667425,rds:PC_17817985598720773820|PROD_PC_17817985598720773820,gpcid:315785866433061784,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cashify",
+   "multiple_sources": true,
+   "price": "₹79,599",
+   "extracted_price": 79599,
+   "second_hand_condition": "refurbished",
+   "rating": 4.7,
+   "reviews": 1.7,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 11,
+   "title": "Samsung Galaxy S25 5G (Icyblue, 12GB RAM, 256GB Storage) | Snapdragon 8 Elite for Galaxy | 50MP Triple Camera | 12MP Front Camera | 6.2\" Full HD+",
+   "product_id": "2711225771364456497",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:2711225771364456497,productid:16793991500883788836,headlineOfferDocid:16954454928616376976,imageDocid:5392405365994903656,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "price": "₹65,950",
+   "extracted_price": 65950,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 12,
+   "title": "Samsung Galaxy S25 5G 12GB/256GB Silver Shadow",
+   "product_id": "17618503048333333704",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:17618503048333333704,productid:7793537139257821149,headlineOfferDocid:12774689541027228330,imageDocid:13828926472618753100,rds:PC_12996040043364957440|PROD_PC_12996040043364957440,gpcid:12996040043364957440,mid:576462914490117035,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "The Bank of Electronics",
+   "multiple_sources": true,
+   "price": "₹64,999",
+   "extracted_price": 64999,
+   "rating": 4.8,
+   "reviews": 51000,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 13,
+   "title": "Buy Samsung S25 Ultra 5G Smartphone – High-End Power Gadget Black",
+   "product_id": "12823017846622335373",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=productid:12823017846622335373,headlineOfferDocid:12823017846622335373,imageDocid:17672990211007241742,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Bear Hugs",
+   "price": "₹13,499",
+   "extracted_price": 13499,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 14,
+   "title": "Samsung Galaxy S25 Ultra 256GB",
+   "product_id": "2790573175484754316",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:2790573175484754316,productid:7341592768239467180,headlineOfferDocid:17976486841643189628,imageDocid:15605904024524438156,rds:PC_11294033383235847603|PROD_PC_11294033383235847603,gpcid:11294033383235847603,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cashify",
+   "multiple_sources": true,
+   "price": "₹79,599",
+   "extracted_price": 79599,
+   "second_hand_condition": "refurbished",
+   "rating": 4.8,
+   "reviews": 318,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 15,
+   "title": "Samsung Galaxy S25 Fe 5g",
+   "product_id": "17536196761039367199",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:17536196761039367199,productid:16517251708414245951,headlineOfferDocid:5628811948476782926,imageDocid:15863785882266259000,rds:PC_5931833650059057744|PROD_PC_5931833650059057744,gpcid:12599725937854209641,mid:576462567154327453,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Unbox Your Mobile",
+   "multiple_sources": true,
+   "price": "₹40,999",
+   "extracted_price": 40999,
+   "rating": 4.6,
+   "reviews": 1.2,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 16,
+   "title": "SAMSUNG GALAXY S25 5G 12/256GB BRAND NEW SEALED",
+   "product_id": "6079239607783353035",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=productid:6079239607783353035,headlineOfferDocid:6079239607783353035,imageDocid:11719409071338413110,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "MRV electronics",
+   "price": "₹66,999",
+   "extracted_price": 66999,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 17,
+   "title": "Samsung Galaxy S25 12GB 128GB 5G",
+   "product_id": "13095723965882220366",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:13095723965882220366,productid:16849253894984980765,headlineOfferDocid:16191001147836728311,imageDocid:12611400102292763171,rds:PC_13653863667168722766|PROD_PC_13653863667168722766,gpcid:11377032997212051897,mid:576462896370807049,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "papita.co",
+   "multiple_sources": true,
+   "price": "₹66,677.23",
+   "extracted_price": 66677.23,
+   "alternative_price": {
+    "price": "AED 2,530",
+    "extracted_price": 2530,
+    "currency": "AED"
+   },
+   "rating": 4.8,
+   "reviews": 57000,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 18,
+   "title": "Samsung Galaxy S25 Plus 5G",
+   "product_id": "13359701545844884329",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:13359701545844884329,productid:1812422600402129841,headlineOfferDocid:17117938640425283911,imageDocid:14578500121355423113,rds:PC_14613752632535578308|PROD_PC_14613752632535578308,gpcid:14613752632535578308,mid:576462820635610867,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipshope",
+   "multiple_sources": true,
+   "price": "₹99,999",
+   "extracted_price": 99999,
+   "rating": 4.7,
+   "reviews": 26000
+  },
+  {
+   "position": 19,
+   "title": "Samsung Galaxy S25 5G SM-S931B Dual Sim",
+   "product_id": "15700287170629920527",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:15700287170629920527,productid:9219516806773733329,headlineOfferDocid:16258259617319110046,imageDocid:9422511327016471276,rds:PC_2583623046790312324|PROD_PC_2583623046790312324,gpcid:2583623046790312324,mid:576462895426750201,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "multiple_sources": true,
+   "price": "₹80,043.18",
+   "extracted_price": 80043.18,
+   "alternative_price": {
+    "price": "$827",
+    "extracted_price": 827,
+    "currency": "$"
+   },
+   "rating": 4.8,
+   "reviews": 51000
+  },
+  {
+   "position": 20,
+   "title": "Samsung Galaxy S25 5G Dual + eSIM 256GB Icyblue",
+   "product_id": "15117634023960119142",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:15117634023960119142,productid:5887163088053970095,headlineOfferDocid:16426180321023267487,imageDocid:18384257867411357666,rds:PC_9160789859416830042|PROD_PC_9160789859416830042,gpcid:4382225681077114121,mid:576462574924185139,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Telephone Shoppees",
+   "price": "₹84,999",
+   "extracted_price": 84999,
+   "rating": 4.7,
+   "reviews": 2700
+  },
+  {
+   "position": 21,
+   "title": "Samsung Galaxy S25-12+256GB Silver Shadow",
+   "product_id": "6302239181753521288",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=productid:6302239181753521288,headlineOfferDocid:6302239181753521288,imageDocid:395648813617384345,rds:PC_13653863667168722766|PROD_PC_13653863667168722766,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "cainid.in",
+   "price": "₹74,999",
+   "extracted_price": 74999,
+   "rating": 4.8,
+   "reviews": 57000,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 22,
+   "title": "Samsung Galaxy S25 12GB 256GB Silver Shadow 5G",
+   "product_id": "1432975855866751044",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:1432975855866751044,productid:745141508143842253,headlineOfferDocid:5082689072937146270,imageDocid:2043130489299267537,rds:PC_5121902935423690585|PROD_PC_5121902935423690585,gpcid:5121902935423690585,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "papita.co",
+   "multiple_sources": true,
+   "price": "₹73,503.08",
+   "extracted_price": 73503.08,
+   "alternative_price": {
+    "price": "AED 2,789",
+    "extracted_price": 2789,
+    "currency": "AED"
+   },
+   "rating": 4.6,
+   "reviews": 241,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 23,
+   "title": "Samsung Galaxy S25 FE 5G S731B DS",
+   "product_id": "10495180891237062142",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:10495180891237062142,productid:14888741418539283726,headlineOfferDocid:8618162177222153930,imageDocid:10486818897710191204,rds:PC_5931833650059057744|PROD_PC_5931833650059057744,gpcid:12798471335690481934,mid:576462915075756245,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Placewell Retail",
+   "multiple_sources": true,
+   "price": "₹59,999",
+   "extracted_price": 59999,
+   "rating": 4.6,
+   "reviews": 1.2,
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 24,
+   "title": "Samsung Galaxy S25 Plus 5g (256 Gb, 12 Gb Ram)",
+   "product_id": "12904551957310061670",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=productid:12904551957310061670,headlineOfferDocid:12904551957310061670,imageDocid:8947727849172316340,rds:PC_3489626357756471971|PROD_PC_3489626357756471971,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "EW Shopping",
+   "price": "₹88,999",
+   "extracted_price": 88999,
+   "rating": 5.0,
+   "reviews": 21,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 25,
+   "title": "Samsung Galaxy S25 Ultra 5G ( Indian Sealed Packed )",
+   "product_id": "9311453806284288491",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:9311453806284288491,productid:15417614993771396897,headlineOfferDocid:12339678140668222461,imageDocid:4169312684889035055,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Unbox Your Mobile",
+   "price": "₹87,999",
+   "extracted_price": 87999,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 26,
+   "title": "Samsung Galaxy S25 5G SM-S931B Dual Sim 256GB Blue Black",
+   "product_id": "12649761615191402569",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:12649761615191402569,productid:1582788610628885791,headlineOfferDocid:9239514529725679126,imageDocid:7598402662037705523,rds:PC_1786239333781277990|PROD_PC_1786239333781277990,gpcid:1786239333781277990,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "price": "₹1,05,014.33",
+   "extracted_price": 105014.33,
+   "alternative_price": {
+    "price": "$1,085",
+    "extracted_price": 1085,
+    "currency": "$"
+   },
+   "rating": 5.0,
+   "reviews": 3
+  },
+  {
+   "position": 27,
+   "title": "OB Samsung Galaxy S25 Edge 12+256 (Open Box)",
+   "product_id": "6906225458484454604",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=productid:6906225458484454604,headlineOfferDocid:6906225458484454604,imageDocid:11580348879098038624,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Telephone Shoppees",
+   "price": "₹59,999",
+   "extracted_price": 59999,
+   "second_hand_condition": "pre-owned"
+  },
+  {
+   "position": 28,
+   "title": "Samsung Galaxy S25 256GB SM-S931B 5G Android 15 6.2 Inch AMOLED Phone Icy Blue",
+   "product_id": "5750986855148578838",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=productid:5750986855148578838,headlineOfferDocid:5750986855148578838,imageDocid:6402677749652290799,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cashaway",
+   "price": "₹50,586.51",
+   "extracted_price": 50586.51,
+   "second_hand_condition": "pre-owned"
+  },
+  {
+   "position": 29,
+   "title": "Samsung Galaxy S25+",
+   "product_id": "10812888650814663819",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:10812888650814663819,productid:810393840733605770,headlineOfferDocid:1887390386025190700,imageDocid:15758001683298902445,rds:PC_16773122884393141195|PROD_PC_16773122884393141195,gpcid:13345076895466147018,mid:576462914988767723,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "iTradeit",
+   "multiple_sources": true,
+   "price": "₹87,400",
+   "extracted_price": 87400,
+   "rating": 4.7,
+   "reviews": 2700,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 30,
+   "title": "Samsung Galaxy S25 5G SM-S9310 Dual Sim 256GB",
+   "product_id": "1985551688260758391",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:1985551688260758391,productid:11341320705951740104,headlineOfferDocid:3335337793818086840,imageDocid:15714881635119782509,rds:PC_13653863667168722766|PROD_PC_13653863667168722766,gpcid:1341297503597166835,mid:576462914987834695,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "multiple_sources": true,
+   "price": "₹74,042.36",
+   "extracted_price": 74042.36,
+   "alternative_price": {
+    "price": "$765",
+    "extracted_price": 765,
+    "currency": "$"
+   },
+   "rating": 4.8,
+   "reviews": 57000
+  },
+  {
+   "position": 31,
+   "title": "Samsung Galaxy S25+ 12gb 6.7",
+   "product_id": "3729717039268194443",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:3729717039268194443,productid:4150309087378296203,headlineOfferDocid:16318707887651788110,imageDocid:7375607579387355221,rds:PC_14613752632535578308|PROD_PC_14613752632535578308,gpcid:7725898252655006741,mid:576462913714232986,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "papita.co",
+   "multiple_sources": true,
+   "price": "₹70,893.97",
+   "extracted_price": 70893.97,
+   "old_price": "Usually ₹3,167",
+   "extracted_old_price": 3167,
+   "rating": 4.7,
+   "reviews": 26000,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 32,
+   "title": "SAMSUNG MOBILE - S25 Ultra ( 12GB+256GB) Titanium Black - James and Co",
+   "product_id": "14008794537255690395",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=productid:14008794537255690395,headlineOfferDocid:14008794537255690395,imageDocid:3384078162506119851,rds:PC_17817985598720773820|PROD_PC_17817985598720773820,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "James & Co",
+   "price": "₹1,19,999",
+   "extracted_price": 119999,
+   "rating": 4.7,
+   "reviews": 1.7,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 33,
+   "title": "Galaxy S25 Ultra 5G Snapdragon 8 Elite 200MP",
+   "product_id": "12314449386595057639",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:12314449386595057639,productid:15012538721337997403,headlineOfferDocid:9832180144277108339,imageDocid:243186098435919267,gpcid:4008428876440361400,mid:576462913325855653,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Telephone Shoppees",
+   "multiple_sources": true,
+   "price": "₹87,000",
+   "extracted_price": 87000
+  },
+  {
+   "position": 34,
+   "title": "Samsung Galaxy S25 Edge 5G SM-S937B Dual Sim 512GB Titanium",
+   "product_id": "11601089841859423559",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:11601089841859423559,productid:9672511363748770137,headlineOfferDocid:2658052922494335446,imageDocid:17756774635484787004,rds:PC_2642296490802927239|PROD_PC_2642296490802927239,gpcid:2642296490802927239,mid:576462913455087108,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "multiple_sources": true,
+   "price": "₹85,753.64",
+   "extracted_price": 85753.64,
+   "alternative_price": {
+    "price": "$886",
+    "extracted_price": 886,
+    "currency": "$"
+   },
+   "rating": 4.6,
+   "reviews": 92
+  },
+  {
+   "position": 35,
+   "title": "Samsung Galaxy S25 FE Price in India | Parvez Mobile Master Navy / 8 GB / 256 GB",
+   "product_id": "4321295609987512317",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=productid:4321295609987512317,headlineOfferDocid:4321295609987512317,imageDocid:695506871376910642,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Parvez Mobile Master",
+   "price": "₹65,999",
+   "extracted_price": 65999,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 36,
+   "title": "Samsung Galaxy S25 Ultra 5G SM-S938B Dual Sim 256GB Titanium Pink Gold (12GB RAM) - Dual Nano Sim + Esim at Etoren",
+   "product_id": "17760872981299436680",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=productid:17760872981299436680,headlineOfferDocid:17760872981299436680,imageDocid:12003707151214077033,rds:PC_16108474639569827722|PROD_PC_16108474639569827722,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "price": "₹1,48,665.45",
+   "extracted_price": 148665.45,
+   "alternative_price": {
+    "price": "$1,536",
+    "extracted_price": 1536,
+    "currency": "$"
+   },
+   "rating": 4.8,
+   "reviews": 279
+  },
+  {
+   "position": 37,
+   "title": "Samsung Galaxy S25FE",
+   "product_id": "11735872418768384068",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:11735872418768384068,productid:17736612896589534185,headlineOfferDocid:17711336979622154468,imageDocid:12842982594237461142,rds:PC_16747327355177351746|PROD_PC_16747327355177351746,gpcid:16747327355177351746,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "GameLoot",
+   "multiple_sources": true,
+   "price": "₹27,000",
+   "extracted_price": 27000,
+   "rating": 4.8,
+   "reviews": 2600
+  },
+  {
+   "position": 38,
+   "title": "Samsung Galaxy S26 Ultra 5G",
+   "product_id": "9175224862656108327",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:9175224862656108327,productid:9617631051269962640,headlineOfferDocid:2271182075555750018,imageDocid:7505277579115828711,rds:PC_16418233158843180078|PROD_PC_16418233158843180078,gpcid:16418233158843180078,mid:576462881578705767,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Mobile Express",
+   "multiple_sources": true,
+   "price": "₹1,19,999",
+   "extracted_price": 119999,
+   "old_price": "Usually ₹1,24,999",
+   "extracted_old_price": 124999,
+   "rating": 4.8,
+   "reviews": 64000,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 39,
+   "title": "Samsung Galaxy S25 Plus 5G SM-S936B Dual Sim 256GB Navy",
+   "product_id": "10146201202646372625",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:10146201202646372625,productid:62476292670583180,headlineOfferDocid:5942679860622563841,imageDocid:9321950011762658011,gpcid:4897965383723680710,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "price": "₹88,560.47",
+   "extracted_price": 88560.47,
+   "alternative_price": {
+    "price": "$915",
+    "extracted_price": 915,
+    "currency": "$"
+   }
+  },
+  {
+   "position": 40,
+   "title": "Samsung Galaxy S26 Plus 5G",
+   "product_id": "9543493551722082949",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Samsung Galaxy S25 256GB&prds=catalogid:9543493551722082949,productid:14076958203769832129,headlineOfferDocid:4596984694894703882,imageDocid:15999782985430494603,rds:PC_7032640775845484502|PROD_PC_7032640775845484502,gpcid:7032640775845484502,mid:576462563312056742,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "The Bank of Electronics",
+   "multiple_sources": true,
+   "price": "₹1,08,000",
+   "extracted_price": 108000,
+   "rating": 2.0,
+   "reviews": 1,
+   "delivery": "Free delivery"
+  }
+ ]
+}

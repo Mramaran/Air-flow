@@ -1,0 +1,669 @@
+{
+ "_replay": true,
+ "_captured_at": "2026-10-09 17:41 UTC",
+ "search_metadata": {
+  "id": "6ac927091c38822e5870d1ab",
+  "status": "Success",
+  "created_at": "2026-10-09 17:40:25 UTC",
+  "processed_at": "2026-10-09 17:40:25 UTC",
+  "total_time_taken": 2.7
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "LG 1.5 ton split AC",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "LG 1.5 Ton 3-Star Inverter Window AC",
+   "product_id": "12508843754261045032",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:12508843754261045032,productid:13100715432701466368,headlineOfferDocid:9323028216146406118,imageDocid:11754999309754346592,rds:PC_16703587790769965386|PROD_PC_16703587790769965386,gpcid:16703587790769965386,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹37,490",
+   "extracted_price": 37490,
+   "rating": 2.7,
+   "reviews": 41,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 2,
+   "title": "Blue Star 1.5 Ton 3 Star Fixed Speed Split AC FC318VNU",
+   "product_id": "8384667231908211685",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:8384667231908211685,productid:16700380632112655247,headlineOfferDocid:16982878719455158221,imageDocid:7559301758892433275,gpcid:7805857206380020660,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹31,500",
+   "extracted_price": 31500,
+   "old_price": "Usually ₹38,120",
+   "extracted_old_price": 38120,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 3,
+   "title": "Voltas 1.5 Ton 5 Star Split Inverter Ac",
+   "product_id": "18426269646293394533",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:18426269646293394533,productid:9840325845423501337,headlineOfferDocid:11841199138957367558,imageDocid:7187955976079309370,gpcid:2371643165990451705,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Smartranchi",
+   "multiple_sources": true,
+   "price": "₹35,490",
+   "extracted_price": 35490,
+   "old_price": "Usually ₹43,997",
+   "extracted_old_price": 43997,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 4,
+   "title": "playR Printed Men Round Neck White T-shirt",
+   "product_id": "2587465168477547808",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:2587465168477547808,productid:6576877227185905431,headlineOfferDocid:3374809252842441352,imageDocid:8014315358659893098,gpcid:9343198630542758552,mid:576462536162318211,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "playR",
+   "multiple_sources": true,
+   "price": "₹449",
+   "extracted_price": 449,
+   "old_price": "Usually ₹603",
+   "extracted_old_price": 603,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 5,
+   "title": "LG S65TR 600W Home Theater Soundbar",
+   "product_id": "2514663667782185626",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:2514663667782185626,productid:17429513138917749785,headlineOfferDocid:15010067988158916678,imageDocid:10935507511293052643,rds:PC_3606176465354804547|PROD_PC_3606176465354804547,gpcid:3606176465354804547,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Nandilath G-Mart",
+   "multiple_sources": true,
+   "price": "₹19,800",
+   "extracted_price": 19800,
+   "old_price": "Usually ₹21,490",
+   "extracted_old_price": 21490,
+   "rating": 5.0,
+   "reviews": 122,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 6,
+   "title": "LG 185 L 3 Star Single Door Refrigerator",
+   "product_id": "10012675662648817847",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:10012675662648817847,productid:14402479622307027014,headlineOfferDocid:12554738843207717091,imageDocid:6066333088558545616,rds:PC_12450431603820022750|PROD_PC_12450431603820022750,gpcid:12450431603820022750,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Mahavir Electronics And Furniture",
+   "multiple_sources": true,
+   "price": "₹15,099",
+   "extracted_price": 15099,
+   "old_price": "Usually ₹16,570",
+   "extracted_old_price": 16570,
+   "rating": 3.0,
+   "reviews": 71,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Daikin 1.5 Ton 5 Star Inverter Split AC",
+   "product_id": "12016441295745003607",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:12016441295745003607,productid:15497089471410457945,headlineOfferDocid:5626066246834387114,imageDocid:14829261098001491314,gpcid:18301879886419140697,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹33,000",
+   "extracted_price": 33000,
+   "old_price": "Usually ₹39,138",
+   "extracted_old_price": 39138,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 8,
+   "title": "LG Sound Suite AI H7 9.1.6-Channel Dolby Atmos Soundbar",
+   "product_id": "9261359920403867950",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:9261359920403867950,productid:2900435388309783699,headlineOfferDocid:4143654076867923367,imageDocid:15495469165402066682,rds:PC_9064496774212768563|PROD_PC_9064496774212768563,gpcid:9064496774212768563,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tanotis India",
+   "multiple_sources": true,
+   "price": "₹1,54,190",
+   "extracted_price": 154190,
+   "old_price": "Usually ₹1,59,501",
+   "extracted_old_price": 159501,
+   "rating": 4.8,
+   "reviews": 193,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 9,
+   "title": "LG 185 L 5 Star Inverter Direct-Cool Single Door Refrigerator",
+   "product_id": "9458862896355653764",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:9458862896355653764,productid:2705581772586947653,headlineOfferDocid:14708050464521189053,imageDocid:8230196485237812564,gpcid:181342458324297713,mid:576462839494880751,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹18,999",
+   "extracted_price": 18999,
+   "old_price": "Usually ₹20,190",
+   "extracted_old_price": 20190,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 10,
+   "title": "Hitachi 1.5TR,5 Star Split Inverter,(Ras.X518PCDIGM)",
+   "product_id": "5268652055442815040",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=productid:5268652055442815040,headlineOfferDocid:5268652055442815040,imageDocid:3349505609036382649,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cool Care Airconditioning",
+   "price": "₹47,900",
+   "extracted_price": 47900,
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 11,
+   "title": "LG 185 L 5 Star Single Door Refrigerator with Base Stand Drawer",
+   "product_id": "10264975474034911323",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:10264975474034911323,productid:17841041244603163363,headlineOfferDocid:4513251407948105533,imageDocid:2293910307532484362,rds:PC_7243593589995759037|PROD_PC_7243593589995759037,gpcid:7243593589995759037,mid:576462896421698248,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹17,000",
+   "extracted_price": 17000,
+   "old_price": "Usually ₹17,990",
+   "extracted_old_price": 17990,
+   "rating": 2.9,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 12,
+   "title": "LG 9 kg Front Load Fully Automatic Washing Machine fhp1209z9b",
+   "product_id": "6703771652790121374",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:6703771652790121374,productid:5567349342981557334,headlineOfferDocid:16189471455828745205,imageDocid:16425879845397576332,rds:PC_9178932976123137315|PROD_PC_9178932976123137315,gpcid:9178932976123137315,mid:576462703730518247,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Joy guru hardware",
+   "multiple_sources": true,
+   "price": "₹41,299",
+   "extracted_price": 41299,
+   "rating": 4.3,
+   "reviews": 59
+  },
+  {
+   "position": 13,
+   "title": "LG 34G600A-B 34-Inch Ultragear WQHD Curved",
+   "product_id": "14834897962420282359",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:14834897962420282359,productid:1939120552378278038,headlineOfferDocid:840186257780472236,imageDocid:17219500149035500744,rds:PC_16775702093851725792|PROD_PC_16775702093851725792,gpcid:1142154421152067736,mid:576462914860159552,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹28,999",
+   "extracted_price": 28999,
+   "old_price": "Usually ₹31,990",
+   "extracted_old_price": 31990,
+   "rating": 5.0,
+   "reviews": 378,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 14,
+   "title": "Voltas 1.5 Ton 3 Star Split AC",
+   "product_id": "8221077371893031048",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:8221077371893031048,productid:1318612855277329194,headlineOfferDocid:16314775047592849725,imageDocid:18098423330978508552,gpcid:7184169651479696024,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹24,600",
+   "extracted_price": 24600,
+   "old_price": "Usually ₹28,900",
+   "extracted_old_price": 28900,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 15,
+   "title": "O General 1.5 Ton 3 Star Fixed Speed Split AC ASGA18BUTA-B",
+   "product_id": "12922491138594378027",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:12922491138594378027,productid:8853095751201498546,headlineOfferDocid:2191851105462035493,imageDocid:16325355240751375642,rds:PC_12969865482625215629|PROD_PC_12969865482625215629,gpcid:12969865482625215629,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Rohit Refrigeration Pvt",
+   "multiple_sources": true,
+   "price": "₹53,490",
+   "extracted_price": 53490,
+   "old_price": "Usually ₹58,200",
+   "extracted_old_price": 58200,
+   "rating": 5.0,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 16,
+   "title": "Hitachi 1.5 Ton 3 Star Split AC",
+   "product_id": "13511915745839270306",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:13511915745839270306,productid:5434774615978767869,headlineOfferDocid:5307234041812720675,imageDocid:8201599036535944524,gpcid:1663277419761021625,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "National Radio Electronics, Kannur",
+   "multiple_sources": true,
+   "price": "₹32,500",
+   "extracted_price": 32500,
+   "old_price": "Usually ₹37,900",
+   "extracted_old_price": 37900,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 17,
+   "title": "Lloyd 2025 Model 1.5 Ton 5 Star Split Inverter Ac",
+   "product_id": "16244678310115436983",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:16244678310115436983,productid:172058365585389419,headlineOfferDocid:1679932139205748872,imageDocid:2501389868107367421,gpcid:17503709717654058171,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "BazarGPT",
+   "multiple_sources": true,
+   "price": "₹33,900",
+   "extracted_price": 33900,
+   "old_price": "Usually ₹41,850",
+   "extracted_old_price": 41850,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 18,
+   "title": "LG PX120A9SO4Z 12 kg Semi Automatic Top Load Washing Machine with Roller Jet Pulsator+",
+   "product_id": "6655172684160357996",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:6655172684160357996,productid:4133162474221175342,headlineOfferDocid:4197073769806362459,imageDocid:5367550095863837065,gpcid:12522865672905591082,mid:576462912438676367,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹20,990",
+   "extracted_price": 20990,
+   "old_price": "32% off₹30,999",
+   "extracted_old_price": 32,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 19,
+   "title": "Haier HSA50CP-S3NB-I White 1.5 Tons 3 Star Inverter Split AC",
+   "product_id": "13671967072056550801",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:13671967072056550801,productid:12961483097205087773,headlineOfferDocid:837965727600025709,imageDocid:5446897783721793019,gpcid:9779480778469594440,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Neverowned India",
+   "multiple_sources": true,
+   "price": "₹29,806",
+   "extracted_price": 29806,
+   "old_price": "Usually ₹32,999",
+   "extracted_old_price": 32999,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 20,
+   "title": "Compatible with Lg Ac Remote Control Original AKB73616103 Model 75 Suitable for Split Window Air Conditioner 1 1.5 2 Ton and Replicate of Genuine",
+   "product_id": "908660227289561287",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=productid:908660227289561287,headlineOfferDocid:908660227289561287,imageDocid:16942660589000320491,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "price": "₹339",
+   "extracted_price": 339,
+   "old_price": "Was ₹459",
+   "extracted_old_price": 459,
+   "tag": "26% OFF",
+   "extensions": [
+    "26% OFF"
+   ]
+  },
+  {
+   "position": 21,
+   "title": "LG glt2216wyro Double Door Refrigerator 225 L",
+   "product_id": "14458137272756858185",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:14458137272756858185,productid:5732888105872676228,headlineOfferDocid:7366790852606356596,imageDocid:15660583078113598729,rds:PC_1747336815653600980|PROD_PC_1747336815653600980,gpcid:1747336815653600980,mid:576462889147111969,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Nikshan Electronics",
+   "multiple_sources": true,
+   "price": "₹23,000",
+   "extracted_price": 23000,
+   "old_price": "Usually ₹25,490",
+   "extracted_old_price": 25490,
+   "rating": 5.0,
+   "reviews": 41,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 22,
+   "title": "LG 9.0 kg 5 Star Semi-Automatic Washing Machine px900h9so4z",
+   "product_id": "8098526177862672478",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:8098526177862672478,productid:5539990609863192505,headlineOfferDocid:6873306724581667386,imageDocid:6602560763967113632,rds:PC_6380504441894210568|PROD_PC_6380504441894210568,gpcid:6380504441894210568,mid:576462892375926237,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹17,900",
+   "extracted_price": 17900,
+   "old_price": "31% off₹25,990",
+   "extracted_old_price": 31,
+   "rating": 5.0,
+   "reviews": 1,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 23,
+   "title": "Godrej Regalis Convertible 1.5 Ton 3 Star Inverter Split AC with I-Sense Technology",
+   "product_id": "18043724643183812811",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:18043724643183812811,productid:516984795323341697,headlineOfferDocid:13919276618639327664,imageDocid:13784318676062152280,gpcid:12286515025934115894,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Shopsy By Flipkart",
+   "multiple_sources": true,
+   "price": "₹30,768",
+   "extracted_price": 30768,
+   "old_price": "Usually ₹33,000",
+   "extracted_old_price": 33000,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 24,
+   "title": "FREGO 1.5 Ton Split AC Wi-Fi Enabled, White | 18000 BTU | Advanced Rotary Compressor | Low Noise | 5-Year Compressor Warranty | 10360070-10360071",
+   "product_id": "18052845230095930665",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=productid:18052845230095930665,headlineOfferDocid:18052845230095930665,imageDocid:5081336188808742300,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹1,25,017",
+   "extracted_price": 125017,
+   "old_price": "Was ₹1,76,589",
+   "extracted_old_price": 176589,
+   "tag": "29% OFF",
+   "extensions": [
+    "29% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 25,
+   "title": "Lloyd 1.5 Ton 5 Star Split Inverter AC With Wi-fi Connect",
+   "product_id": "17546355258566643265",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:17546355258566643265,productid:3077036868274028547,headlineOfferDocid:13575243074826915403,imageDocid:1993223420745618867,rds:PC_14851605044598438472|PROD_PC_14851605044598438472,gpcid:14851605044598438472,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "prakashuniversaltrading.co.in",
+   "multiple_sources": true,
+   "price": "₹34,500",
+   "extracted_price": 34500,
+   "old_price": "Usually ₹36,799",
+   "extracted_old_price": 36799,
+   "rating": 5.0,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 26,
+   "title": "IFB Fastcool 1.5 Ton 3 Star CI183GD22RGM3 8 in1 Flexi Mode Inverter Split Air Conditioner",
+   "product_id": "14934178575814763393",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:14934178575814763393,productid:7315745485296127789,headlineOfferDocid:13068899448699338175,imageDocid:11586154201708855154,gpcid:2860336072578753822,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "EMI Snapmint",
+   "multiple_sources": true,
+   "price": "₹31,499",
+   "extracted_price": 31499,
+   "old_price": "Usually ₹35,490",
+   "extracted_old_price": 35490,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 27,
+   "title": "Voltas 1.5 Ton 5 Star",
+   "product_id": "6455514542460246042",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:6455514542460246042,productid:3025182070596908405,headlineOfferDocid:7692710761946139536,imageDocid:6566797179582524578,gpcid:256336939671336646,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "IndiaMART",
+   "multiple_sources": true,
+   "price": "₹38,490",
+   "extracted_price": 38490,
+   "old_price": "Usually ₹50,490",
+   "extracted_old_price": 50490,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 28,
+   "title": "LG P105ASRAZ 10.5 kg 5 Star Semi-Automatic Top Load Washing Machine",
+   "product_id": "9638428095272032943",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:9638428095272032943,productid:16549395573940655311,headlineOfferDocid:11401384336734214767,imageDocid:13769320352874855721,gpcid:16751321406422161652,mid:576462756504464525,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹12,000",
+   "extracted_price": 12000,
+   "old_price": "Usually ₹17,199",
+   "extracted_old_price": 17199,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 29,
+   "title": "Hitachi 1.5TR,3 Star Split Inverter Ac, (Ras.X318PCD3GM)",
+   "product_id": "12663872484920370001",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=productid:12663872484920370001,headlineOfferDocid:12663872484920370001,imageDocid:3349505609036382649,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cool Care Airconditioning",
+   "price": "₹38,700",
+   "extracted_price": 38700,
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 30,
+   "title": "Voltas 1.5 Ton 3 Star Split Inverter Ac",
+   "product_id": "7740649649037107221",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:7740649649037107221,productid:225386701944467181,headlineOfferDocid:3893339023568153120,imageDocid:2707800534366984266,gpcid:5342808816847602889,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "BazarGPT",
+   "multiple_sources": true,
+   "price": "₹29,900",
+   "extracted_price": 29900,
+   "old_price": "Usually ₹42,300",
+   "extracted_old_price": 42300,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 31,
+   "title": "Hitachi 1.5 Ton 3 Star Xpandable+ Inverter Split AC (100% Copper, 4-Way Swing, ice Clean, Dust Filter, 3400SXL RAS.D318PCCIBS, White)",
+   "product_id": "2886173386341502921",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:2886173386341502921,productid:6202276489562475424,headlineOfferDocid:17015393530172671116,imageDocid:3234809588908067908,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Boomdeal Gadget",
+   "multiple_sources": true,
+   "price": "₹28,999",
+   "extracted_price": 28999,
+   "old_price": "Usually ₹32,999",
+   "extracted_old_price": 32999,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 32,
+   "title": "LG QP5 Eclair 320W 3.1.2-Channel Soundbar System",
+   "product_id": "12927685492035646396",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:12927685492035646396,productid:9222155824565466138,headlineOfferDocid:15916547860962387052,imageDocid:5658315786942013679,rds:PC_5338701437560337466|PROD_PC_5338701437560337466,gpcid:5338701437560337466,mid:576462787746531465,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹57,110",
+   "extracted_price": 57110,
+   "old_price": "Usually ₹85,295",
+   "extracted_old_price": 85295,
+   "rating": 2.9,
+   "reviews": 116,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 33,
+   "title": "LG JS-Q12SUXD 1 Ton Split AC",
+   "product_id": "14007297536998561079",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=productid:14007297536998561079,headlineOfferDocid:14007297536998561079,imageDocid:7489795799490522392,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cashify",
+   "price": "₹27,497",
+   "extracted_price": 27497
+  },
+  {
+   "position": 34,
+   "title": "Voltas 1.5 Ton 3 Star Split AC",
+   "product_id": "3507830372968152590",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:3507830372968152590,productid:8113875433244698516,headlineOfferDocid:5264182657310320782,imageDocid:12089588882086093920,gpcid:10297191691822726212,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tunmarg Aircon",
+   "multiple_sources": true,
+   "price": "₹33,990",
+   "extracted_price": 33990,
+   "old_price": "Usually ₹38,094",
+   "extracted_old_price": 38094,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 35,
+   "title": "LG s65tr 600W 5.1 Channel Dolby Digital Wireless Subwoofer & Rear Speaker with Built-in Receiver",
+   "product_id": "2775019921697859776",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:2775019921697859776,productid:2182528267440197360,headlineOfferDocid:10978723501621245111,imageDocid:7249976429654983567,rds:PC_6675483678378018673|PROD_PC_6675483678378018673,gpcid:6675483678378018673,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "JioMart Electronics",
+   "multiple_sources": true,
+   "price": "₹17,999",
+   "extracted_price": 17999,
+   "old_price": "Was ₹27,990",
+   "extracted_old_price": 27990,
+   "rating": 2.8,
+   "reviews": 172,
+   "tag": "35% OFF",
+   "extensions": [
+    "35% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 36,
+   "title": "Lloyd 1.5 Ton 5 Star Inverter Split AC GLS18I5FORBW",
+   "product_id": "16912417949937925205",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:16912417949937925205,productid:9832360186794434653,headlineOfferDocid:7613365230120982612,imageDocid:7090361326919008405,gpcid:12475961759398384702,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹38,331",
+   "extracted_price": 38331,
+   "old_price": "43% off₹66,990",
+   "extracted_old_price": 43,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 37,
+   "title": "LG 185 L 5 Star Single Door Refrigerator with Base Stand Drawer",
+   "product_id": "10264975474034911323",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:10264975474034911323,productid:17841041244603163363,headlineOfferDocid:10060805857753642556,imageDocid:2293910307532484362,rds:PC_7243593589995759037|PROD_PC_7243593589995759037,gpcid:7243593589995759037,mid:576462896421698248,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹17,490",
+   "extracted_price": 17490,
+   "old_price": "33% off₹26,290",
+   "extracted_old_price": 33,
+   "rating": 2.9,
+   "reviews": 1,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 38,
+   "title": "Daikin 1.5 Ton 3 Star Inverter Split AC",
+   "product_id": "6173322014396713027",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:6173322014396713027,productid:610842821754110165,headlineOfferDocid:14593707410902188311,imageDocid:436339897090415102,gpcid:10388601127134335617,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "IndiaMART",
+   "multiple_sources": true,
+   "price": "₹31,021",
+   "extracted_price": 31021,
+   "old_price": "Usually ₹34,999",
+   "extracted_old_price": 34999,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 39,
+   "title": "Hitachi 1.5 Ton 3 Star Inverter Split Ac",
+   "product_id": "2716155311821120201",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:2716155311821120201,productid:3600927757031851396,headlineOfferDocid:17051230366244171017,imageDocid:6287874991435401934,gpcid:16316897529740826419,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cashify",
+   "multiple_sources": true,
+   "price": "₹37,499",
+   "extracted_price": 37499,
+   "old_price": "Usually ₹46,610",
+   "extracted_old_price": 46610,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 40,
+   "title": "LG 11 kg Fully Automatic Front Load Washing Machine Silver",
+   "product_id": "4447050969596566199",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=LG 1.5 ton split AC&prds=catalogid:4447050969596566199,productid:4818621772728687585,headlineOfferDocid:13514891784829341418,imageDocid:2160210137015098225,gpcid:10334011359932859336,mid:576462447443039419,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹45,290",
+   "extracted_price": 45290,
+   "old_price": "Usually ₹54,990",
+   "extracted_old_price": 54990,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  }
+ ]
+}

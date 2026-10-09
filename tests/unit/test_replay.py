@@ -9,7 +9,7 @@ from serpapi_provider.core.errors import SerpApiHttpError, SerpApiRateLimitError
 from serpapi_provider.core.extractors import extract_rows
 from serpapi_provider.core.quota import QuotaStatus, check_quota
 
-SEARCH = {"engine": "google_shopping", "q": "iphone 16 128gb", "gl": "in"}
+SEARCH = {"engine": "google_shopping", "q": "test product alpha", "gl": "in"}
 
 
 @pytest.fixture
@@ -35,8 +35,8 @@ def test_a_plain_search_returns_rows_the_extractor_accepts(replay):
     assert body["_replay"] is True
     assert status_of(body) == "Success"
     assert len(rows) == 8
-    assert rows[0]["query"] == "iphone 16 128gb"
-    assert rows[0]["title"] == "iphone 16 128gb (replay offer 1)"
+    assert rows[0]["query"] == "test product alpha"
+    assert rows[0]["title"] == "test product alpha (replay offer 1)"
     assert rows[0]["search_id"] == search_id_for(SEARCH)
 
 
@@ -126,3 +126,12 @@ def test_an_engine_with_no_saved_response_is_an_error(replay):
 def test_an_unknown_search_id_is_not_found(replay):
     with pytest.raises(SerpApiHttpError, match="404"):
         replay().archive("doesnotexist")
+
+
+def test_a_query_with_a_captured_response_is_served_that_response(replay):
+    body = replay().search({"engine": "google_shopping", "q": "iPhone 16 128GB", "gl": "in", "hl": "en"})
+
+    assert body["_replay"] is True
+    assert "_captured_at" in body
+    assert len(body["shopping_results"]) > 8
+    assert not any("Replay Store" in str(item.get("source")) for item in body["shopping_results"])

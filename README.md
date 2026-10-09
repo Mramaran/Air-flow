@@ -32,12 +32,12 @@ docker compose up --build
 
 Open <http://localhost:8080>. No login is needed. Then:
 
-1. Trigger **`price_tracker`**. Watch `fetch_prices` turn **deferred**: 20 searches are in flight and no worker is held. Open the log of `report_lowest_prices` to see the price table.
+1. Trigger **`price_tracker`**. Watch `fetch_prices` turn **deferred**: 20 searches are in flight and no worker is held. Open the log of `report_price_spread` to see the offers, lowest, median and highest price for each query.
 2. Trigger **`quota_guard_demo`**. It fails in a few seconds, before any search is sent, and its log says why.
 3. Trigger **`price_drop_alert`**. The sensor fires and the alert task runs. Trigger it again: it now waits, because the price has not crossed the line a second time.
 4. Go to **Admin → Connections → Add Connection** and pick **SerpApi**. The form shows an API key and an optional base URL in place of the generic host, login and port fields.
 
-Everything the replay server returns is marked `"_replay": true`, and its sellers are called "Replay Store". It is not real search data.
+Everything the replay server returns is marked `"_replay": true`. For the 20 products in the example pipelines it replays real Google Shopping results captured from SerpApi on October 9, 2026. For any other query it returns placeholder offers from sellers called "Replay Store".
 
 ## Run it live with your own key
 
@@ -106,8 +106,8 @@ wait = SerpApiThresholdSensor(
     task_id="wait_for_price_drop",
     search={"engine": "google_shopping", "q": "iPhone 16 128GB", "gl": "in"},
     field="extracted_price",
-    aggregate="min",              # lowest price across the results
-    threshold=60_000,
+    aggregate="median",           # steadier than "min"; see the note below
+    threshold=80_000,
     direction="below",
 )
 ```
@@ -116,6 +116,7 @@ wait = SerpApiThresholdSensor(
 - SerpApi serves identical searches from its cache for an hour, so a `poke_interval` under 3600 seconds is raised to 3600. The log states the most searches the sensor can spend in a day (24 at the default).
 - It runs in reschedule mode, so it holds a worker only while it checks.
 - On its first check it records the value and does not fire, unless you pass `fire_on_first_check=True`.
+- `aggregate` can be `min`, `max`, `median` or `first`. Real shopping results for a product name include accessories, refurbished units and other models. In the live run, the lowest offer for "iPhone 16 128GB" was ₹7,999 and the median was ₹66,549, so `median` is the safer choice.
 
 ### One search
 
@@ -199,7 +200,15 @@ docker compose exec airflow python -m pytest /opt/provider/tests/airflow -q
 
 ## Has it been run against the real SerpApi?
 
-See [docs/async-check.md](docs/async-check.md) for what was measured on a live account. If that file is absent, the live path has not been exercised yet and only the replay path is verified.
+Yes, on October 9, 2026, on a free plan. [docs/async-check.md](docs/async-check.md) has the measurements. In short:
+
+- Asynchronous search is accepted on the free plan. A Google Shopping search went from `Processing` to `Success` in about 2 seconds.
+- Each new asynchronous search was counted as one search. Archive lookups and account reads were not counted.
+- Repeating the same search within the hour returned the same search id at once and was not counted.
+- One live run of `price_tracker` submitted 20 searches, deferred, and collected 786 rows. The account's count fell by 14, because 6 of the 20 had been run earlier that hour and came from SerpApi's cache.
+- No task log from that run contained the API key.
+
+The results of that run are what the replay server now serves for the 20 example products.
 
 ## Known limits
 
@@ -210,6 +219,8 @@ See [docs/async-check.md](docs/async-check.md) for what was measured on a live a
 - A task retry submits the batch again and relies on SerpApi's one-hour cache to make the repeat free.
 - The sensor's memory is an Airflow Variable. Deleting it resets the crossing state.
 - Row extractors cover three engines.
+- Search results are not product matches. Google Shopping answers a product name with accessories, refurbished units and other models as well. The provider returns what SerpApi returns and does not match offers to one exact product, so the example pipeline reports the spread of prices per query, not "the price".
+- SerpApi's account endpoint updated a few seconds after a search finished. Two runs started back to back can both pass the quota guard on the same count.
 - The connection form layout was checked on Airflow 3.3.2 only.
 - In Airflow 3.3.2 the **Test Connection** button in the connections list fails with "Bad Request" for any saved connection that has no port, including Airflow's own HTTP type: the interface sends port 0 and the API rejects the mismatch with the stored empty port. Test from the command line instead: `airflow connections test <connection id>`.
 

@@ -1,0 +1,705 @@
+{
+ "_replay": true,
+ "_captured_at": "2026-10-09 17:41 UTC",
+ "search_metadata": {
+  "id": "6ac92709560433a172ace441",
+  "status": "Success",
+  "created_at": "2026-10-09 17:40:25 UTC",
+  "processed_at": "2026-10-09 17:40:25 UTC",
+  "total_time_taken": 0.82
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Prestige induction cooktop",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "Singer Pluto 2000 W Induction Cooker",
+   "product_id": "964147253441352965",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:964147253441352965,productid:16998971245754301463,headlineOfferDocid:9951754809830348295,imageDocid:5393447412951609305,gpcid:13411609137094206455,mid:576462333069506108,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹1,850",
+   "extracted_price": 1850,
+   "old_price": "Usually ₹3,549",
+   "extracted_old_price": 3549,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 2,
+   "title": "Prestige Deluxe Alpha Stainless Steel Pressure Cooker",
+   "product_id": "8614269735376006137",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:8614269735376006137,productid:7497281380995190968,headlineOfferDocid:17087396993094842067,imageDocid:12839293213613117774,rds:PC_18349581851466005109|PROD_PC_18349581851466005109,gpcid:18349581851466005109,mid:576462808322799163,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "JioMart Grocery",
+   "multiple_sources": true,
+   "price": "₹1,230",
+   "extracted_price": 1230,
+   "old_price": "Usually ₹2,098",
+   "extracted_old_price": 2098,
+   "rating": 4.2,
+   "reviews": 82,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 3,
+   "title": "Lifelong 2100 Watt Induction Stove Touch Panel,Upto 5.5KVA Surge Protection,Electric Induction with 7 Preset Indian Menu Options,Auto Shut-Off llic104",
+   "product_id": "8595901139352382613",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:8595901139352382613,productid:5658914531753601579,headlineOfferDocid:10995479558016480724,imageDocid:11504753956326148627,gpcid:8282475189063517754,mid:576462840766202359,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹1,500",
+   "extracted_price": 1500,
+   "old_price": "Usually ₹2,149",
+   "extracted_old_price": 2149,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 4,
+   "title": "Prestige Marvel Plus Glass Top Gas Stove",
+   "product_id": "15299459464255570136",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:15299459464255570136,productid:10089859312844316010,headlineOfferDocid:11645345543760035696,imageDocid:12569698002882348145,gpcid:1874028991007700176,mid:576462823448740565,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gauryog",
+   "multiple_sources": true,
+   "price": "₹6,695",
+   "extracted_price": 6695,
+   "old_price": "Usually ₹7,509",
+   "extracted_old_price": 7509,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 5,
+   "title": "Prestige Delux Alpha Svachh Stainlesss Steel Baby Hundi Cooker 2L",
+   "product_id": "17347805127774411144",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=productid:17347805127774411144,headlineOfferDocid:17347805127774411144,imageDocid:2179523071154411033,rds:PC_7455276644916612805|PROD_PC_7455276644916612805,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "plsshope.com",
+   "price": "₹1,959",
+   "extracted_price": 1959,
+   "rating": 2.9,
+   "reviews": 111,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 6,
+   "title": "Prestige Flip-on Tri-ply Outer Lid Induction Bottom Pressure Cooker",
+   "product_id": "7645003953445364577",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:7645003953445364577,productid:2979646059970410429,headlineOfferDocid:11808881171209391012,imageDocid:7194021647888895016,gpcid:2144194903050588363,mid:576462788887052145,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Harsha",
+   "multiple_sources": true,
+   "price": "₹4,144",
+   "extracted_price": 4144,
+   "old_price": "Usually ₹5,150",
+   "extracted_old_price": 5150,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 7,
+   "title": "Prestige Deluxe Alpha Svachh Stainless Steel Handi Pressure Cooker",
+   "product_id": "3852859699556387469",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:3852859699556387469,productid:442785115264789680,headlineOfferDocid:8231400926433386955,imageDocid:2609396062678496832,rds:PC_7455276644916612805|PROD_PC_7455276644916612805,gpcid:7455276644916612805,mid:576462801464564750,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "JioMart Grocery",
+   "multiple_sources": true,
+   "price": "₹1,230",
+   "extracted_price": 1230,
+   "old_price": "Usually ₹2,091",
+   "extracted_old_price": 2091,
+   "rating": 5.0,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 8,
+   "title": "Prestige Popular Plus Induction Bottom Pressure Cooker",
+   "product_id": "10423270836429580903",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:10423270836429580903,productid:15832727345823303417,headlineOfferDocid:12888118609806140223,imageDocid:16418070905136284028,rds:PC_1607361345274366819|PROD_PC_1607361345274366819,gpcid:1607361345274366819,mid:576462748840664785,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gauryog",
+   "multiple_sources": true,
+   "price": "₹1,058.44",
+   "extracted_price": 1058.44,
+   "old_price": "Usually ₹1,401",
+   "extracted_old_price": 1401,
+   "rating": 2.8,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 9,
+   "title": "CADLEC CookMaster 2000W Induction Cooktop for Kitchen | Powerful Performance, 8 Cooking Modes, LED Display, Auto Shut-Off & Overheat Protection | BIS",
+   "product_id": "831697842283552131",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=productid:831697842283552131,headlineOfferDocid:831697842283552131,imageDocid:8192365687744742239,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "price": "₹1,399",
+   "extracted_price": 1399,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 10,
+   "title": "Prestige Aluminium Svachh Pressure Cooker",
+   "product_id": "1204824875375796014",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:1204824875375796014,productid:4557564683299261511,headlineOfferDocid:7463033717488282130,imageDocid:14596313110550975845,rds:PC_2444327812126375526|PROD_PC_2444327812126375526,gpcid:2444327812126375526,mid:576462858231404945,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gauryog",
+   "multiple_sources": true,
+   "price": "₹1,307.81",
+   "extracted_price": 1307.81,
+   "old_price": "Usually ₹1,459",
+   "extracted_old_price": 1459,
+   "rating": 5.0,
+   "reviews": 98,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 11,
+   "title": "Prestige Marvel Plus GTM 04 Long Glass Manual Gas Stove",
+   "product_id": "11376579024472985866",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:11376579024472985866,productid:12505127987829724487,headlineOfferDocid:8824910922569386815,imageDocid:9977397571727650710,gpcid:12549651220525571678,mid:576462886764956514,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "JioMart Grocery",
+   "multiple_sources": true,
+   "price": "₹5,999",
+   "extracted_price": 5999,
+   "old_price": "Usually ₹8,499",
+   "extracted_old_price": 8499,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 12,
+   "title": "Usha 1600 W Induction Cooktop Push Button",
+   "product_id": "17740513715331323871",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:17740513715331323871,productid:8767562341509191708,headlineOfferDocid:4927849868677992645,imageDocid:14904114039895637093,rds:PC_12372997620456621822|PROD_PC_12372997620456621822,gpcid:12372997620456621822,mid:576462737182178351,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "multiple_sources": true,
+   "price": "₹2,499",
+   "extracted_price": 2499,
+   "old_price": "Usually ₹3,199",
+   "extracted_old_price": 3199,
+   "rating": 5.0,
+   "reviews": 24,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 13,
+   "title": "Pigeon Rapido Cute Induction Cooktop",
+   "product_id": "13866935826741492228",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:13866935826741492228,productid:17030187318835555303,headlineOfferDocid:17456266095250044130,imageDocid:15925057113539984995,gpcid:584006237545485201,mid:576462461292985328,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹1,150",
+   "extracted_price": 1150,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 14,
+   "title": "Prestige Marvel Plus 3 Burner GTM-03-Black Glass Top Gas Stove",
+   "product_id": "4623454499594680658",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:4623454499594680658,productid:6593967244563305329,headlineOfferDocid:636327652925543108,imageDocid:12664885028812095441,gpcid:2148537698856545908,mid:576462841274545569,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gauryog",
+   "multiple_sources": true,
+   "price": "₹5,595",
+   "extracted_price": 5595,
+   "old_price": "Usually ₹5,999",
+   "extracted_old_price": 5999,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 15,
+   "title": "Prestige Deluxe Alpha Svachh Stainless Steel Pressure Cooker",
+   "product_id": "420913751011602154",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:420913751011602154,productid:15920431008620798324,headlineOfferDocid:17252253963209801897,imageDocid:11361739235961611596,rds:PC_7628578089197248546|PROD_PC_7628578089197248546,gpcid:7628578089197248546,mid:576462804361417385,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "JioMart Grocery",
+   "multiple_sources": true,
+   "price": "₹1,481",
+   "extracted_price": 1481,
+   "old_price": "Usually ₹2,270",
+   "extracted_old_price": 2270,
+   "rating": 3.7,
+   "reviews": 57,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 16,
+   "title": "Prestige Deluxe Alpha Svachh Stainless Steel Pressure Cooker",
+   "product_id": "420913751011602154",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:420913751011602154,productid:15920431008620798324,headlineOfferDocid:3986516831286328376,imageDocid:11361739235961611596,rds:PC_7628578089197248546|PROD_PC_7628578089197248546,gpcid:7628578089197248546,mid:576462804361417385,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Aajjo.com",
+   "multiple_sources": true,
+   "price": "₹2,210",
+   "extracted_price": 2210,
+   "old_price": "Usually ₹3,265",
+   "extracted_old_price": 3265,
+   "rating": 3.7,
+   "reviews": 57,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 17,
+   "title": "Prestige Iris Toughened Glass-Top 2 Brass Burner LPG Gas Stove",
+   "product_id": "13938724128649162212",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:13938724128649162212,productid:3137789275747320265,headlineOfferDocid:10507730687798245340,imageDocid:15242025830373857951,gpcid:3488213818415012520,mid:576462845889595000,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹2,399",
+   "extracted_price": 2399,
+   "old_price": "Usually ₹2,856",
+   "extracted_old_price": 2856,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 18,
+   "title": "Prestige Popular Plus Induction Bottom Pressure Cooker",
+   "product_id": "10423270836429580903",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:10423270836429580903,productid:15832727345823303417,headlineOfferDocid:540838987300154830,imageDocid:16418070905136284028,rds:PC_1607361345274366819|PROD_PC_1607361345274366819,gpcid:1607361345274366819,mid:576462748840664785,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "VPP Bazzar",
+   "multiple_sources": true,
+   "price": "₹1,210",
+   "extracted_price": 1210,
+   "old_price": "Usually ₹1,475",
+   "extracted_old_price": 1475,
+   "rating": 2.8,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Prestige Svachh Clip-On Mini Stainless Steel 3 Litre Pressure Cooker",
+   "product_id": "14160940708893965626",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:14160940708893965626,productid:11727030875364674904,headlineOfferDocid:5718465964329840397,imageDocid:3003061097710988254,rds:PC_13979695007977476746|PROD_PC_13979695007977476746,gpcid:9456007002753351994,mid:576462913541498156,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gauryog",
+   "multiple_sources": true,
+   "price": "₹2,695.31",
+   "extracted_price": 2695.31,
+   "old_price": "Usually ₹3,130",
+   "extracted_old_price": 3130,
+   "rating": 2.3,
+   "reviews": 13,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 20,
+   "title": "Bajaj ICX 160TS Neo 1600 Watts Induction Cooktop",
+   "product_id": "3584703319197692906",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:3584703319197692906,productid:10351231160277305744,headlineOfferDocid:8828221176205106032,imageDocid:13050333126264303993,gpcid:10116692562038370759,mid:576462492340347632,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Bajaj Markets X ONDC",
+   "multiple_sources": true,
+   "price": "₹2,445",
+   "extracted_price": 2445,
+   "old_price": "₹2,495",
+   "extracted_old_price": 2495,
+   "tag": "₹50 OFF",
+   "extensions": [
+    "₹50 OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 21,
+   "title": "Prestige Deluxe Plus Induction Base Aluminium Pressure Cooker",
+   "product_id": "6660292409675078918",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:6660292409675078918,productid:18199007075753343806,headlineOfferDocid:10363540136479511128,imageDocid:947192632723868745,gpcid:3409594958475493005,mid:576462895437013070,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "justdial.com",
+   "multiple_sources": true,
+   "price": "₹1,600",
+   "extracted_price": 1600,
+   "old_price": "Usually ₹2,358",
+   "extracted_old_price": 2358,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 22,
+   "title": "Philips HD4920 Induction Cooktop",
+   "product_id": "2517097277742234259",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:2517097277742234259,productid:11305110733724608359,headlineOfferDocid:6638831186312032854,imageDocid:11002767692230448284,gpcid:2419516734632046641,mid:576462349283617970,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Suraj Business",
+   "multiple_sources": true,
+   "price": "₹2,840",
+   "extracted_price": 2840,
+   "old_price": "Usually ₹3,069",
+   "extracted_old_price": 3069,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 23,
+   "title": "Prestige Magic GTMC 02 Glass Top Gas Stove",
+   "product_id": "13631757429197199584",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:13631757429197199584,productid:13624736103260163108,headlineOfferDocid:14244931274552222153,imageDocid:3835209255602794985,gpcid:2693253812070704822,mid:576462875310662077,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "plsshope.com",
+   "multiple_sources": true,
+   "price": "₹2,940",
+   "extracted_price": 2940,
+   "old_price": "Usually ₹3,650",
+   "extracted_old_price": 3650,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 24,
+   "title": "Pigeon Favourite 1800 W Induction Cooktop",
+   "product_id": "3500593400401535913",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:3500593400401535913,productid:2723319168865898215,headlineOfferDocid:16821143647267093023,imageDocid:2201950075216370300,rds:PC_17831116736861149352|PROD_PC_17831116736861149352,gpcid:17831116736861149352,mid:576462751587974050,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Shopsy By Flipkart",
+   "multiple_sources": true,
+   "price": "₹1,599",
+   "extracted_price": 1599,
+   "old_price": "Usually ₹1,892",
+   "extracted_old_price": 1892,
+   "rating": 3.8,
+   "reviews": 376,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 25,
+   "title": "V-guard 2000 W Induction Cooker VIC250V2",
+   "product_id": "5901963770376815722",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:5901963770376815722,productid:4256660694733998157,headlineOfferDocid:9032737132637554582,imageDocid:7832192936596185381,gpcid:4279587704377232092,mid:576462567978135854,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Supreme Mobiles",
+   "multiple_sources": true,
+   "price": "₹3,390",
+   "extracted_price": 3390,
+   "old_price": "Usually ₹3,599",
+   "extracted_old_price": 3599,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 26,
+   "title": "Prestige Marvella Burner Hob Auto Ignition Toughened Glass Top",
+   "product_id": "2009658127941738746",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:2009658127941738746,productid:1098706822202464413,headlineOfferDocid:5163085059342295523,imageDocid:13364587880646337031,gpcid:8144061430243144701,mid:576462834871358040,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹9,499",
+   "extracted_price": 9499,
+   "old_price": "33% off₹14,245",
+   "extracted_old_price": 33,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 27,
+   "title": "Prestige Stellora 4 Burner Stainless Steel Gas Stove",
+   "product_id": "6886139251712686525",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:6886139251712686525,productid:12388246817217885629,headlineOfferDocid:16386034647454464880,imageDocid:5116601612559349164,gpcid:6264898650393331492,mid:576462563287408704,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Kitchenmart.co.in",
+   "multiple_sources": true,
+   "price": "₹17,900",
+   "extracted_price": 17900,
+   "old_price": "Usually ₹18,895",
+   "extracted_old_price": 18895,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 28,
+   "title": "Hafele Black Magnechef Induction Cooktop 2100W by Myntra",
+   "product_id": "18250137564791233317",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:18250137564791233317,productid:8030053139261507634,headlineOfferDocid:1711877667805434974,imageDocid:2561843856850550102,gpcid:7292585005085653194,mid:576462813269519058,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "NineToFive",
+   "multiple_sources": true,
+   "price": "₹2,714",
+   "extracted_price": 2714,
+   "old_price": "Usually ₹4,899",
+   "extracted_old_price": 4899,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 29,
+   "title": "Prestige Svachh Apple Duo Induction Bottom Pressure Cooker",
+   "product_id": "1053500212085461368",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:1053500212085461368,productid:10983595318100918411,headlineOfferDocid:15899351076609495786,imageDocid:17777234055754886401,rds:PC_10362406114866500586|PROD_PC_10362406114866500586,gpcid:10362406114866500586,mid:576462810917224874,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "addmecart",
+   "multiple_sources": true,
+   "price": "₹1,599",
+   "extracted_price": 1599,
+   "old_price": "Usually ₹1,875",
+   "extracted_old_price": 1875,
+   "rating": 5.0,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 30,
+   "title": "Longway Ace IC 2000 W Induction Cooktop",
+   "product_id": "845874215537880472",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:845874215537880472,productid:9302492421988799018,headlineOfferDocid:966580290614878774,imageDocid:7997272437912704105,rds:PC_4573122750660758846|PROD_PC_4573122750660758846,gpcid:4573122750660758846,mid:576462885108179771,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "EMI Snapmint",
+   "multiple_sources": true,
+   "price": "₹1,379",
+   "extracted_price": 1379,
+   "old_price": "Usually ₹1,649",
+   "extracted_old_price": 1649,
+   "rating": 5.0,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 31,
+   "title": "Prestige Omega Deluxe Granite Sauce Pan with Lid",
+   "product_id": "10033169494940034971",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:10033169494940034971,productid:6737303399314424381,headlineOfferDocid:8670837366152176395,imageDocid:6523735781979088104,rds:PC_5040532564653686411|PROD_PC_5040532564653686411,gpcid:5040532564653686411,mid:576462803326100035,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "vlebazaar.in",
+   "multiple_sources": true,
+   "price": "₹1,583.12",
+   "extracted_price": 1583.12,
+   "old_price": "₹1,799",
+   "extracted_old_price": 1799,
+   "rating": 3.5,
+   "reviews": 58,
+   "tag": "12% OFF",
+   "extensions": [
+    "12% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 32,
+   "title": "Pigeon 2000 W Radiant Cooktop Touch Panel",
+   "product_id": "13694827065826489139",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:13694827065826489139,productid:2764361701491993863,headlineOfferDocid:12719337552021320305,imageDocid:6582152301318536508,gpcid:12709431802544738648,mid:576462460177579546,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "multiple_sources": true,
+   "price": "₹2,590",
+   "extracted_price": 2590,
+   "old_price": "Usually ₹2,799",
+   "extracted_old_price": 2799,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 33,
+   "title": "Prestige 2 Litre + 3 Litre + 5 Litre Aluminium Popular Max Outer lid Pressure Cooker Combo with 2 Lids",
+   "product_id": "2563540305241593824",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:2563540305241593824,productid:3002693566739064014,headlineOfferDocid:5245557754675282962,imageDocid:3236129100180921512,rds:PC_4867902161514458293|PROD_PC_4867902161514458293,gpcid:4867902161514458293,mid:576462453200859484,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹2,999",
+   "extracted_price": 2999,
+   "old_price": "Usually ₹3,275",
+   "extracted_old_price": 3275,
+   "rating": 2.9,
+   "reviews": 34,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 34,
+   "title": "V-Guard Vic 07 Induction Cooktop 1600W",
+   "product_id": "1947225940526363427",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:1947225940526363427,productid:6870713212825407263,headlineOfferDocid:17718772916227203892,imageDocid:16747621483724930667,gpcid:346125639907590808,mid:576462497891643845,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹1,850",
+   "extracted_price": 1850,
+   "old_price": "Usually ₹2,934",
+   "extracted_old_price": 2934,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 35,
+   "title": "Prestige Omega Deluxe Granite Sauce Pan with Lid",
+   "product_id": "10033169494940034971",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:10033169494940034971,productid:6737303399314424381,headlineOfferDocid:15455523797444008235,imageDocid:6523735781979088104,rds:PC_5040532564653686411|PROD_PC_5040532564653686411,gpcid:5040532564653686411,mid:576462803326100035,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Tradeindia.com",
+   "multiple_sources": true,
+   "price": "₹1,219",
+   "extracted_price": 1219,
+   "old_price": "Usually ₹1,630",
+   "extracted_old_price": 1630,
+   "rating": 3.5,
+   "reviews": 58,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 36,
+   "title": "Prestige Hard Anodised Plus Cookware Induction Base Roti Tawa",
+   "product_id": "11821766847824221079",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:11821766847824221079,productid:3071032483590819252,headlineOfferDocid:17893834041062494695,imageDocid:17567669211898115953,rds:PC_12887818286952851695|PROD_PC_12887818286952851695,gpcid:12887818286952851695,mid:576462461240423326,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "JioMart Grocery",
+   "multiple_sources": true,
+   "price": "₹390",
+   "extracted_price": 390,
+   "old_price": "Usually ₹699",
+   "extracted_old_price": 699,
+   "rating": 5.0,
+   "reviews": 69,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 37,
+   "title": "Pigeon Rapido Premium 1800W Induction Cooktop",
+   "product_id": "3107042654850589141",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:3107042654850589141,productid:6897926540622636340,headlineOfferDocid:330075920369214228,imageDocid:6583431691017156688,rds:PC_7890888694304063403|PROD_PC_7890888694304063403,gpcid:7890888694304063403,mid:576462687230860530,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹2,258",
+   "extracted_price": 2258,
+   "old_price": "29% off₹3,195",
+   "extracted_old_price": 29,
+   "rating": 2.8,
+   "reviews": 56,
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 38,
+   "title": "Prestige Deluxe Alpha Svachh Stainless Steel Pressure Cooker",
+   "product_id": "420913751011602154",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:420913751011602154,productid:15920431008620798324,headlineOfferDocid:316469532121147063,imageDocid:11361739235961611596,rds:PC_7628578089197248546|PROD_PC_7628578089197248546,gpcid:7628578089197248546,mid:576462804361417385,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "shreearham.com",
+   "multiple_sources": true,
+   "price": "₹2,399",
+   "extracted_price": 2399,
+   "old_price": "Usually ₹3,795",
+   "extracted_old_price": 3795,
+   "rating": 3.7,
+   "reviews": 57,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 39,
+   "title": "Prestige Vectra 2 Burner Glasstop Gas Stove – Toughened Glass",
+   "product_id": "15189985955049629242",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:15189985955049629242,productid:4469844240152755422,headlineOfferDocid:1562913018866108973,imageDocid:94117380581812601,gpcid:7297155260717988490,mid:576462797363215053,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "GMC Digital",
+   "multiple_sources": true,
+   "price": "₹6,240",
+   "extracted_price": 6240,
+   "old_price": "Usually ₹6,999",
+   "extracted_old_price": 6999,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 40,
+   "title": "Cadlec CookMate 2000W Induction Cooktop with Crystal Glass 7 Cooking Modes",
+   "product_id": "18126909142071126589",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Prestige induction cooktop&prds=catalogid:18126909142071126589,productid:11351568256697506749,headlineOfferDocid:7225033700060968648,imageDocid:9545761903685783963,gpcid:7117177957019966369,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "cslifestyle",
+   "multiple_sources": true,
+   "price": "₹1,399",
+   "extracted_price": 1399,
+   "old_price": "Usually ₹1,699",
+   "extracted_old_price": 1699,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Mon"
+  }
+ ]
+}

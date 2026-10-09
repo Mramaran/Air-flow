@@ -1,0 +1,474 @@
+{
+ "_replay": true,
+ "_captured_at": "2026-10-09 17:41 UTC",
+ "search_metadata": {
+  "id": "6ac92586a28971fbbdc0d33d",
+  "status": "Success",
+  "created_at": "2026-10-09 17:33:58 UTC",
+  "processed_at": "2026-10-09 17:33:58 UTC",
+  "total_time_taken": 1.15
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Google Pixel 10 128GB",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "Google Pixel 10 Pro 5G",
+   "product_id": "17966061849261729532",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=catalogid:17966061849261729532,productid:10204288399152153719,headlineOfferDocid:23829436838943591,imageDocid:4493553301611239868,rds:PC_12601004915035008516|PROD_PC_12601004915035008516,gpcid:12601004915035008516,mid:576462842110723046,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Design Info",
+   "multiple_sources": true,
+   "price": "₹74,999",
+   "extracted_price": 74999,
+   "rating": 4.4,
+   "reviews": 2500,
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 2,
+   "title": "Google Pixel 10",
+   "product_id": "7140972282191972853",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:7140972282191972853,headlineOfferDocid:7140972282191972853,imageDocid:11625116545682621189,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cashify",
+   "price": "₹50,699",
+   "extracted_price": 50699
+  },
+  {
+   "position": 3,
+   "title": "Google Pixel 10 5G (Obsidian, 12GB RAM, 256GB Storage)",
+   "product_id": "5118240883799303848",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=catalogid:5118240883799303848,productid:2396409361528415757,headlineOfferDocid:15128575865665749923,imageDocid:3191872885821384734,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "price": "₹70,999",
+   "extracted_price": 70999,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 4,
+   "title": "Google Pixel 10 - Unlocked Android Smartphone with Gemini, Advanced Triple Rear Camera, 24+ Hour Battery and 6.3\" Actua Display - Lemongrass, 128GB +",
+   "product_id": "7402905936043174932",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:7402905936043174932,headlineOfferDocid:7402905936043174932,imageDocid:13016292645635055931,rds:PC_5970788150716304968|PROD_PC_5970788150716304968,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹55,489",
+   "extracted_price": 55489,
+   "rating": 4.6,
+   "reviews": 1800
+  },
+  {
+   "position": 5,
+   "title": "Google Pixel 10 5G",
+   "product_id": "978733972800951124",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=catalogid:978733972800951124,productid:3799091001561012285,headlineOfferDocid:8345549316248427479,imageDocid:17833027426144420250,rds:PC_11405406953445279882|PROD_PC_11405406953445279882,gpcid:11405406953445279882,mid:576462912470736144,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Microless.com",
+   "multiple_sources": true,
+   "price": "₹63,614.49",
+   "extracted_price": 63614.49,
+   "alternative_price": {
+    "price": "$657",
+    "extracted_price": 657,
+    "currency": "$"
+   },
+   "rating": 4.2,
+   "reviews": 42
+  },
+  {
+   "position": 6,
+   "title": "Google Pixel 10 5G (Frost, 12GB RAM, 256GB Storage)",
+   "product_id": "6646011471066266235",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=catalogid:6646011471066266235,productid:7857913747028601211,headlineOfferDocid:803508900419291078,imageDocid:2264554325173540330,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "price": "₹73,999",
+   "extracted_price": 73999,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 7,
+   "title": "Google Pixel 10 5G 128 GB (12 GB) RAM 6.3\"OLED 48MP Tensor G5 4970 mAh New",
+   "product_id": "8555474848678829680",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:8555474848678829680,headlineOfferDocid:8555474848678829680,imageDocid:11691901937678940825,rds:PC_5970788150716304968|PROD_PC_5970788150716304968,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹76,605",
+   "extracted_price": 76605,
+   "rating": 4.6,
+   "reviews": 1800
+  },
+  {
+   "position": 8,
+   "title": "Google Pixel 10 Pro 5G Moonstone – 16GB RAM, 128GB Storage - (Open Box)",
+   "product_id": "5424009326901719842",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:5424009326901719842,headlineOfferDocid:5424009326901719842,imageDocid:6603680457099456636,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "The Bank of Electronics",
+   "price": "₹84,990",
+   "extracted_price": 84990,
+   "second_hand_condition": "pre-owned",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 9,
+   "title": "Google Pixel 10a 5G",
+   "product_id": "18082292207578144272",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=catalogid:18082292207578144272,productid:8339966258160419426,headlineOfferDocid:5856814302880747593,imageDocid:9368463257508396690,rds:PC_9690311617060370621|PROD_PC_9690311617060370621,gpcid:9690311617060370621,mid:576462881341546348,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹1,01,635",
+   "extracted_price": 101635,
+   "rating": 4.6,
+   "reviews": 1700,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 10,
+   "title": "Google Pixel 10 5G 128GB Lemongrass Unlocked sealed UK stock",
+   "product_id": "7033351169470259634",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=catalogid:7033351169470259634,productid:14415696834854255846,headlineOfferDocid:963674471466962890,imageDocid:6540385399103188226,rds:PC_5970788150716304968|PROD_PC_5970788150716304968,gpcid:10490611930673023594,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹1,37,990",
+   "extracted_price": 137990,
+   "rating": 4.6,
+   "reviews": 1800
+  },
+  {
+   "position": 11,
+   "title": "Google Pixel 10 Pro फोल्ड के लिए कुल नुकसान और चोरी संरक्षण योजना, विस्तारित वारंटी के साथ Google Pixel बीमा योजना प्राप्त करें (ईमेल डिलीवरी) (2 वर्ष",
+   "product_id": "15271032394334444521",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:15271032394334444521,headlineOfferDocid:15271032394334444521,imageDocid:16374177212702784724,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "price": "₹25,949",
+   "extracted_price": 25949
+  },
+  {
+   "position": 12,
+   "title": "Google Pixel 10A",
+   "product_id": "4693008818091240677",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:4693008818091240677,headlineOfferDocid:4693008818091240677,imageDocid:9072052445710535987,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cashify",
+   "price": "₹55,999",
+   "extracted_price": 55999
+  },
+  {
+   "position": 13,
+   "title": "Google Pixel 10 Smartphone - Google Pixel 10 Model Number G01",
+   "product_id": "14530894880598648302",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:14530894880598648302,headlineOfferDocid:14530894880598648302,imageDocid:5149718112120826761,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹60,541",
+   "extracted_price": 60541
+  },
+  {
+   "position": 14,
+   "title": "Google Pixel 10a 5G Obsidian",
+   "product_id": "1387312539813381613",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=catalogid:1387312539813381613,productid:3103627938339576604,headlineOfferDocid:12725716026265059026,imageDocid:8422404288842664275,rds:PC_15833297311525733902|PROD_PC_15833297311525733902,gpcid:15833297311525733902,mid:576462892657893107,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹96,728",
+   "extracted_price": 96728,
+   "rating": 4.7,
+   "reviews": 47,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 15,
+   "title": "Google Pixel 10a Smartphone - FREE Bluetooth Speaker",
+   "product_id": "3144952045547057311",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:3144952045547057311,headlineOfferDocid:3144952045547057311,imageDocid:6375483381302862238,rds:PC_9690311617060370621|PROD_PC_9690311617060370621,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Logtech Infoway",
+   "price": "₹55,999",
+   "extracted_price": 55999,
+   "rating": 4.6,
+   "reviews": 1700
+  },
+  {
+   "position": 16,
+   "title": "Google Pixel 10 Pro Unlocked Android Smartphone with Gemini, Triple Rear Camera System, 24 Hour Battery and 6.3\" Super Actua Display",
+   "product_id": "5308351098116636371",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=catalogid:5308351098116636371,productid:14250043720126527073,headlineOfferDocid:8507379190369280112,imageDocid:17456726474819528341,gpcid:13387536048341774080,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹1,06,274",
+   "extracted_price": 106274
+  },
+  {
+   "position": 17,
+   "title": "Pixel 10, 128GB, Obsidian - Locked to AT&T (Renewed)",
+   "product_id": "2971067235273758090",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:2971067235273758090,headlineOfferDocid:2971067235273758090,imageDocid:16953586580479857475,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹79,001",
+   "extracted_price": 79001,
+   "second_hand_condition": "pre-owned",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 18,
+   "title": "OB Google Pixel 10 12+256 (Open Box )",
+   "product_id": "12671703847394461499",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:12671703847394461499,headlineOfferDocid:12671703847394461499,imageDocid:9107024132076576655,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Telephone Shoppees",
+   "price": "₹51,999",
+   "extracted_price": 51999,
+   "second_hand_condition": "pre-owned"
+  },
+  {
+   "position": 19,
+   "title": "Google Pixel 10 Pro 2025",
+   "product_id": "1871910033083867548",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:1871910033083867548,headlineOfferDocid:1871910033083867548,imageDocid:12362762707184005608,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹1,16,040",
+   "extracted_price": 116040
+  },
+  {
+   "position": 20,
+   "title": "Google Pixel 10 Pro XL",
+   "product_id": "8212299850540937541",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=catalogid:8212299850540937541,productid:80524775756913476,headlineOfferDocid:15147100909533342798,imageDocid:15228406830955450049,rds:PC_6724037490619046077|PROD_PC_6724037490619046077,gpcid:6724037490619046077,mid:576462840376185284,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "EMI Snapmint",
+   "multiple_sources": true,
+   "price": "₹84,399",
+   "extracted_price": 84399,
+   "second_hand_condition": "refurbished",
+   "rating": 4.5,
+   "reviews": 2300,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 21,
+   "title": "Google Pixel 10 Pro Fold 5G",
+   "product_id": "69451797568899092",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=catalogid:69451797568899092,productid:13523847896279888330,headlineOfferDocid:2453275126797788233,imageDocid:13335673637288730416,rds:PC_7509778832979635560|PROD_PC_7509778832979635560,gpcid:13782089633510504873,mid:576462865688574539,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹1,72,999",
+   "extracted_price": 172999,
+   "rating": 4.8,
+   "reviews": 15,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 22,
+   "title": "Google Pixel 10a Lavender, 128GB + Pixel Buds 2a",
+   "product_id": "6432151152840892584",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:6432151152840892584,headlineOfferDocid:6432151152840892584,imageDocid:8647437738192537936,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹1,29,646",
+   "extracted_price": 129646,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 23,
+   "title": "Degoogled Google Pixel 10a 128GB 256GB GrapheneOS CalyxOS De-Googled Phone New",
+   "product_id": "16619899642732314818",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:16619899642732314818,headlineOfferDocid:16619899642732314818,imageDocid:9908386265603324389,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹87,192",
+   "extracted_price": 87192
+  },
+  {
+   "position": 24,
+   "title": "Google Pixel 10 5G Sim Free Smartphone 256GB",
+   "product_id": "1196606848017841732",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=catalogid:1196606848017841732,productid:7975520664820084633,headlineOfferDocid:1853551960122692184,imageDocid:619733128250313436,rds:PC_5970788150716304968|PROD_PC_5970788150716304968,gpcid:11044691366041165459,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "price": "₹79,999",
+   "extracted_price": 79999,
+   "rating": 4.6,
+   "reviews": 1800,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 25,
+   "title": "GOOGLE PIXEL 10a 128GB OPEN BOX 10/10 CONDITION UNUSED",
+   "product_id": "13870079161544967072",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:13870079161544967072,headlineOfferDocid:13870079161544967072,imageDocid:15216335585927845725,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹74,230",
+   "extracted_price": 74230,
+   "second_hand_condition": "pre-owned"
+  },
+  {
+   "position": 26,
+   "title": "Google Pixel 10a - 30+ Hours Battery, Berry 128GB (Renewed)",
+   "product_id": "10066383279583514135",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:10066383279583514135,headlineOfferDocid:10066383279583514135,imageDocid:11480530463295675911,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹82,306",
+   "extracted_price": 82306,
+   "second_hand_condition": "pre-owned",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 27,
+   "title": "Degoogled Pixel 10, Pro, Pro XL, Fold GrapheneOS CalyxOS De-Googled Phone New",
+   "product_id": "1337999328926214852",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:1337999328926214852,headlineOfferDocid:1337999328926214852,imageDocid:4324170322328206662,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹1,40,715",
+   "extracted_price": 140715
+  },
+  {
+   "position": 28,
+   "title": "Google Pixel Cell Phone 10 12GB+256GB 5G Obsidian",
+   "product_id": "10940741627834698385",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:10940741627834698385,headlineOfferDocid:10940741627834698385,imageDocid:17033573191900797297,rds:PC_8513988358511446763|PROD_PC_8513988358511446763,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Harsha",
+   "price": "₹74,999",
+   "extracted_price": 74999,
+   "rating": 4.2,
+   "reviews": 27
+  },
+  {
+   "position": 29,
+   "title": "Google Pixel 10a - 128 GB - Lavender (Unlocked) Google Fii No Return No Refund",
+   "product_id": "15749505980479819728",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:15749505980479819728,headlineOfferDocid:15749505980479819728,imageDocid:16111621918460460745,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹54,866",
+   "extracted_price": 54866
+  },
+  {
+   "position": 30,
+   "title": "Google Pixel 10 128GB 12GB RAM",
+   "product_id": "7795638699795281696",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:7795638699795281696,headlineOfferDocid:7795638699795281696,imageDocid:6681348049805701139,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Mygsm.me",
+   "price": "₹56,636.11",
+   "extracted_price": 56636.11,
+   "alternative_price": {
+    "price": "AED 2,149",
+    "extracted_price": 2149,
+    "currency": "AED"
+   },
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 31,
+   "title": "Google Pixel 10a - 7 years of Pixel Drops, 30+ hours battery, Camera Coach, Gemini Live - Obsidian, 128GB + Pixel 10a Case - Made from Recycled",
+   "product_id": "18002706005789820273",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:18002706005789820273,headlineOfferDocid:18002706005789820273,imageDocid:4401942736281299321,rds:PC_9690311617060370621|PROD_PC_9690311617060370621,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹45,158",
+   "extracted_price": 45158,
+   "rating": 4.6,
+   "reviews": 1700
+  },
+  {
+   "position": 32,
+   "title": "Google Pixel 10 128GB 12GB RAM Motherboard",
+   "product_id": "3276302891768115770",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:3276302891768115770,headlineOfferDocid:3276302891768115770,imageDocid:1398594266201361116,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cellspare.com",
+   "price": "₹36,499",
+   "extracted_price": 36499,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 33,
+   "title": "Google Pixel 10a - 7 years of Pixel Drops, 30+ hours battery, Camera Coach, Gemini Live - Fog, 128GB + Pixel 10a Case - Made from Recycled Plastic,",
+   "product_id": "595849482613064141",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:595849482613064141,headlineOfferDocid:595849482613064141,imageDocid:1635394089689362965,rds:PC_9690311617060370621|PROD_PC_9690311617060370621,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹46,319",
+   "extracted_price": 46319,
+   "rating": 4.6,
+   "reviews": 1700
+  },
+  {
+   "position": 34,
+   "title": "Pixel 10 5G (Obsidian, 12GB RAM, 128GB Storage)",
+   "product_id": "13211186495976358756",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:13211186495976358756,headlineOfferDocid:13211186495976358756,imageDocid:9097055189098133413,rds:PC_10490611930673023594|PROD_PC_10490611930673023594,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "price": "₹90,818.08",
+   "extracted_price": 90818.08,
+   "alternative_price": {
+    "price": "AED 3,446",
+    "extracted_price": 3446,
+    "currency": "AED"
+   },
+   "rating": 5.0,
+   "reviews": 9,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 35,
+   "title": "Google Pixel 10 - Unlocked Android Smartphone with Gemini, Advanced Triple Rear Camera, 24 Hour Battery and 6.3\" Actua Display - Obsidian, 256GB",
+   "product_id": "5809153916184228736",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:5809153916184228736,headlineOfferDocid:5809153916184228736,imageDocid:17658082518116242933,rds:PC_5970788150716304968|PROD_PC_5970788150716304968,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹1,41,738",
+   "extracted_price": 141738,
+   "rating": 4.6,
+   "reviews": 1800
+  },
+  {
+   "position": 36,
+   "title": "Google Pixel 10 | DerpFest - 128GB / Indigo / Preloved",
+   "product_id": "13289026552392606539",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:13289026552392606539,headlineOfferDocid:13289026552392606539,imageDocid:4703316741324899985,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "PrivacyPortal",
+   "price": "₹90,900",
+   "extracted_price": 90900,
+   "second_hand_condition": "pre-owned",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 37,
+   "title": "Google Pixel 10 Pro XL - Unlocked Android Smartphone with Gemini, Triple Rear Camera, 24 Hour Battery and 6.8\" Super Actua Display - Obsidian, 256GB",
+   "product_id": "15224591099675300337",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:15224591099675300337,headlineOfferDocid:15224591099675300337,imageDocid:5024524011718897517,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹2,31,302",
+   "extracted_price": 231302
+  },
+  {
+   "position": 38,
+   "title": "Google Pixel 10a 30+ Hours Battery",
+   "product_id": "15343833587577323551",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=catalogid:15343833587577323551,productid:10859030980443405785,headlineOfferDocid:1019994691825054680,imageDocid:10619165249575364410,rds:PC_9690311617060370621|PROD_PC_9690311617060370621,gpcid:14031297835513066140,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "price": "₹71,078.46",
+   "extracted_price": 71078.46,
+   "alternative_price": {
+    "price": "AED 2,697",
+    "extracted_price": 2697,
+    "currency": "AED"
+   },
+   "rating": 4.6,
+   "reviews": 1700,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 39,
+   "title": "Google Pixel 10 Pro | DerpFest - 128GB / Porcelain / Preloved",
+   "product_id": "17307424277376727668",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:17307424277376727668,headlineOfferDocid:17307424277376727668,imageDocid:17068366757500057376,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "PrivacyPortal",
+   "price": "₹1,12,600",
+   "extracted_price": 112600,
+   "second_hand_condition": "pre-owned",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 40,
+   "title": "Pixel 10a - 7 years of Pixel Drops, 30+ hours battery, Camera Coach, Gemini Live, Pixel Safe - Obsidian, 128GB TV Streamer (4K), Fast Streaming Entert",
+   "product_id": "6107768962957738016",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Google Pixel 10 128GB&prds=productid:6107768962957738016,headlineOfferDocid:6107768962957738016,imageDocid:14279468253375293102,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "price": "₹93,611.67",
+   "extracted_price": 93611.67,
+   "alternative_price": {
+    "price": "AED 3,552",
+    "extracted_price": 3552,
+    "currency": "AED"
+   },
+   "delivery": "Free delivery"
+  }
+ ]
+}

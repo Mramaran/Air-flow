@@ -1,0 +1,690 @@
+{
+ "_replay": true,
+ "_captured_at": "2026-10-09 17:41 UTC",
+ "search_metadata": {
+  "id": "6ac92707827031d6b37132a5",
+  "status": "Success",
+  "created_at": "2026-10-09 17:40:23 UTC",
+  "processed_at": "2026-10-09 17:40:23 UTC",
+  "total_time_taken": 2.42
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Sony WH-1000XM5 headphones",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "Sony 1000X THE COLLEXION Wireless Noise Cancelling Headphones",
+   "product_id": "15208132549938593233",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:15208132549938593233,productid:9163469164450339840,headlineOfferDocid:17669116554631977844,imageDocid:12905075251334650232,rds:PC_14845163909917090549|PROD_PC_14845163909917090549,gpcid:14845163909917090549,mid:576462561882559730,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "AVIT",
+   "multiple_sources": true,
+   "price": "₹54,990",
+   "extracted_price": 54990,
+   "rating": 3.1,
+   "reviews": 539,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 2,
+   "title": "Honeywell Moxie V20 Bluetooth Headphones",
+   "product_id": "4601457207450162338",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:4601457207450162338,productid:1495566260823949157,headlineOfferDocid:12087979769337099681,imageDocid:7671585635631890747,gpcid:5961031021823548309,mid:576462848662939588,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹940",
+   "extracted_price": 940,
+   "old_price": "Was ₹1,305",
+   "extracted_old_price": 1305,
+   "tag": "27% OFF",
+   "extensions": [
+    "27% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 3,
+   "title": "Amazon Echo Dot Smart Speaker with vibrant sound",
+   "product_id": "9571427490946370330",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:9571427490946370330,productid:9303336691322754633,headlineOfferDocid:2850065347262677253,imageDocid:3313155903278912670,rds:PC_2715169462357596677|PROD_PC_2715169462357596677,gpcid:4489724407396118942,mid:576462913547983213,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "OpenBoxWale.in",
+   "multiple_sources": true,
+   "price": "₹4,119",
+   "extracted_price": 4119,
+   "old_price": "Usually ₹5,049",
+   "extracted_old_price": 5049,
+   "rating": 2.8,
+   "reviews": 13000,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 4,
+   "title": "boAt Rockerz 650 Pro w/ Dolby Audio",
+   "product_id": "2844271016835424902",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:2844271016835424902,productid:6209540087775441209,headlineOfferDocid:16237413960960580234,imageDocid:6524585097845457078,rds:PC_11680706478024520534|PROD_PC_11680706478024520534,gpcid:11680706478024520534,mid:576462821996749001,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "boAt",
+   "multiple_sources": true,
+   "price": "₹2,299",
+   "extracted_price": 2299,
+   "old_price": "74% off₹8,990",
+   "extracted_old_price": 74,
+   "rating": 3.6,
+   "reviews": 122,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 5,
+   "title": "SteelSeries Arctis Nova Wireless Gaming Headset",
+   "product_id": "17246091921279148464",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:17246091921279148464,productid:16927535812759634011,headlineOfferDocid:4782445670660084969,imageDocid:14193754974249498822,rds:PC_8877450167299572643|PROD_PC_8877450167299572643,gpcid:8877450167299572643,mid:576462511162843699,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹15,934",
+   "extracted_price": 15934,
+   "rating": 5.0,
+   "reviews": 3200
+  },
+  {
+   "position": 6,
+   "title": "Mastercard $100 OFF Sony WH-CH720N Wireless ANC Headphones WH-CH720N/BCE",
+   "product_id": "17355758935316592975",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:17355758935316592975,productid:1310241879042384998,headlineOfferDocid:2863916326230100986,imageDocid:12433090135831692891,rds:PC_12497064220288536128|PROD_PC_12497064220288536128,gpcid:12497064220288536128,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "dailydeals365.in",
+   "multiple_sources": true,
+   "price": "₹6,299",
+   "extracted_price": 6299,
+   "old_price": "Usually ₹7,990",
+   "extracted_old_price": 7990,
+   "rating": 5.0,
+   "reviews": 1700,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 7,
+   "title": "JBL LIVE 500BT Wireless Over Ear Headphones",
+   "product_id": "13044298013469807542",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:13044298013469807542,productid:615096474438505723,headlineOfferDocid:15868166830039704920,imageDocid:7867359719392395317,rds:PC_14116016492209288051|PROD_PC_14116016492209288051,gpcid:14116016492209288051,mid:576462808306874610,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Vardiano Retail",
+   "multiple_sources": true,
+   "price": "₹3,985.50",
+   "extracted_price": 3985.5,
+   "old_price": "Usually ₹4,899",
+   "extracted_old_price": 4899,
+   "rating": 3.3,
+   "reviews": 1200,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 8,
+   "title": "ACCENTUM Wireless SE",
+   "product_id": "3535697895213592900",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:3535697895213592900,productid:5438226404549535917,headlineOfferDocid:7899741648106742150,imageDocid:6703782464594781814,rds:PC_3099017026484603359|PROD_PC_3099017026484603359,gpcid:3099017026484603359,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Ysvara Lifestyle",
+   "multiple_sources": true,
+   "price": "₹9,990",
+   "extracted_price": 9990,
+   "old_price": "Was ₹12,990",
+   "extracted_old_price": 12990,
+   "rating": 3.4,
+   "reviews": 63,
+   "tag": "23% OFF",
+   "extensions": [
+    "23% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 9,
+   "title": "Sony WH-1000XM6 Wireless Noise Cancelling Over Ear Headphone Bundle with gSport Accessory Kit",
+   "product_id": "9520898162153626448",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:9520898162153626448,productid:3084143608388462122,headlineOfferDocid:12851464782006742483,imageDocid:12747417980470228632,rds:PC_7209809894169348542|PROD_PC_7209809894169348542,gpcid:7209809894169348542,mid:576462892669009134,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹47,438",
+   "extracted_price": 47438,
+   "rating": 2.5,
+   "reviews": 52
+  },
+  {
+   "position": 10,
+   "title": "HP OmniBook 5 Qualcomm Snapdragon X 16 Inches",
+   "product_id": "16421340095869139974",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:16421340095869139974,productid:681703660180396843,headlineOfferDocid:5807913483729215300,imageDocid:13690354836648440523,rds:PC_9565939292679654985|PROD_PC_9565939292679654985,gpcid:9565939292679654985,mid:576462912332134468,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "cslifestyle",
+   "multiple_sources": true,
+   "price": "₹78,990",
+   "extracted_price": 78990,
+   "old_price": "Usually ₹84,990",
+   "extracted_old_price": 84990,
+   "rating": 5.0,
+   "reviews": 177,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Mon"
+  },
+  {
+   "position": 11,
+   "title": "boAt Rockerz 551 ANC Pro Bluetooth Headphone with Mic",
+   "product_id": "13526788412997418800",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:13526788412997418800,productid:6982183607823988180,headlineOfferDocid:14524088878443152887,imageDocid:1277485958347301243,rds:PC_369991410874528328|PROD_PC_369991410874528328,gpcid:369991410874528328,mid:576462813343892469,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Myntra - MNow",
+   "multiple_sources": true,
+   "price": "₹2,799",
+   "extracted_price": 2799,
+   "old_price": "Usually ₹3,499",
+   "extracted_old_price": 3499,
+   "rating": 5.0,
+   "reviews": 69,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "boAt Rockerz 550 Bluetooth",
+   "product_id": "2138685141745863597",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:2138685141745863597,productid:4688599609648263494,headlineOfferDocid:15617530933900631536,imageDocid:4628813353413030827,rds:PC_3244622889133931007|PROD_PC_3244622889133931007,gpcid:3244622889133931007,mid:576462485752719736,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "vlebazaar.in",
+   "multiple_sources": true,
+   "price": "₹1,319.12",
+   "extracted_price": 1319.12,
+   "old_price": "₹1,499",
+   "extracted_old_price": 1499,
+   "rating": 5.0,
+   "reviews": 420,
+   "tag": "12% OFF",
+   "extensions": [
+    "12% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 13,
+   "title": "Sennheiser ACCENTUM Wireless Bluetooth Headphones",
+   "product_id": "14639753911696942055",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:14639753911696942055,productid:1174854660694443890,headlineOfferDocid:3579997890338436920,imageDocid:3962301353413425082,rds:PC_6225431733533103062|PROD_PC_6225431733533103062,gpcid:6225431733533103062,mid:576462860473883836,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "EMI Snapmint",
+   "multiple_sources": true,
+   "price": "₹11,990",
+   "extracted_price": 11990,
+   "old_price": "Usually ₹12,990",
+   "extracted_old_price": 12990,
+   "rating": 5.0,
+   "reviews": 1200,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 14,
+   "title": "boAt Rockerz 550 Bluetooth",
+   "product_id": "2138685141745863597",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:2138685141745863597,productid:4688599609648263494,headlineOfferDocid:8111329558039788024,imageDocid:4628813353413030827,rds:PC_3244622889133931007|PROD_PC_3244622889133931007,gpcid:3244622889133931007,mid:576462485752719736,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Zepto",
+   "multiple_sources": true,
+   "price": "₹999",
+   "extracted_price": 999,
+   "old_price": "Was ₹1,799",
+   "extracted_old_price": 1799,
+   "rating": 5.0,
+   "reviews": 420,
+   "tag": "44% OFF",
+   "extensions": [
+    "44% OFF"
+   ],
+   "delivery": "Free 10 min delivery"
+  },
+  {
+   "position": 15,
+   "title": "Audio-Technica ATH-M50xSTS StreamSet Professional Streaming Headset XLR/Analog",
+   "product_id": "17310463609813470983",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:17310463609813470983,productid:11081662868746574206,headlineOfferDocid:12193230020352335092,imageDocid:13893049085489752562,rds:PC_16083456846676039879|PROD_PC_16083456846676039879,gpcid:16083456846676039879,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Unboxify",
+   "multiple_sources": true,
+   "price": "₹8,999",
+   "extracted_price": 8999,
+   "old_price": "Usually ₹12,490",
+   "extracted_old_price": 12490,
+   "rating": 4.2,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 16,
+   "title": "Noise Airwave Max XR Overhead Wireless Headphone",
+   "product_id": "3678216959963406225",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:3678216959963406225,productid:7657789056785082019,headlineOfferDocid:9985735907680914665,imageDocid:10845247318988831689,rds:PC_7652628734947244793|PROD_PC_7652628734947244793,gpcid:15640963169414313166,mid:576462574880206218,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Myntra - MNow",
+   "multiple_sources": true,
+   "price": "₹2,499",
+   "extracted_price": 2499,
+   "old_price": "Was ₹3,299",
+   "extracted_old_price": 3299,
+   "rating": 4.4,
+   "reviews": 62,
+   "tag": "24% OFF",
+   "extensions": [
+    "24% OFF"
+   ]
+  },
+  {
+   "position": 17,
+   "title": "Sony WH-1000XM4 Wireless Noise Cancelling Headphones",
+   "product_id": "2444044932151958136",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:2444044932151958136,productid:14117645145211272432,headlineOfferDocid:1302746691594944626,imageDocid:15027071895727602279,rds:PC_4236610052831754941|PROD_PC_4236610052831754941,gpcid:17404637541027234326,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Boomdeal Gadget",
+   "multiple_sources": true,
+   "price": "₹14,499",
+   "extracted_price": 14499,
+   "old_price": "Usually ₹18,849",
+   "extracted_old_price": 18849,
+   "rating": 3.2,
+   "reviews": 3000,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 18,
+   "title": "Sonos Ace Wireless Bluetooth Headphone",
+   "product_id": "15154899857517098012",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:15154899857517098012,productid:1158686100317590294,headlineOfferDocid:4828565523146393104,imageDocid:5285995526840669239,rds:PC_13657167038858960596|PROD_PC_13657167038858960596,gpcid:11077729217946916468,mid:576462913840688851,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "AVShack.in",
+   "price": "₹27,999",
+   "extracted_price": 27999,
+   "old_price": "₹34,999",
+   "extracted_old_price": 34999,
+   "rating": 5.0,
+   "reviews": 4100,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 19,
+   "title": "Noise Airwave Max 4 Wireless Headphones",
+   "product_id": "2790655826841347568",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:2790655826841347568,productid:1078011361577781801,headlineOfferDocid:10532229883735589401,imageDocid:4531381170800518897,rds:PC_11961187056625121008|PROD_PC_11961187056625121008,gpcid:11961187056625121008,mid:576462863403735986,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹1,699",
+   "extracted_price": 1699,
+   "old_price": "Usually ₹1,999",
+   "extracted_old_price": 1999,
+   "rating": 4.3,
+   "reviews": 194,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 20,
+   "title": "Logitech Zone Vibe 100 Lightweight Wireless Headphones",
+   "product_id": "4985313612147356403",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:4985313612147356403,productid:7491171802097421783,headlineOfferDocid:15803619924463960810,imageDocid:14748708199051219282,rds:PC_414504539208847763|PROD_PC_414504539208847763,gpcid:414504539208847763,mid:576462441497120082,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Unboxify",
+   "multiple_sources": true,
+   "price": "₹6,549",
+   "extracted_price": 6549,
+   "old_price": "Usually ₹7,995",
+   "extracted_old_price": 7995,
+   "rating": 4.0,
+   "reviews": 1800,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 21,
+   "title": "boAt Rockerz 551 ANC Pro Bluetooth Headphone with Mic",
+   "product_id": "13526788412997418800",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:13526788412997418800,productid:6982183607823988180,headlineOfferDocid:9347278927538923166,imageDocid:1277485958347301243,rds:PC_369991410874528328|PROD_PC_369991410874528328,gpcid:369991410874528328,mid:576462813343892469,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "addmecart",
+   "multiple_sources": true,
+   "price": "₹2,659",
+   "extracted_price": 2659,
+   "old_price": "Usually ₹3,799",
+   "extracted_old_price": 3799,
+   "rating": 5.0,
+   "reviews": 69,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 22,
+   "title": "JBL Live 780NC Wireless Noise-Canceling Over-Ear Headphones",
+   "product_id": "1936709892757157080",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:1936709892757157080,productid:10863953081880661693,headlineOfferDocid:4534318715292429937,imageDocid:976251407869679331,rds:PC_4567621416211960809|PROD_PC_4567621416211960809,gpcid:4567621416211960809,mid:576462883263422979,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹14,999",
+   "extracted_price": 14999,
+   "old_price": "Usually ₹15,999",
+   "extracted_old_price": 15999,
+   "rating": 4.5,
+   "reviews": 301,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 23,
+   "title": "JBL Charge 5 Portable Wireless Wi-Fi Speaker",
+   "product_id": "245870567447519870",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:245870567447519870,productid:4219729514315770289,headlineOfferDocid:7011592434330378995,imageDocid:12901672669850865449,rds:PC_13528857030111082290|PROD_PC_13528857030111082290,gpcid:13528857030111082290,mid:576462897993864838,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "LowestRate Shopping",
+   "multiple_sources": true,
+   "price": "₹14,949",
+   "extracted_price": 14949,
+   "old_price": "Usually ₹21,853",
+   "extracted_old_price": 21853,
+   "rating": 4.2,
+   "reviews": 498,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 24,
+   "title": "JBL Tune 770NC Wireless Over Ear Headphones",
+   "product_id": "1444612901033301126",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:1444612901033301126,productid:5784842544667700319,headlineOfferDocid:16347502291192012466,imageDocid:5502285776624195238,rds:PC_5615023452758763740|PROD_PC_5615023452758763740,gpcid:5615023452758763740,mid:576462460182639068,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Myntra",
+   "multiple_sources": true,
+   "price": "₹4,799",
+   "extracted_price": 4799,
+   "old_price": "52% off₹9,999",
+   "extracted_old_price": 52,
+   "rating": 5.0,
+   "reviews": 8000,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 25,
+   "title": "Sony Inzone H5 Wireless Gaming Headset",
+   "product_id": "16971278053747478068",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:16971278053747478068,productid:9177618633566954169,headlineOfferDocid:12358211171121340172,imageDocid:18269737145883786223,gpcid:9306961710777945784,mid:576462914773388037,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "e2zSTORE",
+   "multiple_sources": true,
+   "price": "₹12,990",
+   "extracted_price": 12990,
+   "delivery": "Free delivery by Sun"
+  },
+  {
+   "position": 26,
+   "title": "Sony WH-1000XM3 Wireless Noise-Canceling Over-Ear Headphones",
+   "product_id": "5535944593012813486",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:5535944593012813486,productid:1593676859675961009,headlineOfferDocid:3938973605134189335,imageDocid:7798378296713548524,rds:PC_15191954168964401999|PROD_PC_15191954168964401999,gpcid:15191954168964401999,mid:576462503235799032,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Computech Store",
+   "multiple_sources": true,
+   "price": "₹9,999",
+   "extracted_price": 9999,
+   "old_price": "Usually ₹12,490",
+   "extracted_old_price": 12490,
+   "rating": 4.8,
+   "reviews": 8800,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 27,
+   "title": "OneOdio OneOdio Focus A5 Wireless Headset ANC bluetooth Headphone -45dB Deep Active Noise Cancelling Hi-Res LDAC Low Latency Over Ear Headset",
+   "product_id": "6299336398994510668",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:6299336398994510668,productid:12429229486791262694,headlineOfferDocid:15047149926003894775,imageDocid:15146800617363641134,rds:PC_7689138174732703139|PROD_PC_7689138174732703139,gpcid:7689138174732703139,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹4,022",
+   "extracted_price": 4022,
+   "old_price": "Usually ₹7,024",
+   "extracted_old_price": 7024,
+   "rating": 5.0,
+   "reviews": 94,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 28,
+   "title": "Sony WH-1000XM6 Best Noise Canceling Wireless Headphones",
+   "product_id": "11892239440134874030",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:11892239440134874030,productid:13017391442808610410,headlineOfferDocid:6272185548246078365,imageDocid:5298593243657167026,gpcid:5649348068154905544,mid:576462895585149222,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "shoptheworld.in",
+   "multiple_sources": true,
+   "price": "₹47,395",
+   "extracted_price": 47395,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 29,
+   "title": "Edifier G5 MAX THX Spatial Audio Quad-Mode Gaming Headset",
+   "product_id": "11314106709034254203",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:11314106709034254203,productid:5099297172928095660,headlineOfferDocid:6052626362849312705,imageDocid:9753962892067908974,rds:PC_7549792152426800343|PROD_PC_7549792152426800343,gpcid:8055275019592729755,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹12,280",
+   "extracted_price": 12280,
+   "old_price": "₹18,179",
+   "extracted_old_price": 18179,
+   "rating": 5.0,
+   "reviews": 1
+  },
+  {
+   "position": 30,
+   "title": "Noise Airwave Max XR Overhead Wireless Headphone",
+   "product_id": "3678216959963406225",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:3678216959963406225,productid:7657789056785082019,headlineOfferDocid:13410865917518917719,imageDocid:10845247318988831689,rds:PC_7652628734947244793|PROD_PC_7652628734947244793,gpcid:15640963169414313166,mid:576462574880206218,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Myntra - MNow",
+   "multiple_sources": true,
+   "price": "₹2,499",
+   "extracted_price": 2499,
+   "old_price": "Was ₹3,169",
+   "extracted_old_price": 3169,
+   "rating": 4.4,
+   "reviews": 62,
+   "tag": "21% OFF",
+   "extensions": [
+    "21% OFF"
+   ]
+  },
+  {
+   "position": 31,
+   "title": "Audio Technica ATH-M50XBT2 Wireless Over-Ear Headphones",
+   "product_id": "1175976661382317226",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:1175976661382317226,productid:11523392272845693382,headlineOfferDocid:16966742792346367124,imageDocid:9950023809254382937,rds:PC_9389579870491362828|PROD_PC_9389579870491362828,gpcid:9389579870491362828,mid:576462511058647255,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Bad Times Records",
+   "multiple_sources": true,
+   "price": "₹15,785.99",
+   "extracted_price": 15785.99,
+   "old_price": "Usually ₹17,338",
+   "extracted_old_price": 17338,
+   "rating": 5.0,
+   "reviews": 1400,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 32,
+   "title": "Amazon Echo Dot 5th Gen Smart Speaker",
+   "product_id": "5146347305041445026",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:5146347305041445026,productid:8465378085295390732,headlineOfferDocid:14815255908411555762,imageDocid:2680395138513648228,rds:PC_10249425881582121903|PROD_PC_10249425881582121903,gpcid:10249425881582121903,mid:576462913291579832,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹4,499",
+   "extracted_price": 4499,
+   "old_price": "₹5,499",
+   "extracted_old_price": 5499,
+   "rating": 5.0,
+   "reviews": 49,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 33,
+   "title": "Sennheiser HD 569 Around-Ear Closed Back Headphones",
+   "product_id": "13177518852431387714",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:13177518852431387714,productid:14002375418601790017,headlineOfferDocid:10792874059271876250,imageDocid:14358881307130852672,rds:PC_1088033268144304553|PROD_PC_1088033268144304553,gpcid:1088033268144304553,mid:576462897979688960,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Headphone Zone",
+   "multiple_sources": true,
+   "price": "₹7,640",
+   "extracted_price": 7640,
+   "old_price": "₹8,490",
+   "extracted_old_price": 8490,
+   "rating": 4.2,
+   "reviews": 102,
+   "tag": "10% OFF",
+   "extensions": [
+    "10% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 34,
+   "title": "Sonos Five Wireless Speaker",
+   "product_id": "18163505209213437871",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:18163505209213437871,productid:12175962003800060204,headlineOfferDocid:1068636814511577916,imageDocid:12408478384721978428,rds:PC_14494227096752663033|PROD_PC_14494227096752663033,gpcid:14494227096752663033,mid:576462422323595163,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "AVShack.in",
+   "multiple_sources": true,
+   "price": "₹46,749",
+   "extracted_price": 46749,
+   "old_price": "₹54,999",
+   "extracted_old_price": 54999,
+   "rating": 3.7,
+   "reviews": 10000,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 35,
+   "title": "Nike Zoom Vomero 5 Men's",
+   "product_id": "3336373117032208458",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:3336373117032208458,productid:8396236239752953732,headlineOfferDocid:8905888698793723178,imageDocid:2304487461586631609,rds:PC_17703033339214701329|PROD_PC_17703033339214701329,gpcid:17703033339214701329,mid:576462826801093376,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Hustle Club",
+   "multiple_sources": true,
+   "price": "₹14,499",
+   "extracted_price": 14499,
+   "rating": 4.6,
+   "reviews": 3700,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 36,
+   "title": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+   "product_id": "6803416808870529028",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:6803416808870529028,productid:4516237788934998927,headlineOfferDocid:13161348084213573546,imageDocid:9143945974621421235,rds:PC_3375826184378489259|PROD_PC_3375826184378489259,gpcid:3375826184378489259,mid:576462416993949632,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹1,00,709",
+   "extracted_price": 100709,
+   "rating": 3.7,
+   "reviews": 15000,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 37,
+   "title": "Sony ULT WEAR WH-ULT900N Bluetooth Headset with Mic",
+   "product_id": "9869956776757656478",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:9869956776757656478,productid:17666294459721859995,headlineOfferDocid:9773071413299395015,imageDocid:9601839383561613005,gpcid:11540827549287073604,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Croma",
+   "multiple_sources": true,
+   "price": "₹12,990",
+   "extracted_price": 12990,
+   "old_price": "48% off₹24,990",
+   "extracted_old_price": 48
+  },
+  {
+   "position": 38,
+   "title": "Marshall Milton ANC Bluetooth Headphones",
+   "product_id": "699421229900656465",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:699421229900656465,productid:18438448360729654939,headlineOfferDocid:16221628989063471474,imageDocid:6757774733795109677,rds:PC_2429309549495975101|PROD_PC_2429309549495975101,gpcid:2429309549495975101,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Vardiano Retail",
+   "multiple_sources": true,
+   "price": "₹17,995.50",
+   "extracted_price": 17995.5,
+   "old_price": "Usually ₹19,999",
+   "extracted_old_price": 19999,
+   "rating": 5.0,
+   "reviews": 154,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 39,
+   "title": "Bowers & Wilkins Px8 007 Special Edition Over-Ear Noise Cancelling Headphones",
+   "product_id": "8295591910323393814",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:8295591910323393814,productid:12235696557887871662,headlineOfferDocid:8110291002892876271,imageDocid:16267143668182287425,rds:PC_4191675168056787072|PROD_PC_4191675168056787072,gpcid:4191675168056787072,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "8mm.in",
+   "multiple_sources": true,
+   "price": "₹1,19,999",
+   "extracted_price": 119999,
+   "old_price": "Usually ₹1,27,999",
+   "extracted_old_price": 127999,
+   "rating": 5.0,
+   "reviews": 23,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 40,
+   "title": "Sony WH-1000XM4 Headphones",
+   "product_id": "14032059410398312106",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Sony WH-1000XM5 headphones&prds=catalogid:14032059410398312106,productid:5835685356343599414,headlineOfferDocid:16807124879481467351,imageDocid:13349428685325364338,rds:PC_16778212023762791245|PROD_PC_16778212023762791245,gpcid:16778212023762791245,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "EMI Snapmint",
+   "multiple_sources": true,
+   "price": "₹18,999",
+   "extracted_price": 18999,
+   "old_price": "Usually ₹20,989",
+   "extracted_old_price": 20989,
+   "rating": 5.0,
+   "reviews": 3200,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  }
+ ]
+}

@@ -42,7 +42,9 @@ class SerpApiThresholdSensor(BaseSensorOperator):
 
     :param search: a SerpApi parameter dictionary. Its engine needs a row extractor. Templated.
     :param field: the row column to read. Default ``extracted_price``.
-    :param aggregate: ``"min"`` (default), ``"max"`` or ``"first"`` across the rows.
+    :param aggregate: ``"min"`` (default), ``"max"``, ``"median"`` or ``"first"`` across the rows.
+        Real shopping results mix in accessories and other models, so ``"median"`` is
+        usually steadier than ``"min"``.
     :param threshold: the line. Templated.
     :param direction: ``"below"`` (default) or ``"above"``.
     :param fire_on_first_check: succeed on the very first check if the value is

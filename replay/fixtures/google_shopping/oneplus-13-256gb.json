@@ -1,0 +1,375 @@
+{
+ "_replay": true,
+ "_captured_at": "2026-10-09 17:41 UTC",
+ "search_metadata": {
+  "id": "6ac925b92b15b98da60afd65",
+  "status": "Success",
+  "created_at": "2026-10-09 17:34:49 UTC",
+  "processed_at": "2026-10-09 17:34:49 UTC",
+  "total_time_taken": 2.03
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "OnePlus 13 256GB",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "OnePlus 13 5G",
+   "product_id": "3918813501018431139",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=catalogid:3918813501018431139,productid:17005014311573258170,headlineOfferDocid:1170185894843498599,imageDocid:5672612761165628783,rds:PC_2308080459122111039|PROD_PC_2308080459122111039,gpcid:2308080459122111039,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Reliance Digital",
+   "multiple_sources": true,
+   "price": "₹69,999",
+   "extracted_price": 69999,
+   "rating": 5.0,
+   "reviews": 9,
+   "delivery": "Free delivery by Sun"
+  },
+  {
+   "position": 2,
+   "title": "OnePlus 13s 5G",
+   "product_id": "6173632016597289331",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=catalogid:6173632016597289331,productid:7592404733598057202,headlineOfferDocid:5581216543760104935,imageDocid:6382833204536095563,rds:PC_3467318033446397735|PROD_PC_3467318033446397735,gpcid:3467318033446397735,mid:576462875000949956,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Zepto",
+   "multiple_sources": true,
+   "price": "₹51,099",
+   "extracted_price": 51099,
+   "rating": 4.8,
+   "reviews": 78,
+   "delivery": "Free 10 min delivery"
+  },
+  {
+   "position": 3,
+   "title": "OnePlus 13R 5G",
+   "product_id": "15016000968716947325",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=catalogid:15016000968716947325,productid:14172770720462591659,headlineOfferDocid:5784295466460593705,imageDocid:17857160473788319037,rds:PC_6264243941631134561|PROD_PC_6264243941631134561,gpcid:6264243941631134561,mid:576462892675551289,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Zepto",
+   "multiple_sources": true,
+   "price": "₹32,999",
+   "extracted_price": 32999,
+   "old_price": "Usually ₹39,999",
+   "extracted_old_price": 39999,
+   "rating": 4.4,
+   "reviews": 15,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free 10 min delivery"
+  },
+  {
+   "position": 4,
+   "title": "OnePlus 13 5G 256GB 12GB RAM Midnight Ocean (Good Condition)",
+   "product_id": "6189124237759134737",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:6189124237759134737,headlineOfferDocid:6189124237759134737,imageDocid:1532294938878870237,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "buy.budli.in",
+   "price": "₹49,999",
+   "extracted_price": 49999,
+   "second_hand_condition": "refurbished",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 5,
+   "title": "OnePlus 13s 5G CPH2723 256GB 12GB RAM Gsm Unlocked Phone Qualcomm SM8750-AB Snapdragon 8 Elite 50MP",
+   "product_id": "9392610851110593877",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=catalogid:9392610851110593877,productid:5993739833592135973,headlineOfferDocid:405258517874207059,imageDocid:14356202964383260198,rds:PC_4012630894900828915|PROD_PC_4012630894900828915,gpcid:4012630894900828915,mid:576462912439967406,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "FoneZone.com",
+   "multiple_sources": true,
+   "price": "₹21,000",
+   "extracted_price": 21000,
+   "second_hand_condition": "refurbished",
+   "rating": 4.5,
+   "reviews": 215
+  },
+  {
+   "position": 6,
+   "title": "OnePlus 13T 5G PKX110 Dual Sim 256GB Black (12GB RAM) - China Version at Etoren",
+   "product_id": "2076714610687892809",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:2076714610687892809,headlineOfferDocid:2076714610687892809,imageDocid:8017925410822927765,rds:PC_7267777602400383806|PROD_PC_7267777602400383806,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "price": "₹59,137.10",
+   "extracted_price": 59137.1,
+   "alternative_price": {
+    "price": "$611",
+    "extracted_price": 611,
+    "currency": "$"
+   },
+   "rating": 4.6,
+   "reviews": 32
+  },
+  {
+   "position": 7,
+   "title": "OnePlus 13 Dual SIM Factory Unlocked",
+   "product_id": "7826612945797144654",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=catalogid:7826612945797144654,productid:1638091574359627585,headlineOfferDocid:2275548362105850545,imageDocid:18253017606759465409,rds:PC_4594650788447845360|PROD_PC_4594650788447845360,gpcid:4594650788447845360,mid:576462808134585027,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "GudFast",
+   "multiple_sources": true,
+   "price": "₹48,999",
+   "extracted_price": 48999,
+   "second_hand_condition": "refurbished",
+   "rating": 4.7,
+   "reviews": 615,
+   "delivery": "Free delivery by Tue"
+  },
+  {
+   "position": 8,
+   "title": "OnePlus 13T 5G PKX110 Dual Sim 256GB Grey (12GB RAM) - China Version at Etoren",
+   "product_id": "16272909003819236751",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:16272909003819236751,headlineOfferDocid:16272909003819236751,imageDocid:2622754016643981776,rds:PC_3867286501188804806|PROD_PC_3867286501188804806,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "price": "₹59,137.10",
+   "extracted_price": 59137.1,
+   "alternative_price": {
+    "price": "$611",
+    "extracted_price": 611,
+    "currency": "$"
+   },
+   "rating": 4.6,
+   "reviews": 14
+  },
+  {
+   "position": 9,
+   "title": "OnePlus Pad 4 Wi-Fi Android Tablet",
+   "product_id": "1564411620603299231",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=catalogid:1564411620603299231,productid:7813331378703531304,headlineOfferDocid:6618225369895019106,imageDocid:1287101915833024025,rds:PC_11900508375548596526|PROD_PC_11900508375548596526,gpcid:11900508375548596526,mid:576462893445004717,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹62,999",
+   "extracted_price": 62999,
+   "rating": 4.8,
+   "reviews": 122,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 10,
+   "title": "OnePlus 13R – Refurbished Fully Functional – AS-IS Grade | 512GB/16GB | Black – by Ovantica",
+   "product_id": "5815994826059048603",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:5815994826059048603,headlineOfferDocid:5815994826059048603,imageDocid:11568781284738014474,rds:PC_3841081504529818193|PROD_PC_3841081504529818193,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Ovantica.com",
+   "price": "₹14,999",
+   "extracted_price": 14999,
+   "second_hand_condition": "refurbished",
+   "rating": 4.5,
+   "reviews": 4,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 11,
+   "title": "OnePlus 13T 5G PKX110 Dual Sim 256GB Black",
+   "product_id": "14748028929655431941",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=catalogid:14748028929655431941,productid:2184457923896265970,headlineOfferDocid:11394622964849766900,imageDocid:8017925410822927765,rds:PC_2745165238494528542|PROD_PC_2745165238494528542,gpcid:2745165238494528542,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "multiple_sources": true,
+   "price": "₹64,170.05",
+   "extracted_price": 64170.05,
+   "alternative_price": {
+    "price": "$663",
+    "extracted_price": 663,
+    "currency": "$"
+   },
+   "rating": 4.7,
+   "reviews": 29
+  },
+  {
+   "position": 12,
+   "title": "OnePlus 13 ( 256 GB,12 GB RAM)(Refurbished)",
+   "product_id": "11032065862133993631",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:11032065862133993631,headlineOfferDocid:11032065862133993631,imageDocid:3550294655067680607,rds:PC_4834224807153074106|PROD_PC_4834224807153074106,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "GudFast",
+   "price": "₹48,999",
+   "extracted_price": 48999,
+   "second_hand_condition": "refurbished",
+   "rating": 4.5,
+   "reviews": 36,
+   "delivery": "Free delivery by Tue"
+  },
+  {
+   "position": 13,
+   "title": "OnePlus 13s 5G CPH2723 Black Velvet 512GB 12GB RAM Gsm Unlocked Phone Qualcomm SM8750-AB Snapdragon 8 Elite 50MP",
+   "product_id": "2003658960971007628",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=catalogid:2003658960971007628,productid:14099472095874089996,headlineOfferDocid:14965024398085367538,imageDocid:9180170062907841319,rds:PC_4012630894900828915|PROD_PC_4012630894900828915,gpcid:5095090001626535654,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "FoneZone.com",
+   "multiple_sources": true,
+   "price": "₹16,999",
+   "extracted_price": 16999,
+   "second_hand_condition": "refurbished",
+   "rating": 4.5,
+   "reviews": 215
+  },
+  {
+   "position": 14,
+   "title": "OnePlus 13 | StrykerOSS Rooted & Preconfigured - 256GB | 12GB RAM / Preloved / Black Eclipse",
+   "product_id": "10267203831854029678",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:10267203831854029678,headlineOfferDocid:10267203831854029678,imageDocid:506245188785536991,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "PrivacyPortal",
+   "price": "₹1,29,800",
+   "extracted_price": 129800,
+   "second_hand_condition": "pre-owned",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 15,
+   "title": "OnePlus Pad 2 Pro 13.2 inch Wifi 256GB Silver (12GB RAM) - China Version at Etoren",
+   "product_id": "16201827555872950669",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:16201827555872950669,headlineOfferDocid:16201827555872950669,imageDocid:17833102825632332425,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "price": "₹69,009.42",
+   "extracted_price": 69009.42,
+   "alternative_price": {
+    "price": "$713",
+    "extracted_price": 713,
+    "currency": "$"
+   }
+  },
+  {
+   "position": 16,
+   "title": "Oneplus 13r 12gb/256gb 6.7 White",
+   "product_id": "17090152170823284930",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=catalogid:17090152170823284930,productid:4452584329959454506,headlineOfferDocid:13776409367046494340,imageDocid:8914246480247617104,rds:PC_5596116250617377571|PROD_PC_5596116250617377571,gpcid:5596116250617377571,mid:576462892681419147,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Danzaa Store",
+   "multiple_sources": true,
+   "price": "₹49,469.66",
+   "extracted_price": 49469.66,
+   "alternative_price": {
+    "price": "SAR 1,919",
+    "extracted_price": 1919,
+    "currency": "SAR"
+   },
+   "rating": 4.7,
+   "reviews": 69
+  },
+  {
+   "position": 17,
+   "title": "OnePlus Pad 2 Pro 13.2 inch Wifi 256GB Blue (12GB RAM) - China Version at Etoren",
+   "product_id": "3237017042443670581",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=catalogid:3237017042443670581,productid:7797309385494508234,headlineOfferDocid:3129108416033769989,imageDocid:8926974511259429369,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "price": "₹69,009.42",
+   "extracted_price": 69009.42,
+   "alternative_price": {
+    "price": "$713",
+    "extracted_price": 713,
+    "currency": "$"
+   }
+  },
+  {
+   "position": 18,
+   "title": "OnePlus 13 5G 24GB RAM, 1TB Storage (Any Color)",
+   "product_id": "3278823738622774550",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:3278823738622774550,headlineOfferDocid:3278823738622774550,imageDocid:15146730118619776993,rds:PC_14378976786331778731|PROD_PC_14378976786331778731,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "GameLoot",
+   "price": "₹34,000",
+   "extracted_price": 34000,
+   "rating": 4.7,
+   "reviews": 25
+  },
+  {
+   "position": 19,
+   "title": "OnePlus Pad 3 Pro 13.2 inch Wifi 256GB Green (12GB RAM) - China Version at Etoren",
+   "product_id": "4776001092107432859",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:4776001092107432859,headlineOfferDocid:4776001092107432859,imageDocid:12490779467198236543,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "price": "₹89,818.71",
+   "extracted_price": 89818.71,
+   "alternative_price": {
+    "price": "$928",
+    "extracted_price": 928,
+    "currency": "$"
+   }
+  },
+  {
+   "position": 20,
+   "title": "OnePlus 13T 5G Dual SIM 12GB+256GB Storage Phone (Chinese Version)",
+   "product_id": "13406324128147508792",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:13406324128147508792,headlineOfferDocid:13406324128147508792,imageDocid:10678469714816760641,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Danzaa Store",
+   "price": "₹55,708.15",
+   "extracted_price": 55708.15,
+   "alternative_price": {
+    "price": "SAR 2,161",
+    "extracted_price": 2161,
+    "currency": "SAR"
+   }
+  },
+  {
+   "position": 21,
+   "title": "OnePlus Pad 3 Pro 13.2 inch Wifi 256GB Brown (12GB RAM) - China Version at Etoren",
+   "product_id": "6157327892484982701",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:6157327892484982701,headlineOfferDocid:6157327892484982701,imageDocid:7825059762551145546,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "price": "₹89,818.71",
+   "extracted_price": 89818.71,
+   "alternative_price": {
+    "price": "$928",
+    "extracted_price": 928,
+    "currency": "$"
+   }
+  },
+  {
+   "position": 22,
+   "title": "OnePlus 13 | DerpFest - 512GB / 16GB RAM / Black Eclipse / Like New",
+   "product_id": "16364103144483081216",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:16364103144483081216,headlineOfferDocid:16364103144483081216,imageDocid:8006640772950720453,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "PrivacyPortal",
+   "price": "₹1,54,800",
+   "extracted_price": 154800,
+   "second_hand_condition": "pre-owned",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 23,
+   "title": "OnePlus 13T 5G PKX110 Dual Sim 256GB Pink (12GB RAM) - China Version at Etoren",
+   "product_id": "13043505261752350326",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:13043505261752350326,headlineOfferDocid:13043505261752350326,imageDocid:847058408375523472,rds:PC_2745165238494528542|PROD_PC_2745165238494528542,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Etoren.com",
+   "price": "₹59,137.10",
+   "extracted_price": 59137.1,
+   "alternative_price": {
+    "price": "$611",
+    "extracted_price": 611,
+    "currency": "$"
+   },
+   "rating": 4.7,
+   "reviews": 29
+  },
+  {
+   "position": 24,
+   "title": "Oneplus 13r 5g (512 Gb, 16 Gb Ram)",
+   "product_id": "1539621859146238090",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:1539621859146238090,headlineOfferDocid:1539621859146238090,imageDocid:2016743980420338285,rds:PC_14396113235903005638|PROD_PC_14396113235903005638,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "EW Shopping",
+   "price": "₹46,799",
+   "extracted_price": 46799,
+   "rating": 4.8,
+   "reviews": 31,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 25,
+   "title": "OnePlus 13 | KernelSU Next + SUSFS Rooted Phone - 512GB | 16GB RAM / Black Eclipse / Preloved",
+   "product_id": "13552172626349062745",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:13552172626349062745,headlineOfferDocid:13552172626349062745,imageDocid:11350286385094654321,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "PrivacyPortal",
+   "price": "₹1,01,600",
+   "extracted_price": 101600,
+   "second_hand_condition": "pre-owned",
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 26,
+   "title": "OnePlus 13R | Magisk Rooted Phone - 256GB / 12GB RAM / Nebula Noir / Preloved",
+   "product_id": "885626916983427866",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=OnePlus 13 256GB&prds=productid:885626916983427866,headlineOfferDocid:885626916983427866,imageDocid:17093283145257927280,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "PrivacyPortal",
+   "price": "₹84,400",
+   "extracted_price": 84400,
+   "second_hand_condition": "pre-owned",
+   "delivery": "Free delivery"
+  }
+ ]
+}

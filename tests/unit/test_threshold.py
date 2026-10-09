@@ -52,6 +52,8 @@ def test_reduce_values_min_max_first():
     assert reduce_values(rows, "p", "min") == 10.0
     assert reduce_values(rows, "p", "max") == 30.0
     assert reduce_values(rows, "p", "first") == 30.0
+    assert reduce_values(rows, "p", "median") == 20.5
+    assert reduce_values([{"p": 1}, {"p": 3}], "p", "median") == 2.0
 
 
 def test_reduce_values_ignores_non_numbers_and_returns_none_when_empty():
@@ -61,7 +63,7 @@ def test_reduce_values_ignores_non_numbers_and_returns_none_when_empty():
 
 def test_reduce_values_refuses_an_unknown_aggregate():
     with pytest.raises(ValueError, match="aggregate"):
-        reduce_values([{"p": 1}], "p", "median")
+        reduce_values([{"p": 1}], "p", "mode")
 
 
 def test_the_poke_interval_is_raised_to_the_cache_period():

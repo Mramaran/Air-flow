@@ -1,0 +1,500 @@
+{
+ "_replay": true,
+ "_captured_at": "2026-10-09 17:41 UTC",
+ "search_metadata": {
+  "id": "6ac925bf1bd4f01bfcc7a8ef",
+  "status": "Success",
+  "created_at": "2026-10-09 17:34:55 UTC",
+  "processed_at": "2026-10-09 17:34:55 UTC",
+  "total_time_taken": 5.56
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Redmi Note 14 Pro 5G",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "Redmi Note 14 Pro+ 5g",
+   "product_id": "891304188646583444",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=catalogid:891304188646583444,productid:7600065827894833910,headlineOfferDocid:13573006343935922370,imageDocid:5110546205298157936,rds:PC_17921294643733982770|PROD_PC_17921294643733982770,gpcid:17921294643733982770,mid:576462563307583040,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Suraj Business",
+   "multiple_sources": true,
+   "price": "₹32,540",
+   "extracted_price": 32540,
+   "rating": 4.0,
+   "reviews": 116
+  },
+  {
+   "position": 2,
+   "title": "Redmi Note 14 Pro+ 5g",
+   "product_id": "891304188646583444",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=catalogid:891304188646583444,productid:7600065827894833910,headlineOfferDocid:14321684524976534100,imageDocid:5110546205298157936,rds:PC_17921294643733982770|PROD_PC_17921294643733982770,gpcid:17921294643733982770,mid:576462563307583040,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Shopsy By Flipkart",
+   "multiple_sources": true,
+   "price": "₹29,275",
+   "extracted_price": 29275,
+   "rating": 4.0,
+   "reviews": 116,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 3,
+   "title": "Redmi Note 14 Pro 5g (8GB RAM, 128GB, Titan Black)",
+   "product_id": "14268598313266930673",
+   "multiple_sources": true,
+   "rating": 5.0,
+   "reviews": 20
+  },
+  {
+   "position": 4,
+   "title": "Xiaomi Redmi Note 15 Pro 5G Dual Sim 512GB Black",
+   "product_id": "15604789675418377041",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=catalogid:15604789675418377041,productid:5646044806582856974,headlineOfferDocid:8684676391428873198,imageDocid:279500971916724737,rds:PC_11796770373930334192|PROD_PC_11796770373930334192,gpcid:11796770373930334192,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹57,123",
+   "extracted_price": 57123,
+   "rating": 3.7,
+   "reviews": 86
+  },
+  {
+   "position": 5,
+   "title": "Xiaomi Redmi Note 14 Pro+ 5G - LCD Display + Touch Screen + Frame (Frost Blue) OLED",
+   "product_id": "8352013103494248640",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:8352013103494248640,headlineOfferDocid:8352013103494248640,imageDocid:15576302220947545275,rds:CID_10546866271785828795|PROD_CID_10546866271785828795,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "FixShop EU",
+   "price": "₹8,521.83",
+   "extracted_price": 8521.83,
+   "alternative_price": {
+    "price": "€79",
+    "extracted_price": 79,
+    "currency": "€"
+   },
+   "rating": 3.1,
+   "reviews": 71
+  },
+  {
+   "position": 6,
+   "title": "Xiaomi Redmi Note 14 Pro 5G 24090RA29G - LCD Display + Touch Screen + Frame (Midnight Black) OLED",
+   "product_id": "11553332278893400419",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:11553332278893400419,headlineOfferDocid:11553332278893400419,imageDocid:9307283660337622618,rds:PC_227511172438140628|PROD_PC_227511172438140628,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "FixShop EU",
+   "price": "₹8,521.83",
+   "extracted_price": 8521.83,
+   "alternative_price": {
+    "price": "€79",
+    "extracted_price": 79,
+    "currency": "€"
+   },
+   "rating": 5.0,
+   "reviews": 1
+  },
+  {
+   "position": 7,
+   "title": "Redmi note 14 Pro 5G Front Cover Display Module",
+   "product_id": "18147633726746612329",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:18147633726746612329,headlineOfferDocid:18147633726746612329,imageDocid:4560759896620082405,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "mi.com",
+   "price": "₹5,933.22",
+   "extracted_price": 5933.22,
+   "alternative_price": {
+    "price": "€55",
+    "extracted_price": 55,
+    "currency": "€"
+   }
+  },
+  {
+   "position": 8,
+   "title": "Redmi note 14 Pro 5G Front Cover Display Module",
+   "product_id": "15518164886758902570",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:15518164886758902570,headlineOfferDocid:15518164886758902570,imageDocid:7589881340900745090,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "mi.com",
+   "price": "₹5,933.22",
+   "extracted_price": 5933.22,
+   "alternative_price": {
+    "price": "€55",
+    "extracted_price": 55,
+    "currency": "€"
+   }
+  },
+  {
+   "position": 9,
+   "title": "Redmi Note 14 Pro",
+   "product_id": "17514442670066138399",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:17514442670066138399,headlineOfferDocid:17514442670066138399,imageDocid:2680498764452552433,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "mi.com",
+   "price": "₹432.16",
+   "extracted_price": 432.16,
+   "alternative_price": {
+    "price": "€4",
+    "extracted_price": 4,
+    "currency": "€"
+   }
+  },
+  {
+   "position": 10,
+   "title": "Redmi Note 14 Pro Plus (5G) Skins & Wraps | Decalz Legacy",
+   "product_id": "15354690720278653145",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:15354690720278653145,headlineOfferDocid:15354690720278653145,imageDocid:3970659936569911839,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Decalz",
+   "price": "₹399",
+   "extracted_price": 399,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 11,
+   "title": "Redmi Note 14 Pro Plus 5G Skins & Wraps, Full Back / Tech Camo Dark",
+   "product_id": "16599572078872053840",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:16599572078872053840,headlineOfferDocid:16599572078872053840,imageDocid:14978721794458031767,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgetshieldz",
+   "price": "₹599",
+   "extracted_price": 599,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 12,
+   "title": "Redmi Note 14 Pro Plus 5G",
+   "product_id": "16170206349111044707",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:16170206349111044707,headlineOfferDocid:16170206349111044707,imageDocid:3836537563869409938,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "XParts",
+   "price": "₹5,899",
+   "extracted_price": 5899,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 13,
+   "title": "Redmi note 14 Pro 5G REAR ULTRA WIDE ANGLE CAMERA 8M",
+   "product_id": "14928636492002545640",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:14928636492002545640,headlineOfferDocid:14928636492002545640,imageDocid:15961838452645096799,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "mi.com",
+   "price": "₹278.36",
+   "extracted_price": 278.36,
+   "alternative_price": {
+    "price": "€3",
+    "extracted_price": 3,
+    "currency": "€"
+   }
+  },
+  {
+   "position": 14,
+   "title": "Redmi Note 14 Pro Plus (5G) Skins & Wraps | Decalz Acid Green",
+   "product_id": "17136302053311222047",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:17136302053311222047,headlineOfferDocid:17136302053311222047,imageDocid:3294260562149851924,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Decalz",
+   "price": "₹399",
+   "extracted_price": 399,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 15,
+   "title": "Xiaomi Redmi Note 14 Pro 5G 24090RA29G - LCD Display + Touch Screen + Frame (Midnight Black) TFT",
+   "product_id": "745350561360288427",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:745350561360288427,headlineOfferDocid:745350561360288427,imageDocid:2874130422433273837,rds:PC_227511172438140628|PROD_PC_227511172438140628,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "FixShop EU",
+   "price": "₹5,751.26",
+   "extracted_price": 5751.26,
+   "alternative_price": {
+    "price": "€53",
+    "extracted_price": 53,
+    "currency": "€"
+   },
+   "rating": 3.5,
+   "reviews": 30
+  },
+  {
+   "position": 16,
+   "title": "Redmi Note 14 Pro 5G Skins & Wraps, Full Back / Manga Relics",
+   "product_id": "12264051500949860896",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:12264051500949860896,headlineOfferDocid:12264051500949860896,imageDocid:12773605197758032880,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgetshieldz",
+   "price": "₹599",
+   "extracted_price": 599,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 17,
+   "title": "Redmi Note 14 Pro 5G Skins & Wraps, Full Back / Noir Aramid",
+   "product_id": "9197200205347757579",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:9197200205347757579,headlineOfferDocid:9197200205347757579,imageDocid:16200913795177920020,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgetshieldz",
+   "price": "₹599",
+   "extracted_price": 599,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 18,
+   "title": "Lion Tamer Premium Glass Cover for Redmi Note 14 Pro Plus 5G",
+   "product_id": "2905693489958717323",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=catalogid:2905693489958717323,productid:415562032232425586,headlineOfferDocid:926762089357506566,imageDocid:10493782453408463053,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Bewakoof.com",
+   "price": "₹499",
+   "extracted_price": 499,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 19,
+   "title": "Rwm Back Cover For Redmi Note 14 Pro 5g Mag-safe | Designed Shockproof Case",
+   "product_id": "2236226344063015707",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:2236226344063015707,headlineOfferDocid:2236226344063015707,imageDocid:5322198467652103804,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹247",
+   "extracted_price": 247,
+   "old_price": "79% off₹1,199",
+   "extracted_old_price": 79,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 20,
+   "title": "Sticky Notes Redmi Note 14 Pro Plus 5G Silicone Back Cover",
+   "product_id": "12378851428221494431",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=catalogid:12378851428221494431,productid:151035883407937757,headlineOfferDocid:16034736789156177559,imageDocid:15015192639871241292,gpcid:1402309363955074932,mid:576462883194716503,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Sirphire",
+   "price": "₹299",
+   "extracted_price": 299,
+   "delivery": "Free delivery by Tue"
+  },
+  {
+   "position": 21,
+   "title": "Redmi note 14 Pro 5G REAR MAIN CAMERA 200M",
+   "product_id": "15580273434683079878",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:15580273434683079878,headlineOfferDocid:15580273434683079878,imageDocid:14976107580743175419,rds:PC_4537070668667208800|PROD_PC_4537070668667208800,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "mi.com",
+   "price": "₹3,731.28",
+   "extracted_price": 3731.28,
+   "alternative_price": {
+    "price": "€34",
+    "extracted_price": 34,
+    "currency": "€"
+   },
+   "rating": 3.3,
+   "reviews": 1
+  },
+  {
+   "position": 22,
+   "title": "TrueView Display for Redmi Note 14 Pro 5G Display Assembly",
+   "product_id": "17274270924093860831",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:17274270924093860831,headlineOfferDocid:17274270924093860831,imageDocid:4292577894786799925,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Quantum E-Life",
+   "price": "₹4,899",
+   "extracted_price": 4899,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 23,
+   "title": "Rwm Back Cover For Redmi Note 14 Pro 5g Full Camera Protection",
+   "product_id": "15393713070063479552",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:15393713070063479552,headlineOfferDocid:15393713070063479552,imageDocid:14510388887178388508,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹291",
+   "extracted_price": 291,
+   "old_price": "71% off₹999",
+   "extracted_old_price": 71,
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 24,
+   "title": "Yuwoo Back Cover For Redmi Note 14 Pro 5g",
+   "product_id": "4654967891683387615",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=catalogid:4654967891683387615,productid:9653838677163197112,headlineOfferDocid:7463661244940789132,imageDocid:9606845615407093278,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹291",
+   "extracted_price": 291,
+   "old_price": "71% off₹999",
+   "extracted_old_price": 71,
+   "delivery": "Free delivery by Wed"
+  },
+  {
+   "position": 25,
+   "title": "XIAOMI REDMI Note 15 Pro 5G Smartphone 6580mAh IP66/IP68",
+   "product_id": "1662746219621390529",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=catalogid:1662746219621390529,productid:6077789458881076814,headlineOfferDocid:15504217707789919119,imageDocid:418005241983197192,rds:PC_2360031094494890871|PROD_PC_2360031094494890871,gpcid:2360031094494890871,mid:576462563413905201,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹53,021",
+   "extracted_price": 53021,
+   "rating": 3.2,
+   "reviews": 190
+  },
+  {
+   "position": 26,
+   "title": "V_GADGETS Xiaomi Redmi Note 14 Pro (5G) Mobile Skin (Multicolor B... more",
+   "product_id": "18295861444489876171",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:18295861444489876171,headlineOfferDocid:18295861444489876171,imageDocid:12633960409363277542,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "price": "₹152",
+   "extracted_price": 152
+  },
+  {
+   "position": 27,
+   "title": "Redmi Note 14 Pro 5G,Redmi Note 14 Pro 5G Back Cover,Redmi Note 14 Pro 5G Mobile Back Cover,Redmi No",
+   "product_id": "16162574609976205060",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:16162574609976205060,headlineOfferDocid:16162574609976205060,imageDocid:15985639116729992777,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Meesho",
+   "price": "₹164",
+   "extracted_price": 164,
+   "old_price": "45% off₹299",
+   "extracted_old_price": 45,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 28,
+   "title": "Original Complete Display Assembly with Frame for Xiaomi Redmi Note 14 Pro 5G India",
+   "product_id": "3467397709303095583",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:3467397709303095583,headlineOfferDocid:3467397709303095583,imageDocid:15560567215563591966,rds:PC_2712333563170837417|PROD_PC_2712333563170837417,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Movilstore",
+   "price": "₹6,369.71",
+   "extracted_price": 6369.71,
+   "alternative_price": {
+    "price": "€59",
+    "extracted_price": 59,
+    "currency": "€"
+   },
+   "rating": 3.6,
+   "reviews": 5
+  },
+  {
+   "position": 29,
+   "title": "Seriousshoppers For Xiaomi Redmi Note 14 Pro 5g Full Housing Body Full Panel",
+   "product_id": "15644960967031523538",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=catalogid:15644960967031523538,productid:12289933378652758573,headlineOfferDocid:2988298653779132482,imageDocid:17557997072052078729,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Shopsy By Flipkart",
+   "price": "₹988",
+   "extracted_price": 988,
+   "old_price": "Was ₹1,303",
+   "extracted_old_price": 1303,
+   "tag": "24% OFF",
+   "extensions": [
+    "24% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 30,
+   "title": "XIAOMI Redmi Note 15 Pro 5G Ai NFC 6.83\" 120Hz 200MP Pro Ai Camera Model 25080RABDG Unlocked Dual Sim Liberado",
+   "product_id": "4391857899409009716",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=catalogid:4391857899409009716,productid:9591239960582647062,headlineOfferDocid:16359359267315299718,imageDocid:2309113797711453465,gpcid:9905717470663382519,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹99,451",
+   "extracted_price": 99451
+  },
+  {
+   "position": 31,
+   "title": "Redmi note 14 Pro 5G Front Cover Display Module",
+   "product_id": "1297536571660173449",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:1297536571660173449,headlineOfferDocid:1297536571660173449,imageDocid:5081831214329497373,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "mi.com",
+   "price": "₹5,933.22",
+   "extracted_price": 5933.22,
+   "alternative_price": {
+    "price": "€55",
+    "extracted_price": 55,
+    "currency": "€"
+   }
+  },
+  {
+   "position": 32,
+   "title": "Green Owl Redmi Note 14 Pro 5G Back Cover",
+   "product_id": "17571694168634462694",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=catalogid:17571694168634462694,productid:17117933029124049445,headlineOfferDocid:16800127132737848763,imageDocid:10764027682520513776,gpcid:7280557048137917616,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Hello Swanky",
+   "price": "₹489",
+   "extracted_price": 489,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 33,
+   "title": "Redmi Note 14 Pro 5G,Redmi Note 14 Pro 5G Back Cover,Redmi Note 14 Pro 5G Mobile Back Cover,Redmi No",
+   "product_id": "18419820859107493180",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:18419820859107493180,headlineOfferDocid:18419820859107493180,imageDocid:14322941445608205976,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Meesho",
+   "price": "₹164",
+   "extracted_price": 164,
+   "old_price": "45% off₹299",
+   "extracted_old_price": 45,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 34,
+   "title": "Redmi Note 14 Pro 5G,Redmi Note 14 Pro 5G Back Cover,Redmi Note 14 Pro 5G Mobile Back Cover,Redmi No",
+   "product_id": "1943085474435577748",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:1943085474435577748,headlineOfferDocid:1943085474435577748,imageDocid:13080228006778592432,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Meesho",
+   "price": "₹162",
+   "extracted_price": 162,
+   "old_price": "46% off₹299",
+   "extracted_old_price": 46,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 35,
+   "title": "Redmi Note 14 Pro 5G,Redmi Note 14 Pro 5G Back Cover,Redmi Note 14 Pro 5G Mobile Back Cover,Redmi No",
+   "product_id": "7946486532027980534",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:7946486532027980534,headlineOfferDocid:7946486532027980534,imageDocid:13783339514336538331,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Meesho",
+   "price": "₹164",
+   "extracted_price": 164,
+   "old_price": "45% off₹299",
+   "extracted_old_price": 45,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 36,
+   "title": "Redmi Note 14 Pro 5G,Redmi Note 14 Pro 5G Back Cover,Redmi Note 14 Pro 5G Mobile Back Cover,Redmi No",
+   "product_id": "17307525952436580887",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:17307525952436580887,headlineOfferDocid:17307525952436580887,imageDocid:6293919056301860563,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Meesho",
+   "price": "₹164",
+   "extracted_price": 164,
+   "old_price": "45% off₹299",
+   "extracted_old_price": 45,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 37,
+   "title": "Redmi Note 14 Pro 5G,Redmi Note 14 Pro 5G Back Cover,Redmi Note 14 Pro 5G Mobile Back Cover,Redmi No",
+   "product_id": "3389617903067404610",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:3389617903067404610,headlineOfferDocid:3389617903067404610,imageDocid:8059381070544211152,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Meesho",
+   "price": "₹162",
+   "extracted_price": 162,
+   "old_price": "46% off₹299",
+   "extracted_old_price": 46,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 38,
+   "title": "Redmi Note 14 Pro 5G,Redmi Note 14 Pro 5G Back Cover,Redmi Note 14 Pro 5G Mobile Back Cover,Redmi No",
+   "product_id": "9630836750423527345",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:9630836750423527345,headlineOfferDocid:9630836750423527345,imageDocid:10376023239091285375,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Meesho",
+   "price": "₹164",
+   "extracted_price": 164,
+   "old_price": "45% off₹299",
+   "extracted_old_price": 45,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 39,
+   "title": "Save Big: Get the Be Original Redmi Note 14 Pro 5G Back Cover - Shop Now Glass",
+   "product_id": "5943648047057925610",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:5943648047057925610,headlineOfferDocid:5943648047057925610,imageDocid:9734142486127508999,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "casekaro.com",
+   "price": "₹299",
+   "extracted_price": 299
+  },
+  {
+   "position": 40,
+   "title": "for Rugged Shield Xiaomi Redmi Note 14 Pro 5G Case HD-Black",
+   "product_id": "1400541179789815533",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Redmi Note 14 Pro 5G&prds=productid:1400541179789815533,headlineOfferDocid:1400541179789815533,imageDocid:11146803987167596376,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹1,663",
+   "extracted_price": 1663
+  }
+ ]
+}

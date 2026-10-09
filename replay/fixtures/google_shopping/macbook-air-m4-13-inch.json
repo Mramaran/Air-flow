@@ -1,0 +1,481 @@
+{
+ "_replay": true,
+ "_captured_at": "2026-10-09 17:41 UTC",
+ "search_metadata": {
+  "id": "6ac927067af8994e1a511022",
+  "status": "Success",
+  "created_at": "2026-10-09 17:40:22 UTC",
+  "processed_at": "2026-10-09 17:40:22 UTC",
+  "total_time_taken": 0.67
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "MacBook Air M4 13 inch",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "Restored Apple 15\" MacBook Air with M4 chip, 10-core CPU / 10-core GPU, 16GB Memory, 512GB SSD - Midnight",
+   "product_id": "14767459745646206491",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:14767459745646206491,headlineOfferDocid:14767459745646206491,imageDocid:9226854441321079393,rds:PC_13548628477459230106|PROD_PC_13548628477459230106,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹1,54,988",
+   "extracted_price": 154988,
+   "rating": 4.8,
+   "reviews": 1400
+  },
+  {
+   "position": 2,
+   "title": "Apple MacBook Neo",
+   "product_id": "2606472737781171378",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=catalogid:2606472737781171378,productid:10282447898485007390,headlineOfferDocid:5208116510076338506,imageDocid:16264299980350938526,rds:PC_6376925527945280566|PROD_PC_6376925527945280566,gpcid:6376925527945280566,mid:576462883750226254,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "hgspot.hr",
+   "multiple_sources": true,
+   "price": "₹1,02,786.14",
+   "extracted_price": 102786.14,
+   "alternative_price": {
+    "price": "€949",
+    "extracted_price": 949,
+    "currency": "€"
+   },
+   "rating": 2.9,
+   "reviews": 6100
+  },
+  {
+   "position": 3,
+   "title": "Apple MacBook Neo",
+   "product_id": "2606472737781171378",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=catalogid:2606472737781171378,productid:10282447898485007390,headlineOfferDocid:9861746210011599321,imageDocid:16264299980350938526,rds:PC_6376925527945280566|PROD_PC_6376925527945280566,gpcid:6376925527945280566,mid:576462883750226254,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Apple",
+   "multiple_sources": true,
+   "price": "₹89,900",
+   "extracted_price": 89900,
+   "rating": 2.9,
+   "reviews": 6100,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 4,
+   "title": "Apple MacBook Air (15.3 inch, M4, 24GB, 512GB, macOS, Midnight)",
+   "product_id": "11746954314342659427",
+   "multiple_sources": true,
+   "rating": 5.0,
+   "reviews": 1500
+  },
+  {
+   "position": 5,
+   "title": "Apple MacBook Air Laptop, 13.6\" Liquid Retina Display, M4 Chip, 10-Core CPU, 10-Core GPU, 16-Core Neural Engine, 16GB RAM, 1TB SSD, English K/B, MacOS",
+   "product_id": "11591941379764876020",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:11591941379764876020,headlineOfferDocid:11591941379764876020,imageDocid:13025910969261496041,rds:PC_17799653716361815542|PROD_PC_17799653716361815542,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Microless.com",
+   "price": "₹1,59,137.85",
+   "extracted_price": 159137.85,
+   "alternative_price": {
+    "price": "$1,644",
+    "extracted_price": 1644,
+    "currency": "$"
+   },
+   "rating": 4.3,
+   "reviews": 5800
+  },
+  {
+   "position": 6,
+   "title": "Apple MacBook Air Laptop, 13.6\" Liquid Retina Display, M4 Chip with 10-Core CPU, 10-Core GPU, 16-Core Neural Engine, 24GB RAM, 2TB SSD, English K/B, M",
+   "product_id": "6574912563960392070",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:6574912563960392070,headlineOfferDocid:6574912563960392070,imageDocid:16310609834026734770,rds:PC_17799653716361815542|PROD_PC_17799653716361815542,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Microless.com",
+   "price": "₹2,31,067.34",
+   "extracted_price": 231067.34,
+   "alternative_price": {
+    "price": "$2,387",
+    "extracted_price": 2387,
+    "currency": "$"
+   },
+   "rating": 4.3,
+   "reviews": 5900
+  },
+  {
+   "position": 7,
+   "title": "Apple MacBook Air Laptop, 13.6\" Liquid Retina Display, M4 Chip with 10-Core CPU, 10-Core GPU, 16-Core Neural Engine, 24GB RAM, 2TB SSD, English K/B, M",
+   "product_id": "2553683859409365652",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:2553683859409365652,headlineOfferDocid:2553683859409365652,imageDocid:10492087870128245002,rds:PC_17799653716361815542|PROD_PC_17799653716361815542,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Microless.com",
+   "price": "₹2,24,307.71",
+   "extracted_price": 224307.71,
+   "alternative_price": {
+    "price": "$2,318",
+    "extracted_price": 2318,
+    "currency": "$"
+   },
+   "rating": 4.3,
+   "reviews": 5900
+  },
+  {
+   "position": 8,
+   "title": "Apple MacBook Air Laptop, 13.6\" Liquid Retina Display, M4 Chip with 10-Core CPU, 10-Core GPU, 16-Core Neural Engine, 16GB RAM, 1TB SSD, English Magic",
+   "product_id": "17268754020758599515",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:17268754020758599515,headlineOfferDocid:17268754020758599515,imageDocid:16459590402853287283,rds:PC_17799653716361815542|PROD_PC_17799653716361815542,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Microless.com",
+   "price": "₹1,59,137.85",
+   "extracted_price": 159137.85,
+   "alternative_price": {
+    "price": "$1,644",
+    "extracted_price": 1644,
+    "currency": "$"
+   },
+   "rating": 4.6,
+   "reviews": 5800
+  },
+  {
+   "position": 9,
+   "title": "Apple MacBook Air",
+   "product_id": "4436794722854985300",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=catalogid:4436794722854985300,productid:2842930951426217111,headlineOfferDocid:3038576114919881712,imageDocid:941363078291861161,rds:PC_8602998232814770163|PROD_PC_8602998232814770163,gpcid:8602998232814770163,mid:576462562025329966,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "yourshoppy.com",
+   "multiple_sources": true,
+   "price": "₹2,09,900",
+   "extracted_price": 209900,
+   "rating": 3.6,
+   "reviews": 3800,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 10,
+   "title": "Apple MacBook Air Laptop, 13.6\" Liquid Retina Display, M4 Chip with 10-Core CPU, 10-Core GPU, 16-Core Neural Engine, 32GB RAM, 2TB SSD, English K/B, M",
+   "product_id": "8944458094412994975",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:8944458094412994975,headlineOfferDocid:8944458094412994975,imageDocid:1658464185804406703,rds:PC_17799653716361815542|PROD_PC_17799653716361815542,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Microless.com",
+   "price": "₹2,46,881.44",
+   "extracted_price": 246881.44,
+   "alternative_price": {
+    "price": "$2,551",
+    "extracted_price": 2551,
+    "currency": "$"
+   },
+   "rating": 4.1,
+   "reviews": 5800
+  },
+  {
+   "position": 11,
+   "title": "Apple MacBook Air Laptop, 13.6\" Liquid Retina Display, M4 Chip with 10-Core CPU, 10-Core GPU, 16-Core Neural Engine, 32GB RAM, 2TB SSD, English K/B, M",
+   "product_id": "6056485458298153438",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:6056485458298153438,headlineOfferDocid:6056485458298153438,imageDocid:6617230984975240172,rds:PC_17799653716361815542|PROD_PC_17799653716361815542,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Microless.com",
+   "price": "₹2,46,881.44",
+   "extracted_price": 246881.44,
+   "alternative_price": {
+    "price": "$2,551",
+    "extracted_price": 2551,
+    "currency": "$"
+   },
+   "rating": 4.1,
+   "reviews": 5800
+  },
+  {
+   "position": 12,
+   "title": "Apple MacBook Air",
+   "product_id": "4436794722854985300",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=catalogid:4436794722854985300,productid:2842930951426217111,headlineOfferDocid:12883456905652056691,imageDocid:941363078291861161,rds:PC_8602998232814770163|PROD_PC_8602998232814770163,gpcid:8602998232814770163,mid:576462562025329966,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "MacStation",
+   "multiple_sources": true,
+   "price": "₹1,33,900",
+   "extracted_price": 133900,
+   "rating": 3.6,
+   "reviews": 3800,
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 13,
+   "title": "13-inch MacBook Air: Apple M4 Chip with 10-core CPU and 10-core GPU, 512GB SSD - Midnight",
+   "product_id": "16121821013478749920",
+   "multiple_sources": true,
+   "rating": 5.0,
+   "reviews": 5900
+  },
+  {
+   "position": 14,
+   "title": "New Verizon Apple iPad Air 13\" M4 128GB Blue MH9E4LL/A",
+   "product_id": "830538189591524914",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:830538189591524914,headlineOfferDocid:830538189591524914,imageDocid:18215056158994735899,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹1,12,896",
+   "extracted_price": 112896
+  },
+  {
+   "position": 15,
+   "title": "Apple iPad Air 2026 with Apple M4 Chip (13-inch, Wi-Fi + Cellular, 256GB) - Purple (Renewed)",
+   "product_id": "12331121321624097296",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=catalogid:12331121321624097296,productid:11134604530418234707,headlineOfferDocid:9004287184273732788,imageDocid:15508002133700421578,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.com.sa",
+   "price": "₹1,45,573.31",
+   "extracted_price": 145573.31,
+   "alternative_price": {
+    "price": "SAR 5,647",
+    "extracted_price": 5647,
+    "currency": "SAR"
+   },
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 16,
+   "title": "Compatible with Macbook Air 13 inch Case M5 M4 M3 M2 Case 2026 2025-2022, Laptop cover 13.6 inch with Keyboard Cover&Screen Protector fit Model A3449",
+   "product_id": "1321990999027247169",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:1321990999027247169,headlineOfferDocid:1321990999027247169,imageDocid:13673797499614354303,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "price": "₹7,368",
+   "extracted_price": 7368
+  },
+  {
+   "position": 17,
+   "title": "For MacBook Air M4 13 inch A3240 LCD Screen Display Front Bezel Logo Cover",
+   "product_id": "4171576568144806837",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:4171576568144806837,headlineOfferDocid:4171576568144806837,imageDocid:6391894283485173801,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Garmade",
+   "price": "₹1,062.52",
+   "extracted_price": 1062.52,
+   "alternative_price": {
+    "price": "€10",
+    "extracted_price": 10,
+    "currency": "€"
+   },
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 18,
+   "title": "Anti-Cracking Case for MacBook Air 13 inch M5 M4 M3 M2 2026-2022 | Rugged TPU Bumper, Drop Protection, Anti-Scratch, Sleek Look, Easy to Snap On Prote",
+   "product_id": "337068185421220028",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:337068185421220028,headlineOfferDocid:337068185421220028,imageDocid:2542043688113308869,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹4,978",
+   "extracted_price": 4978,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 19,
+   "title": "For Macbook Air M4 13 inch A3240 Touchpad (Midnight)",
+   "product_id": "16019623667063748650",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:16019623667063748650,headlineOfferDocid:16019623667063748650,imageDocid:3945499012747086041,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Garmade",
+   "price": "₹9,132.69",
+   "extracted_price": 9132.69,
+   "alternative_price": {
+    "price": "€84",
+    "extracted_price": 84,
+    "currency": "€"
+   },
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 20,
+   "title": "For Macbook Air M4 13 inch A3240 Original Touchpad PCB Board",
+   "product_id": "4171772016946880381",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:4171772016946880381,headlineOfferDocid:4171772016946880381,imageDocid:3604230455232602943,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Garmade",
+   "price": "₹7,264.35",
+   "extracted_price": 7264.35,
+   "alternative_price": {
+    "price": "€67",
+    "extracted_price": 67,
+    "currency": "€"
+   },
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 21,
+   "title": "- Matte Case for MacBook Air 13 inch M5/M4/M3/M2 2026-2022, Midnight",
+   "product_id": "6915268521252889552",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:6915268521252889552,headlineOfferDocid:6915268521252889552,imageDocid:10855150454920360244,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹3,752",
+   "extracted_price": 3752,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 22,
+   "title": "EooCoo Case for MacBook Air 13 inch M5 M4 M3 M2 2026-2022, Midnight Clear",
+   "product_id": "7569759669059168273",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:7569759669059168273,headlineOfferDocid:7569759669059168273,imageDocid:14297307729157399195,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹4,485",
+   "extracted_price": 4485,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 23,
+   "title": "Case for MacBook Air 13 inch M5 M4 M3 M2 2026-2022, Matte Midnight",
+   "product_id": "5567341579015249895",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:5567341579015249895,headlineOfferDocid:5567341579015249895,imageDocid:11710245493153899149,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹2,684",
+   "extracted_price": 2684
+  },
+  {
+   "position": 24,
+   "title": "EooCoo Matte Case for MacBook Air 13 inch M5/M4/M3/M2 2026-2022, Starlight",
+   "product_id": "8570105877091323766",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:8570105877091323766,headlineOfferDocid:8570105877091323766,imageDocid:16824519239318104627,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹2,134",
+   "extracted_price": 2134
+  },
+  {
+   "position": 25,
+   "title": "Transparent Arc Reactor MacBook Air 13 M4 2025 Laptop Skin Top Lid + Keypad",
+   "product_id": "3566066703509515248",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=catalogid:3566066703509515248,productid:13535837322938877095,headlineOfferDocid:5034453777128145196,imageDocid:14517469439656783738,gpcid:6515303598175129435,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Fomo Store",
+   "price": "₹1,399",
+   "extracted_price": 1399,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 26,
+   "title": "EooCoo Case for MacBook Air 13 inch M5 M4 M3 M2 2026-2022, Sky Blue Clear",
+   "product_id": "15601563712016714566",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:15601563712016714566,headlineOfferDocid:15601563712016714566,imageDocid:13820984827118527547,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹3,313",
+   "extracted_price": 3313
+  },
+  {
+   "position": 27,
+   "title": "13 Inch Laptop Shoulder Bag Leather Carrying Case for Macbook Air 13 inch M4 ...",
+   "product_id": "7621180495118578327",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:7621180495118578327,headlineOfferDocid:7621180495118578327,imageDocid:906299650875505353,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹8,052",
+   "extracted_price": 8052,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 28,
+   "title": "Microcase MacBook Air 13 inch M4 2025 için Çok Amaçlı Sleeve Tipi Çanta AL5422",
+   "product_id": "17210739509780539979",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:17210739509780539979,headlineOfferDocid:17210739509780539979,imageDocid:16787627038352266126,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹1,851",
+   "extracted_price": 1851
+  },
+  {
+   "position": 29,
+   "title": "AKIT for MacBook Air 13 inch Case M5 M4 M3 M2 2026-2022, Starlight Clear",
+   "product_id": "8340946138711596444",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:8340946138711596444,headlineOfferDocid:8340946138711596444,imageDocid:1733766396220256955,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹2,498",
+   "extracted_price": 2498
+  },
+  {
+   "position": 30,
+   "title": "AKIT for MacBook Air 13 inch Case M5 M4 M3 M2 2026-2022, SumPink",
+   "product_id": "18257874483057745299",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:18257874483057745299,headlineOfferDocid:18257874483057745299,imageDocid:8120189613587110553,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "price": "₹3,698.69",
+   "extracted_price": 3698.69
+  },
+  {
+   "position": 31,
+   "title": "EooCoo for MacBook Air 13 inch Case M5/M4/M3/M2 2026-2022, Starlight",
+   "product_id": "3886541537492941815",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:3886541537492941815,headlineOfferDocid:3886541537492941815,imageDocid:16691771136297452529,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "price": "₹3,169.94",
+   "extracted_price": 3169.94
+  },
+  {
+   "position": 32,
+   "title": "UESWILL 4in1 Compatible with 2022-2026 MacBook Air 13 inch M2 M3 M4 M5 case A3449 A3240 A3113 A2681, Hard Shell Case Keyboard Cover Screen",
+   "product_id": "18117761611069000855",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:18117761611069000855,headlineOfferDocid:18117761611069000855,imageDocid:10223997670887395147,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹4,139",
+   "extracted_price": 4139
+  },
+  {
+   "position": 33,
+   "title": "BlueSwan for MacBook Air 13 inch Case, M5 M4 M3 M2 2026-2022 Laptop Cover",
+   "product_id": "10617484693982417930",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:10617484693982417930,headlineOfferDocid:10617484693982417930,imageDocid:4399179751668028287,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹5,548",
+   "extracted_price": 5548,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 34,
+   "title": "Compatible with MacBook Air 13 inch Case M5 M4 M3 M2 2026-2022",
+   "product_id": "17378710427560809908",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:17378710427560809908,headlineOfferDocid:17378710427560809908,imageDocid:13748844068735713450,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹2,918",
+   "extracted_price": 2918,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 35,
+   "title": "Compatible with MacBook Air 13 inch Case M5 M4 M3 M2, Midnight Clear",
+   "product_id": "3207219123803992738",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:3207219123803992738,headlineOfferDocid:3207219123803992738,imageDocid:939738101082025225,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹5,525",
+   "extracted_price": 5525,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 36,
+   "title": "DTangLsm for Rugged MacBook Air 13 inch Case 2026-2022 M5 M4 M3 M2, Purple",
+   "product_id": "4433300848255407511",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:4433300848255407511,headlineOfferDocid:4433300848255407511,imageDocid:4809287414326610096,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "price": "₹7,820",
+   "extracted_price": 7820
+  },
+  {
+   "position": 37,
+   "title": "Transparent Red Flame Supercar MacBook Air 13 M4 2025 Laptop Skin Top Lid + Keypad",
+   "product_id": "3093125394266905508",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=catalogid:3093125394266905508,productid:14888394952495842227,headlineOfferDocid:3842854185378685781,imageDocid:4296850679552014564,gpcid:9998801661306897175,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Fomo Store",
+   "price": "₹1,399",
+   "extracted_price": 1399,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 38,
+   "title": "EooCoo Case for MacBook Air 13 inch M5/M4/M3/M2 2026-2022, Starlight",
+   "product_id": "10397801602855494787",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=productid:10397801602855494787,headlineOfferDocid:10397801602855494787,imageDocid:9826616648312734286,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "amazon.in",
+   "price": "₹4,201",
+   "extracted_price": 4201
+  },
+  {
+   "position": 39,
+   "title": "Apple iPad Air M4",
+   "product_id": "10435569698800216781",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=catalogid:10435569698800216781,productid:4002215145586265025,headlineOfferDocid:14781624351739521437,imageDocid:16087370123179330359,rds:PC_1513566482565011719|PROD_PC_1513566482565011719,gpcid:2862006013643820842,mid:576462913717309030,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Desertcart.ae",
+   "price": "₹1,06,604.51",
+   "extracted_price": 106604.51,
+   "second_hand_condition": "pre-owned",
+   "rating": 5.0,
+   "reviews": 1,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 40,
+   "title": "Transparent MacBook Air 13 M4 2025 Laptop Skin Top Lid + Keypad",
+   "product_id": "2989699166689620671",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=MacBook Air M4 13 inch&prds=catalogid:2989699166689620671,productid:167237571352116068,headlineOfferDocid:12088915353314356173,imageDocid:4158760460912201510,gpcid:2104403512921066802,mid:576462567109323314,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Fomo Store",
+   "price": "₹1,399",
+   "extracted_price": 1399,
+   "delivery": "Free delivery"
+  }
+ ]
+}

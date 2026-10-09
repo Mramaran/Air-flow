@@ -1,0 +1,671 @@
+{
+ "_replay": true,
+ "_captured_at": "2026-10-09 17:41 UTC",
+ "search_metadata": {
+  "id": "6ac92706b6a867235bdeb179",
+  "status": "Success",
+  "created_at": "2026-10-09 17:40:22 UTC",
+  "processed_at": "2026-10-09 17:40:22 UTC",
+  "total_time_taken": 1.19
+ },
+ "search_parameters": {
+  "engine": "google_shopping",
+  "q": "Dell XPS 13 laptop",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "shopping_results": [
+  {
+   "position": 1,
+   "title": "Dell XPS 13 9350 13.4\" Laptop, Intel Core Ultra 7 258V, 32GB RAM, 1TB SSD",
+   "product_id": "11279810762872635995",
+   "multiple_sources": true,
+   "price": "$1,400+",
+   "extracted_price": 1400,
+   "rating": 3.9,
+   "reviews": 678
+  },
+  {
+   "position": 2,
+   "title": "Dell XPS 13 9350 (13.40\", 512 GB, 16 GB, CH, Intel Core Ultra 7 256V), Notebooks, Silver",
+   "product_id": "4695848189732871680",
+   "multiple_sources": true,
+   "price": "€1,700+",
+   "extracted_price": 1700,
+   "rating": 5.0,
+   "reviews": 525
+  },
+  {
+   "position": 3,
+   "title": "Dell XPS 13 Laptop - Windows 11 & Intel Core Ultra 7 - 32GB - 1T - oxn9340130001rin",
+   "product_id": "6509908313309768766",
+   "multiple_sources": true,
+   "price": "₹1,77,668+",
+   "extracted_price": 177668,
+   "rating": 3.5,
+   "reviews": 1
+  },
+  {
+   "position": 4,
+   "title": "Dell XPS 13 Laptop - w/ Intel Core Ultra 7 - 13.4\" FHD Screen - 32GB - 1T - AI Capable - SXN93401200RAUH",
+   "product_id": "4198330528239620631",
+   "multiple_sources": true,
+   "price": "A$3,100+",
+   "extracted_price": 3100,
+   "rating": 3.3,
+   "reviews": 1
+  },
+  {
+   "position": 5,
+   "title": "Dell XPS 13 Laptop - w/ Intel Core Ultra 7 - 13.4\" 3K Touch Screen - 32GB - 1T - AI Capable - SXN9340130002MAUW",
+   "product_id": "6110137792027064776",
+   "multiple_sources": true,
+   "price": "A$6,000+",
+   "extracted_price": 6000
+  },
+  {
+   "position": 6,
+   "title": "Samsonite Zipprix ft Expandable Spinner Trolley Bag",
+   "product_id": "922662965325950840",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:922662965325950840,productid:603587757173078469,headlineOfferDocid:8593689182529252188,imageDocid:11607464034149452820,rds:PC_11824198737611868058|PROD_PC_11824198737611868058,gpcid:13943453820828755645,mid:576462574873490468,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Lifestylestores.com",
+   "multiple_sources": true,
+   "price": "₹14,400",
+   "extracted_price": 14400,
+   "old_price": "₹15,400",
+   "extracted_old_price": 15400,
+   "rating": 3.9,
+   "reviews": 16,
+   "tag": "6% OFF",
+   "extensions": [
+    "6% OFF"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 7,
+   "title": "ASUS ROG Flow Z13 13.4\" 180Hz WQXGA 2-in-1 Touchscreen Gaming Laptop",
+   "product_id": "7612809309414938444",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:7612809309414938444,productid:7902266162825856793,headlineOfferDocid:9982820712860528211,imageDocid:8450709797531544590,gpcid:6884284179426335113,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹3,20,294",
+   "extracted_price": 320294,
+   "old_price": "Usually ₹3,77,864",
+   "extracted_old_price": 377864,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 8,
+   "title": "GEYUTOTE DXGH8 52Wh 7.6V Battery for Dell XPS 13 9370/9380 2019",
+   "product_id": "10957344956307237383",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:10957344956307237383,productid:13409697066855604872,headlineOfferDocid:13630054323921623790,imageDocid:3604259082751892305,gpcid:1227308040228460084,mid:576462531121264712,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹1,663",
+   "extracted_price": 1663,
+   "old_price": "Was ₹3,157",
+   "extracted_old_price": 3157,
+   "tag": "47% OFF",
+   "extensions": [
+    "47% OFF"
+   ]
+  },
+  {
+   "position": 9,
+   "title": "Asus UX3405CA-QL1111WS Intel Core Ultra 5 225H 14 Inches",
+   "product_id": "17775178730720455279",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:17775178730720455279,productid:9690422618643687411,headlineOfferDocid:4047071637549674598,imageDocid:1910505172833169870,rds:PC_15494035999379520452|PROD_PC_15494035999379520452,gpcid:4402097316748090049,mid:576462912502466055,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹1,08,990",
+   "extracted_price": 108990,
+   "old_price": "Usually ₹1,24,990",
+   "extracted_old_price": 124990,
+   "rating": 5.0,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 10,
+   "title": "GIGABYTE G6X 9KG-43IN853SH,Intel i7-13650HX,Geforce Rtx 406016.0\" 16:10 WUXGA 165Hz Display",
+   "product_id": "3514263936605413041",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:3514263936605413041,productid:8368168045196330838,headlineOfferDocid:5698574651999662126,imageDocid:13656225929108695037,gpcid:12787923927736832218,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "GameLoot",
+   "price": "₹63,000",
+   "extracted_price": 63000,
+   "old_price": "Usually ₹83,499",
+   "extracted_old_price": 83499,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 11,
+   "title": "HP ZBook 8 G1i 14 inch Mobile Workstation PC Data Science -14 \" -35.6 cm diagonal",
+   "product_id": "1644270277789849255",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:1644270277789849255,productid:5129281877298998258,headlineOfferDocid:7843635544884920944,imageDocid:14291832070807185075,rds:PC_1015281950693761436|PROD_PC_1015281950693761436,gpcid:1015281950693761436,mid:576462913281527135,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Ampro | The Laptop Store",
+   "multiple_sources": true,
+   "price": "₹1,88,682",
+   "extracted_price": 188682,
+   "old_price": "Usually ₹2,21,780",
+   "extracted_old_price": 221780,
+   "rating": 1.2,
+   "reviews": 54,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 12,
+   "title": "HP OmniBook 5 Qualcomm Snapdragon X 16 Inches",
+   "product_id": "16421340095869139974",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:16421340095869139974,productid:681703660180396843,headlineOfferDocid:15978194080114081572,imageDocid:6852112807116663542,rds:PC_9565939292679654985|PROD_PC_9565939292679654985,gpcid:9565939292679654985,mid:576462912332134468,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Amazon.in",
+   "multiple_sources": true,
+   "price": "₹78,990",
+   "extracted_price": 78990,
+   "old_price": "₹85,965",
+   "extracted_old_price": 85965,
+   "rating": 5.0,
+   "reviews": 177,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 13,
+   "title": "HP Elite Dragonfly Notebook PC",
+   "product_id": "3205352206986610368",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:3205352206986610368,productid:3891869371532150823,headlineOfferDocid:11325482871773611671,imageDocid:16110858781535245247,rds:PC_16964424665049055019|PROD_PC_16964424665049055019,gpcid:16964424665049055019,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹2,60,026",
+   "extracted_price": 260026,
+   "old_price": "Usually ₹5,62,563",
+   "extracted_old_price": 562563,
+   "rating": 5.0,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 14,
+   "title": "Samsung Galaxy Z Fold6 5g",
+   "product_id": "12514205438694561537",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:12514205438694561537,productid:13015338141931926054,headlineOfferDocid:17068754054530590653,imageDocid:17272080965809262744,rds:PC_9620232089973811057|PROD_PC_9620232089973811057,gpcid:9620232089973811057,mid:576462781962475347,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Cashify",
+   "multiple_sources": true,
+   "price": "₹77,799",
+   "extracted_price": 77799,
+   "old_price": "Usually ₹84,999",
+   "extracted_old_price": 84999,
+   "rating": 4.7,
+   "reviews": 14000,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 15,
+   "title": "HP Victus 15-fa1279TX Gaming Laptop",
+   "product_id": "8670672898416920584",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:8670672898416920584,productid:15293693785447864679,headlineOfferDocid:14762814000184376656,imageDocid:6486505698748334729,rds:PC_5341551324338239235|PROD_PC_5341551324338239235,gpcid:5341551324338239235,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹71,499",
+   "extracted_price": 71499,
+   "old_price": "Usually ₹1,12,690",
+   "extracted_old_price": 112690,
+   "rating": 4.0,
+   "reviews": 96,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 16,
+   "title": "Philips PowerPro FC9352/01 Compact Bagless Vacuum Cleaner",
+   "product_id": "5580682819866896801",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:5580682819866896801,productid:17943584551491389135,headlineOfferDocid:13245495094605639821,imageDocid:16614696129752412987,rds:PC_15788795781099499160|PROD_PC_15788795781099499160,gpcid:15788795781099499160,mid:576462775812976304,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Ysvara Lifestyle",
+   "multiple_sources": true,
+   "price": "₹8,499",
+   "extracted_price": 8499,
+   "old_price": "Usually ₹9,398",
+   "extracted_old_price": 9398,
+   "rating": 5.0,
+   "reviews": 192,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 17,
+   "title": "Samsung Galaxy S23 5G",
+   "product_id": "1790921855113839763",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:1790921855113839763,productid:7158416808814326488,headlineOfferDocid:3322330609579034782,imageDocid:5707270749611107243,rds:PC_16982046951681519143|PROD_PC_16982046951681519143,gpcid:1643371804707035193,mid:576462568254858921,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "FoneZone.com",
+   "multiple_sources": true,
+   "price": "₹28,026.41",
+   "extracted_price": 28026.41,
+   "old_price": "Usually ₹34,999",
+   "extracted_old_price": 34999,
+   "rating": 5.0,
+   "reviews": 1100,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 18,
+   "title": "Cetaphil Gentle Cleanser Skin",
+   "product_id": "255024177731212667",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:255024177731212667,productid:17718891162747887648,headlineOfferDocid:5408643037560057537,imageDocid:10531058223354257589,rds:PC_8585170759398157317|PROD_PC_8585170759398157317,gpcid:2223846013104451921,mid:576462567186097626,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Indofussion",
+   "multiple_sources": true,
+   "price": "₹1,450",
+   "extracted_price": 1450,
+   "old_price": "Usually ₹1,728",
+   "extracted_old_price": 1728,
+   "rating": 4.9,
+   "reviews": 142,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 19,
+   "title": "Samsung Galaxy Z Flip8 5G",
+   "product_id": "18143058188352021450",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:18143058188352021450,productid:10205857962577313703,headlineOfferDocid:4539737399785475195,imageDocid:14075732193821224595,rds:PC_10762670794191381774|PROD_PC_10762670794191381774,gpcid:10762670794191381774,mid:576462912332219701,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "BytePe",
+   "multiple_sources": true,
+   "price": "₹1,06,999",
+   "extracted_price": 106999,
+   "old_price": "Usually ₹1,14,999",
+   "extracted_old_price": 114999,
+   "rating": 3.1,
+   "reviews": 16000,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 20,
+   "title": "HP Spectre Folio Laptop",
+   "product_id": "12843254144261742362",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:12843254144261742362,productid:8763874644815742688,headlineOfferDocid:17463268846448439579,imageDocid:2312898893286180577,gpcid:7861645418432992351,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Shopsy By Flipkart",
+   "multiple_sources": true,
+   "price": "₹1,45,999",
+   "extracted_price": 145999,
+   "old_price": "Usually ₹1,65,556",
+   "extracted_old_price": 165556,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 21,
+   "title": "Lenovo Yoga Slim 7X 14\" Laptop",
+   "product_id": "4650115921092218247",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:4650115921092218247,productid:12509415962113567962,headlineOfferDocid:12041896057220643732,imageDocid:4409660035067667667,rds:PC_5321940188476680199|PROD_PC_5321940188476680199,gpcid:12002883713854092244,mid:576462567970732499,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Laptop Store",
+   "multiple_sources": true,
+   "price": "₹1,41,600",
+   "extracted_price": 141600,
+   "old_price": "Usually ₹1,56,200",
+   "extracted_old_price": 156200,
+   "rating": 5.0,
+   "reviews": 54,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 22,
+   "title": "Philips Air Fryer NA231/00 with touch panel",
+   "product_id": "12282974302784641962",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:12282974302784641962,productid:7352404723733760106,headlineOfferDocid:13958327299572952509,imageDocid:7988155861420861682,rds:PC_5289664395330128235|PROD_PC_5289664395330128235,gpcid:7778596281036738219,mid:576462537528642814,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Mobex",
+   "multiple_sources": true,
+   "price": "₹7,800",
+   "extracted_price": 7800,
+   "old_price": "Usually ₹9,599",
+   "extracted_old_price": 9599,
+   "rating": 3.1,
+   "reviews": 902,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 23,
+   "title": "Asus ROG Flow Z13 2025 2024 + M365 Basic ,Ai AMD Ryzen Ai Max",
+   "product_id": "10961363940946484649",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:10961363940946484649,productid:16818119165691797970,headlineOfferDocid:13213669806576318989,imageDocid:3675984243334331189,rds:PC_89209562683121498|PROD_PC_89209562683121498,gpcid:89209562683121498,mid:576462914491473777,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹2,49,990",
+   "extracted_price": 249990,
+   "old_price": "Usually ₹2,79,990",
+   "extracted_old_price": 279990,
+   "rating": 4.5,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 24,
+   "title": "Apollo 13 DVD",
+   "product_id": "11802571051989271376",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:11802571051989271376,productid:16813228064831984406,headlineOfferDocid:8739485661371676668,imageDocid:5735523228534423710,gpcid:14729123822291796808,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "multiple_sources": true,
+   "price": "₹2,880",
+   "extracted_price": 2880,
+   "old_price": "Usually ₹3,088",
+   "extracted_old_price": 3088,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 25,
+   "title": "Samsung Galaxy Z Flip8 5G",
+   "product_id": "6193079175125381497",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:6193079175125381497,productid:9836571003120423781,headlineOfferDocid:986549509571032294,imageDocid:14583772153488333869,rds:PC_10762670794191381774|PROD_PC_10762670794191381774,gpcid:9156439540788444269,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Keni Electronics",
+   "multiple_sources": true,
+   "price": "₹1,24,999",
+   "extracted_price": 124999,
+   "old_price": "Usually ₹1,34,999",
+   "extracted_old_price": 134999,
+   "rating": 5.0,
+   "reviews": 16000,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Sun"
+  },
+  {
+   "position": 26,
+   "title": "HP OmniBook 5 14-he0015QU Qualcomm Snapdragon X Thin & Light Laptop",
+   "product_id": "15118579854480107953",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:15118579854480107953,productid:7413535061226292464,headlineOfferDocid:11380392548709392024,imageDocid:6420178273787448545,rds:PC_7327594639952475614|PROD_PC_7327594639952475614,gpcid:7327594639952475614,mid:576462567978706770,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Meetel Computer's & Coated Paper Co.",
+   "multiple_sources": true,
+   "price": "₹68,093.39",
+   "extracted_price": 68093.39,
+   "old_price": "Usually ₹85,990",
+   "extracted_old_price": 85990,
+   "rating": 2.5,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 27,
+   "title": "HP Laptop 14-ep0385TU",
+   "product_id": "4208316715018060419",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:4208316715018060419,productid:9949926586490840962,headlineOfferDocid:3542708796758218503,imageDocid:8926708662475096317,gpcid:17070876925940577138,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Gadgets Now",
+   "multiple_sources": true,
+   "price": "₹60,900",
+   "extracted_price": 60900,
+   "old_price": "Usually ₹69,800",
+   "extracted_old_price": 69800,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 28,
+   "title": "Philips Air Fryer",
+   "product_id": "18302610929580970928",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:18302610929580970928,productid:661566694047855005,headlineOfferDocid:6544854249051692247,imageDocid:8414335143160095594,rds:PC_14204841388305609910|PROD_PC_14204841388305609910,gpcid:14204841388305609910,mid:576462914491893964,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "KefaMart",
+   "price": "₹4,981",
+   "extracted_price": 4981,
+   "old_price": "Usually ₹5,244",
+   "extracted_old_price": 5244,
+   "rating": 2.7,
+   "reviews": 1500,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 29,
+   "title": "New Mamypoko Pants Premium All Night Absorb Pant Style Baby Diapers",
+   "product_id": "13022269136402992181",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:13022269136402992181,productid:6901913910087264912,headlineOfferDocid:5130427009358216462,imageDocid:12725578375995302393,rds:PC_16628601120359057200|PROD_PC_16628601120359057200,gpcid:4876255474902097450,mid:576462574797108467,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "firstcry.com",
+   "multiple_sources": true,
+   "price": "₹544.43",
+   "extracted_price": 544.43,
+   "old_price": "₹899",
+   "extracted_old_price": 899,
+   "rating": 4.6,
+   "reviews": 87
+  },
+  {
+   "position": 30,
+   "title": "Apple iPad Air M4 Wi-Fi",
+   "product_id": "2860364763255088985",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:2860364763255088985,productid:8285775565376589810,headlineOfferDocid:16830645798798330527,imageDocid:1248365548361204169,rds:PC_18058549628471148680|PROD_PC_18058549628471148680,gpcid:18058549628471148680,mid:576462873942770782,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "MacStation",
+   "multiple_sources": true,
+   "price": "₹1,01,900",
+   "extracted_price": 101900,
+   "old_price": "Usually ₹1,13,900",
+   "extracted_old_price": 113900,
+   "rating": 5.0,
+   "reviews": 1900,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 31,
+   "title": "HP OmniBook 7 Aero AMD Ryzen AI 7 350",
+   "product_id": "13070275272757404151",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:13070275272757404151,productid:3136200434560004943,headlineOfferDocid:17139222433642420866,imageDocid:18164710260754625874,rds:PC_5608595172877730357|PROD_PC_5608595172877730357,gpcid:5608595172877730357,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Flipkart",
+   "multiple_sources": true,
+   "price": "₹81,489",
+   "extracted_price": 81489,
+   "old_price": "23% off₹1,06,308",
+   "extracted_old_price": 23,
+   "rating": 4.4,
+   "reviews": 1,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 32,
+   "title": "Samsung Galaxy S23 Ultra 5G",
+   "product_id": "16568026728827936021",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:16568026728827936021,productid:1475722918602387937,headlineOfferDocid:6514473094363936868,imageDocid:5272041747562492260,rds:PC_12669255127956214376|PROD_PC_12669255127956214376,gpcid:12669255127956214376,mid:576462446255893170,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹86,684",
+   "extracted_price": 86684,
+   "old_price": "Usually ₹1,04,588",
+   "extracted_old_price": 104588,
+   "rating": 5.0,
+   "reviews": 39000,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 33,
+   "title": "CQCBD 52twh Battery for Dell XPS 13 7390 2-in-1 Series Notebook P103G P103G001 P103G002 MM6M8 0MM6M8 XX3T7 0XX3T7",
+   "product_id": "473533533864844186",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:473533533864844186,productid:466234527883092657,headlineOfferDocid:9526025317858109562,imageDocid:13279460730002989688,gpcid:11892742185578280085,mid:576462567028377002,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "price": "₹2,842",
+   "extracted_price": 2842,
+   "old_price": "Was ₹3,972",
+   "extracted_old_price": 3972,
+   "tag": "28% OFF",
+   "extensions": [
+    "28% OFF"
+   ]
+  },
+  {
+   "position": 34,
+   "title": "ASUS Zenbook A14 Oled",
+   "product_id": "15474139972142162430",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:15474139972142162430,productid:4224258027348154381,headlineOfferDocid:7823874733067874341,imageDocid:15300049009814384077,rds:PC_16836230997522270309|PROD_PC_16836230997522270309,gpcid:16836230997522270309,mid:576462913322914342,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Shopsy By Flipkart",
+   "multiple_sources": true,
+   "price": "₹79,799",
+   "extracted_price": 79799,
+   "old_price": "Usually ₹85,990",
+   "extracted_old_price": 85990,
+   "rating": 1.3,
+   "reviews": 1,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 35,
+   "title": "OPPO F33 5G",
+   "product_id": "12196055424189306180",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:12196055424189306180,productid:1534181591542707420,headlineOfferDocid:10155588912324314862,imageDocid:10669887992023295026,gpcid:13941958278306007621,mid:576462898601480534,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "EW Shopping",
+   "multiple_sources": true,
+   "price": "₹33,174",
+   "extracted_price": 33174,
+   "old_price": "Usually ₹34,999",
+   "extracted_old_price": 34999,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery by Thu"
+  },
+  {
+   "position": 36,
+   "title": "Apple MacBook Air",
+   "product_id": "10165828444934026088",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:10165828444934026088,productid:12173396633665256366,headlineOfferDocid:635503247306780739,imageDocid:2916406770678823656,rds:PC_8602998232814770163|PROD_PC_8602998232814770163,gpcid:8602998232814770163,mid:576462562025329966,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "RSG Solutions",
+   "multiple_sources": true,
+   "price": "₹1,67,208.47",
+   "extracted_price": 167208.47,
+   "old_price": "Usually ₹1,94,990",
+   "extracted_old_price": 194990,
+   "rating": 5.0,
+   "reviews": 3800,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 37,
+   "title": "Fujitsu UH-X 11th Gen Intel Core i7 13.3” FHD IPS 400Nits Thin & Light Laptop",
+   "product_id": "8123553238157407835",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:8123553238157407835,productid:8945355426976063436,headlineOfferDocid:5402945742806073193,imageDocid:12092446691314384155,rds:PC_2074969917596516618|PROD_PC_2074969917596516618,gpcid:2074969917596516618,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "HiLaptop.com",
+   "multiple_sources": true,
+   "price": "₹51,870",
+   "extracted_price": 51870,
+   "rating": 5.0,
+   "reviews": 40
+  },
+  {
+   "position": 38,
+   "title": "Samsung Galaxy S23 5G",
+   "product_id": "1790921855113839763",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:1790921855113839763,productid:7158416808814326488,headlineOfferDocid:4662424249968883216,imageDocid:5707270749611107243,rds:PC_16982046951681519143|PROD_PC_16982046951681519143,gpcid:1643371804707035193,mid:576462568254858921,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "ubuy.co.in",
+   "multiple_sources": true,
+   "price": "₹36,761",
+   "extracted_price": 36761,
+   "old_price": "Usually ₹39,400",
+   "extracted_old_price": 39400,
+   "rating": 5.0,
+   "reviews": 1100,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ]
+  },
+  {
+   "position": 39,
+   "title": "Surface Pro 2026, 13\" OLED 2-in-1 Laptop Tablet (12th Gen), 3K 120Hz Touchscreen, Snapdragon X2 Elite AI Copilot+ PC, Wi-Fi 7, USB4, 16GB RAM, 1TB SSD",
+   "product_id": "13259890052214390839",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:13259890052214390839,productid:12027089301676364289,headlineOfferDocid:8967960128850730273,imageDocid:7910901523587532632,gpcid:17754834478749816699,mid:576462914987583943,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "desertcart.in",
+   "price": "₹4,28,747",
+   "extracted_price": 428747,
+   "delivery": "Free delivery"
+  },
+  {
+   "position": 40,
+   "title": "Samsung Galaxy Z Flip7 5G",
+   "product_id": "14920878537807344518",
+   "product_link": "https://www.google.com/search?ibp=oshop&q=Dell XPS 13 laptop&prds=catalogid:14920878537807344518,productid:5802040680972324610,headlineOfferDocid:5016288067792135127,imageDocid:1668901024894789987,rds:PC_10192101424008708893|PROD_PC_10192101424008708893,gpcid:13835979194398808840,mid:576462574885856587,pvt:hg&hl=en&gl=in&udm=28",
+   "source": "Shopsy By Flipkart",
+   "multiple_sources": true,
+   "price": "₹95,999",
+   "extracted_price": 95999,
+   "old_price": "Usually ₹1,09,999",
+   "extracted_old_price": 109999,
+   "rating": 5.0,
+   "reviews": 14000,
+   "tag": "LOW PRICE",
+   "extensions": [
+    "LOW PRICE"
+   ],
+   "delivery": "Free delivery"
+  }
+ ]
+}

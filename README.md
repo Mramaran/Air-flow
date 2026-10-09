@@ -10,7 +10,7 @@ An [Apache Airflow](https://airflow.apache.org/) provider for [SerpApi](https://
 | `SerpApiBatchSearchOperator` | Submits many searches at once, then **releases the worker** while one trigger waits for all the results. Checks your search quota first. |
 | `SerpApiThresholdSensor` | Succeeds when a number from a search **crosses** a line, such as a price falling below ₹60,000. Fires on the crossing, not on every run where the price is low. |
 | `SerpApiSearchOperator` | Runs one search and returns flat rows. |
-| `SerpApiHook` | The connection type, with a working **Test** button in Airflow's connection form. |
+| `SerpApiHook` | The connection type, with its own form in Airflow and support for Airflow's connection test. |
 
 No language model is involved anywhere.
 
@@ -35,7 +35,7 @@ Open <http://localhost:8080>. No login is needed. Then:
 1. Trigger **`price_tracker`**. Watch `fetch_prices` turn **deferred**: 20 searches are in flight and no worker is held. Open the log of `report_lowest_prices` to see the price table.
 2. Trigger **`quota_guard_demo`**. It fails in a few seconds, before any search is sent, and its log says why.
 3. Trigger **`price_drop_alert`**. The sensor fires and the alert task runs. Trigger it again: it now waits, because the price has not crossed the line a second time.
-4. Go to **Admin → Connections → Add connection** and pick **SerpApi**. The form shows only an API key and an optional base URL.
+4. Go to **Admin → Connections → Add Connection** and pick **SerpApi**. The form shows an API key and an optional base URL in place of the generic host, login and port fields.
 
 Everything the replay server returns is marked `"_replay": true`, and its sellers are called "Replay Store". It is not real search data.
 
@@ -211,6 +211,7 @@ See [docs/async-check.md](docs/async-check.md) for what was measured on a live a
 - The sensor's memory is an Airflow Variable. Deleting it resets the crossing state.
 - Row extractors cover three engines.
 - The connection form layout was checked on Airflow 3.3.2 only.
+- In Airflow 3.3.2 the **Test Connection** button in the connections list fails with "Bad Request" for any saved connection that has no port, including Airflow's own HTTP type: the interface sends port 0 and the API rejects the mismatch with the stored empty port. Test from the command line instead: `airflow connections test <connection id>`.
 
 ## Project layout
 

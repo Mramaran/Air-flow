@@ -1,0 +1,2 @@
+# The code runs in a Linux container, so keep LF line endings on every platform.
+* text=auto eol=lf

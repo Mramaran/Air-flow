@@ -19,11 +19,11 @@ No language model is involved anywhere.
 You need Docker. The default stack runs against a small replay server, so it needs no SerpApi account and spends no searches.
 
 ```bash
-git clone https://github.com/OWNER/airflow-provider-serpapi.git
+git clone https://github.com/Mramaran/Air-flow.git
 ```
 
 ```bash
-cd airflow-provider-serpapi
+cd Air-flow
 ```
 
 ```bash
@@ -58,7 +58,7 @@ Every new search is now counted against your account. `price_tracker` uses up to
 Requires Airflow 3.0 or later, with a triggerer running.
 
 ```bash
-pip install "git+https://github.com/OWNER/airflow-provider-serpapi.git"
+pip install "git+https://github.com/Mramaran/Air-flow.git"
 ```
 
 Create a connection of type **SerpApi** with your key in the **API key** field, or set it from the environment:
